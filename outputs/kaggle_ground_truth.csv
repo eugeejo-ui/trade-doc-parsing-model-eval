@@ -1,0 +1,1415 @@
+﻿src,invoice_number,invoice_date,due_date,seller_name,client_name,total,tax,n_items,amt
+batch1_1,84652373,02/23/2021,,Nguyen-Roach,Clark-Foster,232.95,21.18,5,232.95
+batch1_1,37451664,06/11/2020,,Scott-Howard,"Williams, Schneider and Gomez",153.92,13.99,2,153.92
+batch1_1,40108666,02/07/2020,,"Bailey, Murray and Lewis",Hester Inc,498.21,45.29,3,498.21
+batch1_1,73285932,07/25/2017,,"Merritt, Williams and Young","Olson, Cisneros and Moore",677.47,61.59,7,677.47
+batch1_1,15288019,09/07/2014,,Fernandez Ltd,Wilson-Wilson,1.71,0.16,1,1.71
+batch1_1,57290992,10/03/2011,,Adams PLC,"Johnson, Daniels and Ramirez","70 577,35","6 416,12",3,7057735.0
+batch1_1,56908352,01/11/2015,,"Lozano, Wang and Smith","Evans, Curtis and Salinas",188.11,17.10,3,188.11
+batch1_1,20012449,04/22/2013,,Jackson Ltd,Combs Inc,"360,58","32,78",2,36058.0
+batch1_1,87734908,12/19/2019,,"Chase, Green and Bailey","Buckley, Wright and Chase",6.58,0.60,1,6.58
+batch1_1,92059706,04/28/2017,,"Archer, Davis and Hudson","Barton, Decker and Ferguson",3 838.87,348.99,3,3838.87
+batch1_1,72591450,05/13/2012,,"Bishop, Kelley and Wright","Allen, Murray and Carroll","5 283,18","480,29",7,528318.0
+batch1_1,35593328,06/08/2011,,Cruz-Carter,Alexander-Arias,3004.96,273.18,4,3004.96
+batch1_1,32135544,08/16/2014,,Reed and Sons,Lucas-Barnett,689.19,62.65,6,689.19
+batch1_1,67117171,01/27/2021,,"Gilmore, Brady and Carter",Phillips-Moreno,172.22,15.66,2,172.22
+batch1_1,86164702,05/15/2020,,"Peterson, Hester and Mckee","Hernandez, Wright and Pena","714,95","65,00",1,71495.0
+batch1_1,46920651,11/15/2015,,Powell Ltd,"Clark, Brown and Jones",386.60,38.66,7,386.6
+batch1_1,15001300,02/18/2014,,"Kerr, Ryan and Gomez",Mason Ltd,327.08,29.73,5,327.08
+batch1_1,25210895,05/14/2019,,Lyons Inc,Watson-Blanchard,89.06,8.10,2,89.06
+batch1_1,76619276,11/16/2011,,"Bailey, Adams and Pacheco",Morgan Ltd,343.87,31.26,3,343.87
+batch1_1,49565075,10/28/2019,,Kane-Morgan,Garcia Inc,96.73,8.79,3,96.73
+batch1_1,36475327,08/23/2020,,Faulkner Group,Mendoza-Scott,5605.15,509.56,7,5605.15
+batch1_1,65123866,11/20/2012,,"Potts, Pittman and Beck",Garcia-Perkins,913.65,83.06,6,913.65
+batch1_1,61819195,08/28/2019,,Mason-Beltran,"Morrison, Stewart and Graham",312.04,28.37,3,312.04
+batch1_1,20295549,11/20/2011,,Williams-Morris,Ward-Jordan,7237.02,657.91,6,7237.02
+batch1_1,63131640,06/21/2015,,White PLC,"Richards, Williams and Houston",740.69,67.34,4,740.69
+batch1_1,78605417,08/07/2017,,Campos LLC,Wilson-Hernandez,722.11,65.65,7,722.11
+batch1_1,33102457,09/18/2018,,Harris LLC,"Pierce, Bush and Jones","18 281,24","1 661,93",2,1828124.0
+batch1_1,57696752,10/03/2017,,Lopez-Smith,"Rodriguez, Grant and Green","2 235,20","203,20",3,223520.0
+batch1_1,66389180,07/30/2016,,Mercer-Donovan,Murphy LLC,291.92,26.54,6,291.92
+batch1_1,93219493,05/16/2019,,James PLC,Bryant-Taylor,1255.00,114.09,5,1255.0
+batch1_1,13367493,02/21/2012,,"Terry, Crawford and Vega",Martin-Schmidt,494.89,44.99,6,494.89
+batch1_1,20591219,01/12/2019,,"Schneider, Aguirre and Dennis",Black-Jackson,771.01,70.09,7,771.01
+batch1_1,47037480,09/03/2012,,Fernandez-Evans,Ruiz-Cowan,"8 621,78","783,80",3,862178.0
+batch1_1,77169807,05/13/2018,,"Flores, David and Fleming",Williams Group,"44,00","4,00",1,4400.0
+batch1_1,12408005,08/08/2019,,Gonzales-Hart,"Shepard, Garcia and Summers",186.96,17.00,2,186.96
+batch1_1,34855339,03/09/2020,,Alexander-Valenzuela,Reyes-Sampson,86.56,8.66,1,86.56
+batch1_1,60518602,08/30/2016,,Ross Group,Leblanc and Sons,2568.45,233.50,3,2568.45
+batch1_1,86575728,11/24/2014,,Johnson-Young,"Garcia, Meyer and Cook","997,37","90,67",6,99737.0
+batch1_1,42498094,03/21/2017,,Hall LLC,Brown-Vazquez,141.87,12.90,3,141.87
+batch1_1,84423800,10/11/2019,,"Reyes, Fox and Martinez",Morgan Ltd,1026.71,93.34,5,1026.71
+batch1_1,76628307,05/05/2019,,Smith-Torres,"Medina, Moss and Martin","3 393,40","308,49",5,339340.0
+batch1_1,92395596,10/03/2011,,"Rodriguez, White and Hernandez",Young Inc,1.99,0.20,1,1.99
+batch1_1,61479635,07/02/2018,,Kelley-Thomas,"Green, Kelly and Matthews",32.95,3.00,1,32.95
+batch1_1,51295021,01/05/2017,,Sims-Olson,Martinez-English,9256.59,841.51,2,9256.59
+batch1_1,31293737,12/15/2020,,Nunez Inc,Alvarez Inc,371.51,37.15,7,371.51
+batch1_1,74184749,03/07/2015,,Klein and Sons,Liu-Perry,2.99,0.30,1,2.99
+batch1_1,94166183,08/24/2019,,West-Hodges,Simmons Inc,21.56,1.96,1,21.56
+batch1_1,49360354,05/03/2017,,Armstrong Inc,"Yu, Williams and Barry",394.19,35.84,5,394.19
+batch1_1,94772624,03/01/2015,,Smith-Strickland,"Goodman, Rogers and Williams",55.00,5.00,1,55.0
+batch1_1,87958388,04/11/2016,,Robinson and Sons,Jackson-Cardenas,5 101.77,463.80,2,5101.77
+batch1_1,13891625,10/14/2017,,Marshall-Mullins,"Chang, Moore and Faulkner","7 737,70","703,43",7,773770.0
+batch1_1,36433509,03/29/2021,,Gutierrez LLC,"Miller, Myers and Bean",12.76,1.16,1,12.76
+batch1_1,22019496,03/14/2012,,Barron-Rodriguez,"Cruz, Navarro and Brown","162,33","14,76",7,16233.0
+batch1_1,25604558,03/08/2015,,Mcdaniel Inc,Taylor and Sons,306.82,27.89,3,306.82
+batch1_1,67743685,01/24/2018,,"Cooper, Wilson and Tran","Reed, Hall and Brown",247.84,22.53,7,247.84
+batch1_1,61874671,07/26/2018,,Gonzales-Faulkner,Garcia-Jones,312.93,28.45,3,312.93
+batch1_1,77668740,01/02/2016,,"Ryan, Garcia and Gregory","Hopkins, Gonzales and Mccarthy",1.99,0.20,1,1.99
+batch1_1,46506594,03/12/2012,,Porter-Perkins,Castaneda LLC,1469.45,133.59,6,1469.45
+batch1_1,94215570,11/05/2017,,Henry Inc,"Cole, Lee and Long",10.98,1.00,1,10.98
+batch1_1,72128555,12/25/2013,,Obrien Group,Duncan-Davis,732.34,66.58,5,732.34
+batch1_1,16499996,05/05/2019,,Nichols-Powell,Ballard-Henry,21.45,1.95,1,21.45
+batch1_1,95216794,08/10/2017,,"Nguyen, Russell and Rodriguez",Adams-Burns,48.14,4.38,4,48.14
+batch1_1,68688408,03/20/2016,,Torres and Sons,"Dennis, Levy and Bowen",91.27,8.30,2,91.27
+batch1_1,69875170,07/18/2014,,"Davis, Thomas and Larson",Romero Inc,"194 521,70","17 683,79",5,19452170.0
+batch1_1,74980573,09/27/2015,,West Group,Zimmerman and Sons,191.26,17.39,3,191.26
+batch1_1,20434959,12/20/2011,,"Garrett, Gonzales and Hurley","Holloway, Stanton and Dunn",29.67,2.70,1,29.67
+batch1_1,67103708,01/20/2020,,French PLC,Hernandez Group,43.96,4.00,1,43.96
+batch1_1,33085665,11/07/2011,,Rose-Brown,Mcclain PLC,"1 023,94","93,09",2,102394.0
+batch1_1,20237936,11/08/2020,,Santos-Lee,Jackson PLC,428.90,38.99,2,428.9
+batch1_1,95163776,07/10/2016,,Banks Group,Ellis Group,731.23,66.48,2,731.23
+batch1_1,50846623,01/30/2016,,"Hood, Andrade and Kim",Browning Ltd,120.99,11.00,1,120.99
+batch1_1,82977013,12/06/2013,,Daniel-Morrison,"Snyder, Benton and Reed",269.49,24.50,3,269.49
+batch1_1,69703455,02/06/2014,,Anderson Group,"Hendricks, Hart and Miller",4 007.31,364.30,6,4007.31
+batch1_1,46915335,07/08/2020,,Aguilar-Thompson,"Mcintyre, Becker and Moore",22.00,2.00,1,22.0
+batch1_1,74494433,09/12/2017,,Huynh-Ruiz,Mcintosh-Macdonald,4008.74,364.43,6,4008.74
+batch1_1,15203117,05/10/2019,,"Gutierrez, Shah and Davis","Howell, Bryant and Martinez",25.52,2.32,1,25.52
+batch1_1,90188228,03/28/2016,,Baker-Smith,Lozano-Lindsey,353.66,32.15,4,353.66
+batch1_1,25194747,05/19/2018,,Castillo-Jones,Preston-Webster,152.87,13.90,3,152.87
+batch1_1,77596491,01/31/2021,,"Tran, Hurst and Rodgers",Stephenson Inc,24.95,2.27,1,24.95
+batch1_1,57600191,03/17/2017,,"Mckenzie, Johnson and Rich",Dean Inc,"2 454,03",223.09,4,245403.0
+batch1_1,18670724,02/02/2018,,Davis-Shepherd,"Fisher, Gonzalez and Garcia",2441.81,221.98,6,2441.81
+batch1_1,80273553,11/26/2012,,"Cohen, Saunders and Chapman","Gray, Conway and Burke",32.83,2.98,1,32.83
+batch1_1,89790497,10/02/2020,,"Campbell, Chavez and Reynolds",Rodriguez-Morgan,127.31,11.57,3,127.31
+batch1_1,72929361,06/29/2020,,Dawson-Strickland,Hobbs-Stevens,324.50,29.50,1,324.5
+batch1_1,40700258,12/27/2013,,Maxwell Inc,"Schmidt, Brooks and Petersen",514.02,46.73,7,514.02
+batch1_1,93493698,04/05/2015,,Gould-Martinez,Gilbert-Colon,6 140.09,558.19,5,6140.09
+batch1_1,98396639,02/27/2012,,Mullen-Smith,Crawford PLC,"18 614,34","1 692,21",5,1861434.0
+batch1_1,80489404,12/21/2013,,Gonzalez LLC,Nelson PLC,470.92,42.81,7,470.92
+batch1_1,10819011,02/09/2018,,Callahan and Sons,King-Harris,561.70,51.06,4,561.7
+batch1_1,50554106,12/17/2012,,Fernandez LLC,Brown-Carr,"18 863,63","1 714,88",6,1886363.0
+batch1_1,77522687,05/14/2019,,"Smith, Page and Ross",Powers LLC,"47 502,39","4 318,40",2,4750239.0
+batch1_1,23908850,04/08/2016,,"Galloway, Silva and Nelson","Meza, Long and Rivera",304.92,27.72,5,304.92
+batch1_1,50357965,02/06/2015,,Curtis-Lloyd,"Conner, Lucas and Mullen",387.11,35.19,5,387.11
+batch1_1,47725399,05/14/2013,,"Olson, Holt and Burton","Pope, Yang and Farley",3262.02,296.55,6,3262.02
+batch1_1,77658002,01/21/2014,,"Mckenzie, Clay and Campos",Espinoza LLC,323.14,29.38,7,323.14
+batch1_1,17599610,10/11/2013,,"Brown, Lowery and Sandoval","Nash, Benitez and Johnston",36.33,3.30,2,36.33
+batch1_1,76724637,07/10/2017,,"Harrell, Johnson and Thompson",Mora and Sons,418.84,38.08,5,418.84
+batch1_1,76229289,12/04/2018,,Rodriguez and Sons,Lucero-Brown,"5 664,90","514,99",3,566490.0
+batch1_1,16273983,04/01/2017,,"Reyes, Holloway and Lee",Castillo LLC,819.06,74.46,5,819.06
+batch1_1,65028137,01/03/2014,,"Johnson, Barrett and King",Townsend-Mitchell,98.95,9.00,1,98.95
+batch1_1,58051696,11/05/2019,,"Johnson, Buckley and Terry","Palmer, Chan and Salazar",53.96,4.91,4,53.96
+batch1_1,48190115,02/15/2013,,"Wilson, Sanders and Smith",Medina-Robinson,1250.75,113.70,5,1250.75
+batch1_1,13310164,01/16/2020,,Montgomery LLC,Campbell-Flores,"18 749,50","1 704,50",3,1874950.0
+batch1_1,56427222,11/26/2018,,"Padilla, Webb and Pearson",Marsh-Kennedy,307.93,27.99,3,307.93
+batch1_1,99116837,12/21/2012,,Moore-Miller,Matthews Ltd,4695.01,426.82,7,4695.01
+batch1_1,15318030,05/10/2012,,"Cantu, Livingston and Baker","Mosley, Ortega and Lynch",2511.20,228.29,5,2511.2
+batch1_1,13886485,11/24/2013,,Chan-Becker,Mitchell LLC,46 215.06,4 201.37,5,46215.06
+batch1_1,61231490,03/06/2012,,Rivers-Martin,Escobar-Johnson,"181,34",16.49,1,18134.0
+batch1_1,67973203,09/03/2012,,Brown-Russell,Rodriguez Group,"350,24","31,84",2,35024.0
+batch1_1,72869097,03/23/2021,,"Pierce, Barber and Howard",Johnson-Jacobson,701.72,63.79,2,701.72
+batch1_1,50027163,02/24/2012,,"Mendez, Gibson and Shaffer","Hill, Cortez and Hays",10 865.23,987.75,4,10865.23
+batch1_1,35312696,05/11/2017,,"Parker, Khan and Parker","Thompson, Terry and Johnson",321.95,29.27,7,321.95
+batch1_1,24060857,07/09/2015,,"Gonzalez, Bauer and Taylor",Collins-Williams,261.41,26.14,3,261.41
+batch1_1,81978187,01/17/2013,,Padilla-Miller,Johnson Ltd,"124,79","11,34",2,12479.0
+batch1_1,86736203,05/20/2013,,Potter-Gordon,Salinas Ltd,"15 574,11","1 415,83",7,1557411.0
+batch1_1,21024792,02/23/2013,,Black-Smith,Peterson-Taylor,6.38,0.58,1,6.38
+batch1_1,20802870,02/08/2017,,Ramirez Ltd,Warren-Willis,"29 087,53","2 644,32",5,2908753.0
+batch1_1,11637316,03/21/2015,,"Thornton, Franklin and Hamilton","Farmer, Pennington and Osborn",4140.06,376.37,5,4140.06
+batch1_1,49923258,10/26/2011,,Watson LLC,Roth-Smith,1182.50,107.50,2,1182.5
+batch1_1,26622011,01/08/2020,,Campos-Hawkins,Bird-Mccormick,986.70,89.70,1,986.7
+batch1_1,62256280,11/08/2020,,Myers Inc,Cook-Smith,2 970.00,270.00,1,2970.0
+batch1_1,41884162,12/21/2016,,Weaver Ltd,Christian-Taylor,32.83,2.98,1,32.83
+batch1_1,61669642,11/12/2013,,Carter Inc,"Torres, Sutton and Weeks",151.38,13.76,2,151.38
+batch1_1,92179921,10/11/2012,,"Logan, Deleon and Ayers",Moyer-Jones,266.11,24.19,4,266.11
+batch1_1,29998351,12/21/2012,,Johnson-Mcdonald,Sheppard Ltd,"20 085,99","1 826,00",6,2008599.0
+batch1_1,45279263,02/18/2013,,Anderson Ltd,"Sanchez, Watson and Turner",25.15,2.29,1,25.15
+batch1_1,18975369,05/26/2021,,"Padilla, Mccarthy and Gonzales",Parker-Fowler,154.00,14.00,1,154.0
+batch1_1,51335214,03/27/2015,,Rivera Group,"Malone, Wilson and Carson",204.27,18.57,3,204.27
+batch1_1,13026595,01/26/2017,,Ryan LLC,Thompson-Wright,7269.80,660.89,4,7269.8
+batch1_1,43494216,10/31/2015,,Austin-Mcmillan,Lopez Ltd,5 375.57,488.69,5,5375.57
+batch1_1,59119338,04/11/2017,,Green-Wright,Mosley PLC,502.74,45.70,6,502.74
+batch1_1,93300746,02/11/2013,,"Holloway, Ford and Smith","Pena, Hernandez and Miller",365.13,33.19,7,365.13
+batch1_1,19579298,02/02/2018,,Merritt-Gallagher,Andrews-Rivera,"23 988,86","2 180,81",6,2398886.0
+batch1_1,99214533,05/25/2017,,"Burns, Padilla and Daniels",Tapia-Warren,"9 809,80","891,80",2,980980.0
+batch1_1,89876179,04/14/2014,,King Inc,Leonard LLC,"237,60","21,60",2,23760.0
+batch1_1,99935945,03/19/2014,,Fox-Reeves,Myers PLC,1349.08,122.64,5,1349.08
+batch1_1,23882917,03/29/2014,,Hawkins PLC,"Lopez, Beard and James",178.16,16.20,5,178.16
+batch1_1,75399670,03/25/2012,,Roberts-Larson,"Hernandez, Murphy and Saunders",246.28,22.39,5,246.28
+batch1_1,72761554,11/12/2014,,Phillips-Bailey,"Johnson, Smith and Adkins","5 439,26","494,48",4,543926.0
+batch1_1,67851927,09/22/2016,,"Forbes, Young and Fisher",Moore and Sons,1037.38,94.31,5,1037.38
+batch1_1,49380136,02/21/2019,,"Moran, Harris and Smith",Hughes-Raymond,190.62,17.33,4,190.62
+batch1_1,32762320,12/04/2016,,Harris-Thomas,Santos PLC,129.60,11.78,4,129.6
+batch1_1,57986024,10/17/2015,,Schmidt LLC,Allen PLC,237.29,21.57,5,237.29
+batch1_1,59977720,06/16/2020,,Long LLC,"Long, Nguyen and Anderson",331.78,30.16,2,331.78
+batch1_1,38510682,09/05/2011,,Solomon-Murray,Sanchez Inc,743.58,67.60,3,743.58
+batch1_1,60605668,09/27/2017,,Foster-Beard,Henderson and Sons,6 097.29,554.30,2,6097.29
+batch1_1,22132714,05/08/2020,,Jordan-Cohen,Petersen LLC,5 295.73,10%,7,5295.73
+batch1_1,39772830,03/30/2016,,Gentry-Villarreal,"Ray, Evans and Davis",823.66,74.88,4,823.66
+batch1_1,32177071,04/12/2017,,Kirby PLC,Nelson Inc,103.92,9.45,2,103.92
+batch1_1,40044178,04/05/2019,,Valenzuela PLC,Wilson Group,2069.23,188.11,3,2069.23
+batch1_1,61527431,08/24/2016,,Mckay Inc,"Gilbert, Guerrero and Johnson",10319.10,938.10,2,10319.1
+batch1_1,10737107,07/20/2012,,"Thompson, Evans and Parker",Harrison LLC,66.99,6.09,2,66.99
+batch1_1,24342647,05/07/2020,,"Davis, Evans and Cooper",Stephens-Goodman,"4 524,28","411,30",3,452428.0
+batch1_1,23993628,05/29/2012,,Campos LLC,Contreras-Torres,"125,23","11,38",1,12523.0
+batch1_1,58805260,03/07/2019,,Murray-Parsons,"James, Johnson and Martin",6004.31,545.85,3,6004.31
+batch1_1,25078556,01/09/2015,,Valencia-Pearson,Lambert PLC,1330.04,120.91,7,1330.04
+batch1_1,55623924,03/13/2015,,Johns-Brown,Lopez Inc,5213.90,473.99,3,5213.9
+batch1_1,12323459,08/04/2013,,"Wright, Gonzalez and Gomez",Moore-Scott,81.68,7.43,1,81.68
+batch1_1,91781923,03/09/2013,,Barry-Roberts,Lopez PLC,6 198.39,563.49,3,6198.39
+batch1_1,12459784,08/19/2020,,"Smith, Johnson and Ramsey",Russell-Cruz,162.79,14.80,6,162.79
+batch1_1,44195807,07/09/2014,,Costa Inc,Weaver-Russell,19.22,1.75,4,19.22
+batch1_1,77513425,02/12/2021,,Wang and Sons,"Rogers, Fitzpatrick and Salazar",346.19,31.47,4,346.19
+batch1_1,74583312,05/05/2015,,Williams Ltd,Gross PLC,697.80,63.44,7,697.8
+batch1_1,49900465,12/23/2014,,Fleming and Sons,"Green, Benson and Clark",205.21,18.66,1,205.21
+batch1_1,67095041,12/14/2018,,"Wade, Scott and Glover","Bernard, Welch and Freeman",87.96,8.00,1,87.96
+batch1_1,82786776,09/26/2018,,Skinner-Molina,Brown Ltd,162.72,14.79,4,162.72
+batch1_1,61782695,05/15/2017,,"Anderson, Brown and Thompson","Silva, Warren and York",73 824.49,6 711.32,7,73824.49
+batch1_1,48844293,10/31/2020,,Carter-Carroll,Hansen-Barrett,4 306.26,391.48,5,4306.26
+batch1_1,73783721,10/22/2011,,"Wood, Nichols and Perry",Moore-Banks,43.95,4.00,2,43.95
+batch1_1,13407985,11/22/2013,,"Nicholson, Miller and Webster",Mccormick and Sons,5459.75,496.34,4,5459.75
+batch1_1,36985569,12/07/2015,,Martinez PLC,Williams-Reid,99.00,9.00,1,99.0
+batch1_1,68094256,02/18/2016,,Johnson LLC,Briggs Inc,"3 221,63","292,88",2,322163.0
+batch1_1,88628178,07/18/2012,,"Stone, Fernandez and Swanson","Johnson, Newman and Nelson",1660.86,150.99,4,1660.86
+batch1_1,29515593,03/21/2021,,"Thompson, Jackson and Ware",Foster-Nelson,330.29,30.03,7,330.29
+batch1_1,95296819,06/19/2011,,"Wright, Pineda and Walker",Benjamin-Aguilar,17711.25,1610.11,7,17711.25
+batch1_1,10942693,06/13/2018,,Coleman Inc,Lopez-Garcia,21151.66,1922.88,3,21151.66
+batch1_1,22393723,05/22/2018,,Henderson Group,Brown-Taylor,235.79,21.44,3,235.79
+batch1_1,37575831,08/27/2017,,Mcbride-Smith,Kelly LLC,205.29,18.66,6,205.29
+batch1_1,50712639,01/10/2021,,"Smith, Blackburn and Barton",Harris-Barrera,"208,50","18,95",2,20850.0
+batch1_1,52701374,06/29/2018,,Daniel Group,"Sheppard, Snyder and Solomon",104.97,9.54,2,104.97
+batch1_1,36051373,04/07/2015,,"Cervantes, Carpenter and Morse","Holland, Lee and Kline",10818.95,983.54,5,10818.95
+batch1_1,87454899,01/18/2014,,Brown and Sons,Flores and Sons,274.95,25.00,1,274.95
+batch1_1,73459321,11/19/2013,,"Hernandez, English and Yoder","Manning, Parker and Fleming",495.30,45.03,7,495.3
+batch1_1,54661411,07/29/2020,,Fitzgerald Group,Powell-Floyd,7 920.58,720.05,7,7920.58
+batch1_1,57416834,10/14/2020,,Hicks-Miller,Mcbride-Romero,74 294.55,6 754.05,5,74294.55
+batch1_1,64809205,08/18/2014,,Miller Inc,"Mason, Melton and Matthews",716.27,65.12,6,716.27
+batch1_1,23995139,05/30/2015,,Day and Sons,"Phillips, Burton and Mcdaniel","93 439,30","8 494,48",5,9343930.0
+batch1_1,85303612,07/08/2016,,Dixon-Hebert,Stewart-Faulkner,2 149.21,195.38,7,2149.21
+batch1_1,51508002,05/19/2015,,Walker LLC,Joseph PLC,414.67,37.70,3,414.67
+batch1_1,87934175,10/19/2016,,Horne-Fields,French-Sullivan,107.78,9.80,2,107.78
+batch1_1,41290662,08/31/2014,,"Steele, Trujillo and Becker",Hernandez PLC,"386,05","35,10",6,38605.0
+batch1_1,27166082,09/29/2020,,Webb-Oconnor,"Jones, Anderson and Santana",15803.26,1436.66,6,15803.26
+batch1_1,32830026,12/20/2014,,"George, Casey and Harris","Stewart, Fields and Scott",1140.24,103.66,5,1140.24
+batch1_1,51594396,12/10/2016,,Ford Ltd,Duffy-Lawrence,"5 553,00","504,82",7,555300.0
+batch1_1,45904441,02/14/2019,,"Raymond, Mejia and Thomas","Martin, Wright and Mccarty","633,96","57,63",5,63396.0
+batch1_1,92554836,05/09/2016,,Oneill LLC,"Hawkins, Gomez and Moon",74.80,6.80,3,74.8
+batch1_1,31838082,10/19/2013,,"Howe, Evans and Velazquez","Lewis, Hansen and Martin",191.76,17.43,3,191.76
+batch1_1,11580833,11/24/2019,,"Wood, Simpson and Summers",Tapia LLC,5138.35,467.12,7,5138.35
+batch1_1,39571754,07/03/2013,,"Hernandez, Barber and Jones",Hall-Skinner,"7 645,22","695,02",5,764522.0
+batch1_1,63959029,09/29/2020,,Tapia-Cline,Arroyo-Cobb,"47 600,71","4 327,34",3,4760071.0
+batch1_1,54329016,01/18/2012,,Brooks Inc,Davis-Greene,1022.88,92.99,2,1022.88
+batch1_1,99454334,07/08/2017,,Jones-Silva,Stafford and Sons,"105,60","9,60",1,10560.0
+batch1_1,76778037,03/15/2021,,Wilson-Todd,Smith and Sons,759.03,69.00,5,759.03
+batch1_1,22083742,03/01/2014,,"Smith, Schaefer and Gonzalez",Smith-Petersen,7 920.00,720.00,1,7920.0
+batch1_1,94067363,03/21/2017,,"Stafford, Reynolds and Hood",Vazquez-Tucker,148.44,13.49,1,148.44
+batch1_1,39912751,12/27/2018,,Friedman-Williams,"Kennedy, Johnson and Evans","56 295,35","5 117,76",4,5629535.0
+batch1_1,47486295,05/24/2021,,Small Inc,Curtis-Wiggins,"907,40","82,49",7,90740.0
+batch1_1,13187294,10/08/2013,,"Cook, Schwartz and Phillips",Lopez Group,111.00,10.09,3,111.0
+batch1_1,94786467,11/19/2013,,Campbell-Thomas,Gordon PLC,"8 479,08","770,83",5,847908.0
+batch1_1,41250328,08/25/2017,,"Williams, Brown and Mcmillan",George-Johnson,891.00,81.00,1,891.0
+batch1_1,44456646,03/21/2015,,Austin and Sons,"Delacruz, Hinton and Mckinney","316,10","28,74",5,31610.0
+batch1_1,90834323,07/27/2011,,George and Sons,"Burgess, Hoover and Ho",47.77,4.34,3,47.77
+batch1_1,38173030,12/17/2018,,Short-Dixon,"Smith, Hebert and Smith",6208.38,564.40,2,6208.38
+batch1_1,32530472,08/27/2015,,Cooper-Fox,Williams-Lucero,187.00,17.00,1,187.0
+batch1_1,36033621,04/18/2017,,Walton PLC,Mitchell and Sons,243.71,22.16,2,243.71
+batch1_1,36187296,01/05/2017,,"Lopez, Murray and Johnston",White Ltd,518.80,47.16,6,518.8
+batch1_1,74589240,12/08/2013,,Hall-Boyd,Haas and Sons,"12 973,88",1 179.44,4,1297388.0
+batch1_1,58379529,05/31/2011,,"Dalton, Chambers and Howard",Tanner Inc,2 934.70,266.79,3,2934.7
+batch1_1,33270121,10/03/2019,,"Cross, Pearson and Murillo","Francis, Baker and Nunez",10.94,0.99,1,10.94
+batch1_1,34967709,01/16/2018,,"Burns, King and Serrano",Bryant-Wall,549.98,50.00,1,549.98
+batch1_1,16773532,04/30/2020,,"White, Young and Johnson","Wheeler, Lopez and Watts",5 411.82,491.98,3,5411.82
+batch1_1,63028625,02/19/2019,,"Cummings, Lynn and Moran",Barker LLC,"2 298,90","208,99",3,229890.0
+batch1_1,18001647,03/21/2013,,Jones-Morris,Boyle-Bowman,39.51,3.59,2,39.51
+batch1_1,32283117,11/05/2015,,Chapman-Johnson,Diaz and Sons,"73,76","6,71",4,7376.0
+batch1_1,97388190,12/13/2016,,Cook Ltd,Pierce Inc,"329,84",29.99,1,32984.0
+batch1_1,85930211,08/02/2012,,"Torres, Martin and Robinson",Jackson Group,24 038.28,2 185.30,5,24038.28
+batch1_1,11724045,04/09/2019,,"Swanson, Garza and Snyder",Alvarado-Patel,1100.73,100.07,6,1100.73
+batch1_1,37107781,07/29/2012,,Williamson-Hernandez,Lee-Burnett,2 804.92,254.99,2,2804.92
+batch1_1,62472177,11/27/2018,,Crosby-Cox,Anderson-Scott,"81 508,24","7 409,84",2,8150824.0
+batch1_1,61660848,05/30/2019,,"Gardner, Tucker and Martinez",Robbins Group,26.53,2.41,1,26.53
+batch1_1,77015917,12/21/2017,,Poole-Boyle,"Ray, Hurst and Cruz",109.94,9.99,1,109.94
+batch1_1,71439588,02/08/2021,,Clayton LLC,Bailey-Adams,241.95,22.00,1,241.95
+batch1_1,96382825,05/03/2018,,"Cain, Thomas and Best",Howard Ltd,"17 672,06","1 606,55",1,1767206.0
+batch1_1,80871648,02/18/2013,,Yang-Pierce,Wilson-Martinez,200.40,18.22,2,200.4
+batch1_1,97830664,09/04/2015,,Bell LLC,Walls Group,12 543.64,1 140.33,5,12543.64
+batch1_1,71490900,11/01/2013,,Hurst Ltd,Williams LLC,"1 704,45","154,95",2,170445.0
+batch1_1,24826419,08/12/2018,,Herrera PLC,Vincent-Crawford,16.45,1.50,1,16.45
+batch1_1,24417396,03/02/2012,,Anderson-Garcia,Adkins Inc,3153.58,286.69,5,3153.58
+batch1_1,85765662,04/22/2017,,Fisher PLC,"Meyer, Lambert and Smith",108.06,9.82,3,108.06
+batch1_1,23385207,06/23/2012,,Peterson LLC,"Williams, Yang and Jackson",264.00,24.00,1,264.0
+batch1_1,48765740,06/22/2017,,Avila Inc,Bowman-Davis,631.99,57.45,7,631.99
+batch1_1,72024579,01/25/2021,,Green-Snow,"Fernandez, Allison and Rodriguez","179,75","16,34",7,17975.0
+batch1_1,49153414,03/25/2019,,Ingram-Mcclain,Owen Inc,51 998.08,4 727.10,5,51998.08
+batch1_1,30231187,07/22/2011,,"Smith, Johnson and Cannon",Sanchez-Wilson,142.90,12.99,3,142.9
+batch1_1,44534369,07/05/2017,,Davis-Reyes,Burns-Hammond,11 880.00,1 080.00,1,11880.0
+batch1_1,87588849,07/05/2016,,"Byrd, Gould and Hill",West-Byrd,486.60,44.24,3,486.6
+batch1_1,96569585,04/17/2020,,"Walker, Andrews and Leblanc",Meadows-Young,274.42,24.95,3,274.42
+batch1_1,37877758,07/02/2014,,Holmes-Whitney,"Jordan, Jones and Rodriguez",47320.32,4301.85,5,47320.32
+batch1_1,72196558,05/06/2013,,Watson PLC,Bell-Newman,126.90,11.54,3,126.9
+batch1_1,48531206,08/03/2019,,Rodriguez-Barnett,"Le, Lawson and Rios",6 146.70,558.79,7,6146.7
+batch1_1,52316398,06/03/2012,,Moore-Hughes,English Inc,11633.66,1057.61,5,11633.66
+batch1_1,37066060,05/07/2019,,Fisher LLC,Nixon Ltd,1759.88,159.99,3,1759.88
+batch1_1,60022910,03/21/2018,,Burch PLC,Robinson-Osborne,19.77,1.80,1,19.77
+batch1_1,64855498,08/01/2019,,Johnston-Douglas,Thompson Ltd,"1,09","0,10",1,109.0
+batch1_1,17290430,05/27/2013,,Hodge-Stokes,Hamilton Ltd,"14 832,92","1 348,45",4,1483292.0
+batch1_1,64603610,12/29/2013,,"Davila, Reed and Wright","Moore, Guerrero and Jacobson",8210.08,746.37,6,8210.08
+batch1_1,26889356,07/21/2011,,Mcintyre-Cox,"Rivera, Santiago and Brown",122.12,11.10,3,122.12
+batch1_1,74467550,04/04/2017,,Jordan-Morse,"Johnson, Brown and Chapman",9.00,0.82,1,9.0
+batch1_1,32483210,11/29/2011,,"Robles, Carroll and Pittman",Quinn-Campos,76.99,7.00,3,76.99
+batch1_1,92564069,09/14/2018,,"Brown, Werner and Smith",Holland PLC,2.18,0.20,1,2.18
+batch1_1,61809225,10/24/2015,,Ellis-Thomas,Garcia Ltd,17740.25,1612.75,5,17740.25
+batch1_1,13507183,09/09/2015,,Chavez Ltd,Roberts Ltd,"1 129,39","102,67",1,112939.0
+batch1_1,60456703,09/01/2016,,Hines Ltd,Brown Ltd,373.98,34.00,2,373.98
+batch1_1,53737787,12/08/2011,,Levy-Vargas,Kelly-Herring,205.50,18.68,3,205.5
+batch1_1,83155269,10/27/2020,,"Dickerson, Brewer and Morris","Powell, Norman and Parsons",324.50,29.50,1,324.5
+batch1_1,12847181,03/03/2012,,Fitzpatrick and Sons,Duncan PLC,6 860.45,623.68,5,6860.45
+batch1_1,70231143,10/29/2012,,Hanson Ltd,Gibson-Prince,15 937.63,1 448.88,3,15937.63
+batch1_1,79990560,05/09/2016,,"Stephens, Lopez and Ramirez",Sosa-Jackson,415.73,37.79,3,415.73
+batch1_1,55149610,02/23/2012,,King PLC,Parker-Williams,2 779.70,252.70,2,2779.7
+batch1_1,65498230,02/16/2021,,Duncan Ltd,Edwards-Archer,50.05,4.55,1,50.05
+batch1_1,91296589,09/04/2019,,"Wagner, Jensen and Key",King Inc,"1 669,75","151,80",2,166975.0
+batch1_1,85238418,05/03/2012,,Spencer Group,Burgess Ltd,178.83,16.26,6,178.83
+batch1_1,32357396,04/19/2020,,Obrien Inc,Becker LLC,"62 778,56","5 707,14",5,6277856.0
+batch1_1,81149702,02/05/2012,,Vega Inc,"Sanchez, Miller and Mitchell",924.44,84.04,5,924.44
+batch1_1,60665075,01/15/2018,,"Martin, Graham and Newman","Jennings, Baldwin and Collins",84 314.78,7 664.98,6,84314.78
+batch1_1,68963398,01/16/2017,,Tucker-Shaw,Trevino-Sanders,99.88,9.08,3,99.88
+batch1_1,29800590,08/10/2012,,Lambert-Gomez,"Hines, Hickman and Johnson",1084.56,98.60,4,1084.56
+batch1_1,90853270,03/04/2013,,"Underwood, Rowe and Peterson",Anderson LLC,989.67,89.97,2,989.67
+batch1_1,89042780,10/16/2015,,"Henderson, Brown and Carson","Brown, Dodson and Weaver",2099.42,190.86,3,2099.42
+batch1_1,50405163,04/16/2020,,"Shah, Parsons and Shea",Navarro Inc,3065.64,278.69,5,3065.64
+batch1_1,93356118,06/14/2013,,Simon-Colon,"Robinson, Cannon and Ray","9 645,88","876,90",2,964588.0
+batch1_1,53221040,12/26/2014,,Preston Inc,Mathews-Harrison,"3 454,44","314,04",2,345444.0
+batch1_1,33299774,10/24/2015,,"Garcia, Avery and Hernandez",Dennis LLC,1721.01,156.46,3,1721.01
+batch1_1,26413291,01/17/2019,,Morales-Snyder,"Mejia, Lopez and Jones",78.58,7.14,4,78.58
+batch1_1,39652805,03/20/2020,,Lewis and Sons,Hancock LLC,329.99,30.00,1,329.99
+batch1_1,78321725,06/21/2015,,Flores and Sons,Ross-Fernandez,150.19,13.65,5,150.19
+batch1_1,48131301,11/05/2019,,"Williams, Boone and Allen","Berry, Strickland and Lawson","2 194,50","199,50",1,219450.0
+batch1_1,39489564,06/20/2015,,Sparks-Garcia,Martin PLC,337.45,30.68,4,337.45
+batch1_1,98788913,11/15/2014,,Salazar-Zavala,Ball and Sons,"465,17","42,29",5,46517.0
+batch1_1,37763406,08/17/2015,,Kaufman-Martin,Brown Ltd,70 053.37,6 368.49,7,70053.37
+batch1_1,74263194,03/28/2020,,Duran Group,Mayer-Bates,131.92,11.99,2,131.92
+batch1_1,98852451,09/02/2019,,Peterson LLC,"Patterson, Pierce and Fuentes",4151.23,377.38,4,4151.23
+batch1_1,23436462,03/06/2012,,"Franklin, Wilson and Moore","Rivera, Cruz and Lane","38 879,73","3 534,52",7,3887973.0
+batch1_1,51661013,05/11/2021,,Rivas PLC,Walker PLC,198.00,18.00,2,198.0
+batch1_1,35963820,07/22/2020,,Cook and Sons,Spears-Wilson,159.45,14.50,7,159.45
+batch1_1,32530432,11/11/2014,,"Smith, Gonzalez and Wallace",Barnes PLC,5 597.66,508.88,6,5597.66
+batch1_1,25687531,01/10/2012,,"Moore, Gallagher and Villanueva","Jones, Andrade and Roth",1237.50,112.50,2,1237.5
+batch1_1,83642064,10/17/2020,,"Sanchez, Richards and James",Burns-Watts,791.96,72.00,2,791.96
+batch1_1,10060256,12/22/2013,,Kim-Davenport,Baker-Dixon,500.24,45.48,7,500.24
+batch1_1,49848653,05/15/2018,,"Edwards, Smith and Foster","Chapman, Baker and Allison",161.94,14.72,2,161.94
+batch1_1,93053660,10/09/2014,,James LLC,Barnes LLC,375.04,34.09,3,375.04
+batch1_1,11460594,04/09/2016,,Reyes-Ellis,Walsh-Pearson,638.57,58.05,7,638.57
+batch1_1,68899128,10/15/2013,,Dominguez LLC,"Werner, Gilmore and Martin",1159.39,105.40,4,1159.39
+batch1_1,67123367,03/19/2020,,Bennett PLC,Hernandez LLC,1770.90,160.99,3,1770.9
+batch1_1,74337375,11/26/2018,,Trujillo-Johnson,"Garrett, Simmons and Smith",191.57,17.42,6,191.57
+batch1_1,83337807,08/29/2015,,Logan Ltd,James-Cooley,41.53,3.78,1,41.53
+batch1_1,63246591,01/07/2020,,"Rose, Smith and Moreno",Williams-Jimenez,19.76,1.80,1,19.76
+batch1_1,38086377,04/22/2018,,"Hobbs, Chavez and Norman",Martinez-Casey,415.69,37.79,2,415.69
+batch1_1,59334099,12/04/2019,,Jones LLC,Roberts and Sons,106.70,9.70,1,106.7
+batch1_1,69638281,07/09/2014,,Powers-Parker,Anderson-Lindsey,66.00,6.00,1,66.0
+batch1_1,90265578,12/29/2017,,Cabrera-Thompson,Martin-Morgan,1095.24,99.57,6,1095.24
+batch1_1,38680884,12/22/2015,,"Barnes, Roberts and Hayes","Taylor, Padilla and Carson",112.13,10.19,2,112.13
+batch1_1,14139811,09/05/2018,,Anderson-Nguyen,Smith-Coleman,524.67,47.70,2,524.67
+batch1_1,26660573,03/08/2014,,"Nelson, Norris and Barron",Sparks-Burton,155.98,14.18,1,155.98
+batch1_1,98858130,01/28/2021,,"Dominguez, Jackson and Steele","Rodriguez, Hall and Tanner",401.88,40.19,5,401.88
+batch1_1,13865937,10/05/2014,,White and Sons,Butler LLC,359.26,32.66,2,359.26
+batch1_1,91851148,11/08/2015,,"Freeman, Carter and Peterson",Ryan-Harrison,760.10,69.10,2,760.1
+batch1_1,99173131,08/30/2011,,Williams Group,Willis and Sons,40.30,3.66,2,40.3
+batch1_1,40259650,06/08/2019,,Medina Inc,Mills Inc,154.10,14.01,4,154.1
+batch1_1,94959966,03/14/2013,,"Cordova, Guerrero and White","Underwood, Ryan and Kelley",171.24,15.57,4,171.24
+batch1_1,40631256,02/05/2014,,Gonzales-Callahan,Russell-Jackson,395.75,35.98,4,395.75
+batch1_1,69607855,08/02/2014,,Shaffer Ltd,Wright LLC,22 660.00,2 060.00,1,22660.0
+batch1_1,31447231,06/18/2017,,"Sellers, Marsh and Cabrera",English-Sanchez,8357.28,759.75,7,8357.28
+batch1_1,52786363,06/11/2011,,Thomas-Moore,Villanueva-Gonzalez,25.50,2.32,1,25.5
+batch1_1,12492197,07/05/2020,,Holland-Austin,Evans-Martin,1324.32,120.39,5,1324.32
+batch1_1,34911755,01/30/2019,,"Graham, Floyd and Johnson","Martin, Russo and Gaines","199,20","18,11",3,19920.0
+batch1_1,44910862,03/19/2017,,Potts LLC,Everett Group,232.16,23.22,5,232.16
+batch1_1,35712927,05/02/2018,,Barker-Hill,"Cook, Duncan and Martin",833.12,75.74,7,833.12
+batch1_1,95825613,04/15/2017,,Johnson Ltd,"Carter, Mueller and Clark",51823.31,4711.21,4,51823.31
+batch1_1,25532811,07/07/2016,,Sandoval-Mckenzie,"Terry, Lindsey and Fox","3 541,78",321.98,7,354178.0
+batch1_1,94027975,07/22/2014,,"Johnson, Williams and Melton",Taylor-Levy,87.96,8.00,1,87.96
+batch1_1,61113263,02/04/2014,,Thomas-Andrade,"Macdonald, Bentley and Nguyen","26 329,42","2 393,58",2,2632942.0
+batch1_1,50840230,04/27/2017,,Reyes Ltd,"Parker, Hood and Harvey",593.20,53.93,5,593.2
+batch1_1,72256079,04/01/2018,,Farmer Inc,Hanna-Tapia,916.21,83.29,1,916.21
+batch1_1,22883270,06/20/2018,,"Cox, Garcia and Briggs",Jordan LLC,5493.34,499.39,6,5493.34
+batch1_1,85163803,04/23/2014,,Rangel-Edwards,"Collins, Moody and Green",13 111.43,1 191.95,7,13111.43
+batch1_1,26700559,01/11/2018,,Martinez PLC,Harrison and Sons,342.87,31.17,3,342.87
+batch1_1,45234802,09/06/2013,,Williams-Burns,Richards-Lester,1731.35,157.40,5,1731.35
+batch1_1,81153047,12/12/2020,,"White, Watkins and Barton","Sparks, Wang and West",203.19,18.47,2,203.19
+batch1_1,60866416,02/17/2021,,"Parker, Patterson and Smith",Arnold PLC,284.86,25.90,2,284.86
+batch1_1,28618390,08/09/2014,,Vance Inc,"Brown, Smith and Blevins",328.42,29.86,3,328.42
+batch1_1,54212825,05/01/2015,,Hutchinson PLC,Chapman-Long,551.54,50.14,7,551.54
+batch1_1,45743873,02/23/2014,,Smith PLC,Todd-Barnes,64.99,5.91,1,64.99
+batch1_1,62517865,06/02/2015,,Trujillo-Hunt,Lee and Sons,9.35,0.85,1,9.35
+batch1_1,99314100,06/25/2014,,"Michael, Farrell and Lee","Collins, Barrett and Schroeder",6 573.33,597.58,2,6573.33
+batch1_1,22553110,07/26/2011,,Evans-Nelson,Black LLC,44 630.49,4 057.32,6,44630.49
+batch1_1,94138597,02/05/2018,,Ochoa-Scott,Green LLC,1773.75,161.25,2,1773.75
+batch1_1,96947403,10/09/2011,,Frazier-Rose,Cruz LLC,529.78,48.16,7,529.78
+batch1_1,27405523,03/24/2018,,"Case, Mccarthy and Dean",Peterson-Crane,120.62,10.97,6,120.62
+batch1_1,53272540,12/16/2015,,"Melendez, Clark and Avery","Cabrera, Todd and Anderson",389.27,35.39,3,389.27
+batch1_1,98964062,05/30/2018,,Scott LLC,Lawrence-Pacheco,274.45,24.95,4,274.45
+batch1_1,76272465,01/06/2017,,Williams PLC,Mcdonald-Green,665.49,60.50,5,665.49
+batch1_1,44649974,11/27/2012,,Herrera-Hamilton,Lopez and Sons,3187.64,289.79,6,3187.64
+batch1_1,74427960,04/03/2014,,"Butler, Salazar and Davis","Wright, Beasley and Berry",880.89,80.08,5,880.89
+batch1_1,41888239,08/11/2018,,Snyder-Singleton,Stewart PLC,"6 594,14",599.47,6,659414.0
+batch1_1,33035917,11/26/2017,,Harris Group,Hodge Inc,9 908.95,900.81,5,9908.95
+batch1_1,12590251,01/17/2016,,"Harrison, Tucker and Choi",Logan-Rodriguez,2237.95,203.45,6,2237.95
+batch1_1,90042261,05/29/2012,,Weiss PLC,"Garcia, Bates and Romero",726.52,66.05,6,726.52
+batch1_1,73019594,05/11/2020,,"Knight, Howell and Pugh",Jenkins PLC,993.96,90.36,2,993.96
+batch1_1,95434324,10/16/2017,,Gross-Aguilar,Wood-Mccarty,1026.70,93.34,7,1026.7
+batch1_1,60552183,02/01/2020,,Campbell Group,Moreno-Black,39 974.41,3 634.04,7,39974.41
+batch1_1,97022721,04/28/2019,,Huff-Lowe,Brown Ltd,4416.24,401.48,5,4416.24
+batch1_1,53543863,07/09/2020,,Cohen LLC,Mclean-Chaney,1 802.53,163.87,7,1802.53
+batch1_1,49929761,02/04/2021,,Garcia Ltd,"Anderson, Davidson and Webster",3805.63,345.97,6,3805.63
+batch1_1,28488969,01/04/2019,,Reid Ltd,Maldonado-Berger,"113 938,41","10 358,04",6,11393841.0
+batch1_1,65863078,03/16/2017,,Mejia-Garcia,Mcmahon-Shelton,1 843.40,167.58,4,1843.4
+batch1_1,73144550,01/31/2012,,"Mcdowell, Odom and Crosby",Rodriguez-Sherman,63.32,5.76,4,63.32
+batch1_1,17811597,07/24/2013,,Jensen PLC,Cox-Moore,"3 756,43","341,49",4,375643.0
+batch1_1,85473134,04/24/2017,,Saunders-Lee,Molina Inc,889.76,80.89,7,889.76
+batch1_1,79064100,05/25/2018,,Love Inc,Brown and Sons,92.88,8.44,2,92.88
+batch1_1,60595703,08/13/2019,,"Bullock, Jenkins and Harrison",Gibbs Ltd,"8 605,01","782,27",7,860501.0
+batch1_1,74819543,10/07/2020,,"Solomon, Ford and Ellis",Hamilton-Jackson,137.50,12.50,1,137.5
+batch1_1,83299043,06/24/2019,,Clayton Inc,Joseph and Sons,3 129.42,284.49,7,3129.42
+batch1_1,53553822,07/24/2012,,Lee-Brown,"Bass, Kelly and Barnes",25738.94,2339.90,3,25738.94
+batch1_1,72492750,02/03/2013,,Ramsey-Marshall,Gomez Ltd,"377,52","34,32",3,37752.0
+batch1_1,37060863,01/30/2021,,Floyd-Figueroa,Torres and Sons,2022.82,183.89,7,2022.82
+batch1_1,41893391,08/08/2015,,Moore and Sons,"Charles, Vazquez and Fernandez",1438.21,130.75,7,1438.21
+batch1_1,99106655,06/12/2017,,Harris and Sons,Thomas-Vazquez,"5 743,69","522,15",6,574369.0
+batch1_1,76098038,08/20/2012,,Kennedy-Odonnell,Hinton LLC,169.25,15.39,4,169.25
+batch1_1,83842319,05/12/2014,,"Robinson, Nielsen and Newman",Mcdonald Inc,60.45,5.50,1,60.45
+batch1_1,82017885,01/20/2012,,Porter PLC,"Webb, Bradshaw and Keller",1023.94,93.09,6,1023.94
+batch1_1,78796145,03/28/2017,,Jones Ltd,"Coleman, Cowan and Mejia",21710.03,1973.64,3,21710.03
+batch1_1,11640046,11/06/2014,,Atkinson-Woods,Turner Ltd,8487.82,771.62,5,8487.82
+batch1_1,29075921,05/24/2021,,Rosales-Krause,May LLC,"21 467,33","1 951,58",3,2146733.0
+batch1_1,18531177,04/30/2015,,"Adkins, Campbell and Butler","Bird, Bates and Johnston",245.20,22.29,4,245.2
+batch1_1,69614664,11/28/2011,,Compton and Sons,"Olson, Simon and Smith",19.69,1.79,1,19.69
+batch1_1,69117260,08/12/2019,,"Robinson, Solis and Smith",James and Sons,46.75,4.25,1,46.75
+batch1_1,45175273,03/30/2020,,Thomas and Sons,"Smith, Fox and Castaneda",771.54,70.14,4,771.54
+batch1_1,39510474,08/24/2018,,Salinas Inc,Bailey Ltd,47.28,4.30,1,47.28
+batch1_1,35992997,02/01/2017,,Anderson Inc,Clark-Herring,37016.78,3365.16,6,37016.78
+batch1_1,15691351,05/10/2015,,Haynes-Robles,Garza LLC,"19 347,41","1 758,86",6,1934741.0
+batch1_1,97781335,12/21/2018,,"Mccormick, Hendricks and Powers","Poole, Hood and Landry",88976.98,8088.82,7,88976.98
+batch1_1,43292704,06/20/2015,,Ball-King,Stewart-Moyer,107 680.75,9 789.16,5,107680.75
+batch1_1,69062791,02/16/2021,,Torres Group,Parker-Lam,2 322.84,211.17,3,2322.84
+batch1_1,19471831,04/09/2014,,Palmer Ltd,"Rios, Oneill and Rowe","44 745,59","4 067,78",3,4474559.0
+batch1_1,77931288,10/20/2019,,Owens-Perez,Phillips PLC,"329,83",29.98,4,32983.0
+batch1_1,69057610,08/20/2013,,Williams Group,Frazier-Davis,17 529.89,1 593.63,3,17529.89
+batch1_1,69652053,11/19/2014,,"Sanders, Reed and Olson",Avila Group,"15 096,06","1 372,37",2,1509606.0
+batch1_1,33696326,08/07/2013,,Patel and Sons,Turner-Wilson,32625.33,2965.94,5,32625.33
+batch1_1,60991397,02/25/2021,,Blair LLC,"Gomez, Hall and Boyd",281.25,25.57,5,281.25
+batch1_1,92919413,10/04/2020,,Jones and Sons,Hamilton-Simmons,6 591.93,599.27,5,6591.93
+batch1_1,24327499,11/28/2017,,"White, Ward and Esparza",Johnson-Rodriguez,19 208.48,1 746.23,5,19208.48
+batch1_1,24206086,05/24/2012,,"Hall, Hancock and Holt",Weber-Roy,8.80,0.80,1,8.8
+batch1_1,23897213,07/14/2019,,"Moore, Thomas and Crosby",Aguirre Ltd,277.89,25.26,7,277.89
+batch1_1,10372826,05/15/2019,,"Graham, Briggs and Anderson",Moore Group,"276,60","25,15",3,27660.0
+batch1_1,89959314,09/01/2012,,Robinson Group,Wolf and Sons,"1 740,04",158.19,4,174004.0
+batch1_1,68350338,04/25/2012,,Mendoza-Gonzalez,"Chapman, Scott and Jennings","9 053,23","823,02",5,905323.0
+batch1_1,76322049,05/21/2021,,"Carter, Molina and Garcia",Jones LLC,194.82,17.71,4,194.82
+batch1_1,74221189,10/26/2015,,Perry Inc,Caldwell-Jordan,262.77,23.89,4,262.77
+batch1_1,45302561,11/25/2015,,Wright-Hall,Finley PLC,"137 354,02","12 486,73",7,13735402.0
+batch1_1,14165207,02/13/2014,,Patel-Park,"Adkins, Hodges and Hawkins",97.76,8.89,7,97.76
+batch1_1,58269935,11/12/2017,,"Brown, Jackson and Keller",Stephens LLC,457.91,41.63,7,457.91
+batch1_1,77980602,05/07/2017,,Cohen-Fleming,Hoffman-Foley,314.27,28.57,4,314.27
+batch1_1,29870205,03/15/2013,,"Banks, Wright and Mills",White LLC,1214.29,110.39,5,1214.29
+batch1_1,97776691,04/16/2014,,Acosta-Mendoza,"Malone, Pierce and Morgan",1883.91,171.26,7,1883.91
+batch1_1,57475368,06/19/2020,,Hayes-Sanders,"Warren, Campbell and Cohen",1473.80,133.98,7,1473.8
+batch1_1,58715920,01/05/2015,,Adams-Kelly,Moore Inc,"19 189,78","1 744,53",5,1918978.0
+batch1_1,92354720,07/05/2018,,"Delgado, Smith and Austin",Randolph Inc,565.00,51.36,6,565.0
+batch1_1,81432357,07/30/2020,,Tran LLC,"Golden, Gross and Rivera",10305.77,936.89,4,10305.77
+batch1_1,38710038,07/27/2013,,Ruiz-Foster,"Miller, Baldwin and Nichols",5989.26,544.48,6,5989.26
+batch1_1,39077025,12/15/2011,,Daniel-Benson,"Mcdonald, Jordan and Malone",3901.63,354.69,5,3901.63
+batch1_1,59051048,12/12/2015,,"Howell, Underwood and Davis",Gardner LLC,294.27,26.75,5,294.27
+batch1_1,16543713,11/21/2016,,"Hoover, Nunez and Lewis",Garrett LLC,"113 464,52","10 314,96",7,11346452.0
+batch1_1,86504530,08/03/2014,,"Campbell, Hernandez and Myers","Ward, Stewart and Bennett","20 986,37","1 907,85",3,2098637.0
+batch1_1,30083114,12/19/2016,,"Smith, Garcia and Brown",Diaz LLC,610.81,55.53,7,610.81
+batch1_1,45141161,11/18/2011,,Webster-Pierce,"Carter, Kelley and Scott",5 255.87,477.81,4,5255.87
+batch1_1,27006132,09/18/2017,,"Vasquez, May and Lewis","White, Hayes and Blackwell",5289.89,480.90,5,5289.89
+batch1_1,35014787,01/17/2012,,"Rich, Bentley and Schmidt",Avila and Sons,156.45,14.22,4,156.45
+batch1_1,46460686,12/23/2017,,"Barnes, Parks and Jenkins","Caldwell, Whitehead and Schwartz","18 471,60","1 679,24",5,1847160.0
+batch1_1,63279909,01/27/2012,,Jacobson-Wilson,Baker PLC,259.96,26.00,2,259.96
+batch1_1,33310882,01/23/2020,,Brown Group,"Davis, Hogan and Hardin",2 446.21,222.38,5,2446.21
+batch1_1,37598290,09/04/2016,,"Beck, Martin and Jones","Kent, Russell and Dixon",3 255.91,295.99,4,3255.91
+batch1_1,68378638,10/11/2018,,Lewis-Moyer,Benson-Marshall,698.89,63.54,6,698.89
+batch1_1,94098997,10/04/2020,,"Snyder, Bryan and Booth",Ashley-Perry,15231.45,1384.68,5,15231.45
+batch1_1,69556867,02/14/2017,,Houston Group,Harding Inc,1190.54,108.23,3,1190.54
+batch1_1,51467723,04/21/2019,,Johnson-Brooks,"Proctor, Morgan and Williams","106 498,92","9 681,72",7,10649892.0
+batch1_1,50956755,09/06/2019,,Miller Inc,Conley-Irwin,31 954.82,2 904.98,7,31954.82
+batch1_1,41887329,11/26/2020,,Lee Inc,Olsen Ltd,"19 084,92","1 734,99",7,1908492.0
+batch1_1,76880869,08/13/2018,,Montoya-Williams,"Walker, Anderson and Medina","5101,65","463,79",7,510165.0
+batch1_1,44848471,03/26/2021,,"Proctor, Levy and Willis","Roth, Morris and Schultz",838.68,76.24,4,838.68
+batch1_1,25844703,07/09/2013,,Kim Ltd,Steele PLC,"158 490,25","14 408,20",6,15849025.0
+batch1_1,28807915,06/10/2020,,Lucas-Hall,Dixon-Thompson,2 861.80,260.16,7,2861.8
+batch1_1,40046347,07/28/2011,,Campos-Cooper,"Schneider, Carr and Vazquez",130.83,11.89,5,130.83
+batch1_1,49593532,10/01/2013,,Lee Group,"Garcia, Sanchez and Marshall",5 900.59,536.42,6,5900.59
+batch1_1,64994538,03/12/2017,,Martinez Group,Stanley-Green,"30 210,16","2 746,38",3,3021016.0
+batch1_1,57770024,12/12/2020,,Thompson-Miller,Lopez LLC,"8 820,75","801,89",6,882075.0
+batch1_1,43437889,12/06/2019,,"Smith, Jennings and Daugherty",Gallagher LLC,5 371.27,488.30,5,5371.27
+batch1_1,60416276,04/01/2016,,Hodge PLC,Juarez PLC,600.15,54.56,7,600.15
+batch1_1,86225018,12/18/2015,,Collins Group,Pope LLC,"5 950,69","540,97",5,595069.0
+batch1_1,22956460,06/26/2019,,Welch PLC,"Wright, Aguirre and Harper",2617.93,237.99,6,2617.93
+batch1_1,85432283,12/13/2014,,Stanton-Williams,Thompson-Perry,"125,30","11,39",3,12530.0
+batch1_1,63279232,04/24/2017,,"Allen, Gibbs and Holmes",Jones-Black,328.20,29.84,3,328.2
+batch1_1,40217081,09/15/2014,,Stone PLC,Allen Inc,714.03,64.91,5,714.03
+batch1_1,89969473,10/29/2016,,Johnson-Martin,"Deleon, Davila and Allen",797.91,72.54,5,797.91
+batch1_1,67300087,03/16/2018,,Dean LLC,Barrett-Harris,22409.38,2037.22,6,22409.38
+batch1_1,45562249,10/19/2018,,Mccormick PLC,"Williams, Smith and Myers",424.93,38.63,6,424.93
+batch1_1,97511742,04/07/2016,,Decker PLC,Boyle Ltd,4 746.42,431.49,5,4746.42
+batch1_1,58126171,08/14/2015,,Mclean Inc,Richards and Sons,"33 972,73","3 088,43",4,3397273.0
+batch1_1,90290650,04/24/2018,,"Ramirez, Miller and Morris","Walker, Patterson and Evans","2 843,46",258.50,6,284346.0
+batch1_1,51300355,03/28/2012,,Williams Ltd,King-Johnson,570.82,51.89,6,570.82
+batch1_1,84752922,10/16/2013,,"Patrick, Strong and Miller",Hernandez and Sons,1028.39,93.49,3,1028.39
+batch1_1,81858677,12/25/2012,,Gonzalez and Sons,Anderson Group,2 388.93,217.18,5,2388.93
+batch1_1,39193381,06/19/2015,,Miller-Nunez,Mata Group,3 607.73,327.98,2,3607.73
+batch1_1,90418276,09/06/2016,,"Robinson, Noble and Hayden","Ramirez, Riggs and Rosario",7641.32,764.13,7,7641.32
+batch1_1,22529030,02/02/2018,,"Hogan, Adkins and Rogers",Johnson LLC,"2 389,07","217,19",7,238907.0
+batch1_1,51109338,04/13/2013,,"Andrews, Kirby and Valdez",Becker Ltd,"6 204,19","564,02",7,620419.0
+batch1_1,89299747,04/14/2018,,"Jones, Davis and Moses",Cox LLC,389.00,35.36,6,389.0
+batch1_1,52335893,09/30/2012,,Stanley Group,Mcbride-Sanchez,"16 537,65","1 503,42",7,1653765.0
+batch1_1,44048791,06/30/2015,,Baird-Morris,Smith-Wells,"12 955,61","1 177,78",7,1295561.0
+batch1_1,54557938,08/03/2016,,"Kim, Lloyd and White","Clark, Russell and Johns","5857,51","532,50",6,585751.0
+batch1_1,19091235,04/22/2020,,Khan-Wyatt,King PLC,5370.54,488.23,5,5370.54
+batch1_1,62005229,03/05/2018,,Harmon LLC,Chapman LLC,76.98,7.00,1,76.98
+batch1_1,52230192,08/10/2012,,Campbell-Gordon,"Smith, Richardson and Brown",17 108.96,1 555.36,6,17108.96
+batch1_1,11926242,03/01/2012,,Bailey PLC,Turner Inc,3 674.52,334.05,5,3674.52
+batch1_1,31311902,06/04/2017,,"Hodges, Porter and Bass","Young, Rosales and Graham","467,17","42,47",7,46717.0
+batch1_1,57168941,10/19/2020,,Sullivan Group,Brown Ltd,1620.38,147.31,3,1620.38
+batch1_1,66053252,10/26/2017,,Parks-Castillo,Brown-Graves,49665.33,4515.03,7,49665.33
+batch1_1,48440593,06/27/2014,,Patton-Barrett,Warren Group,3 620.84,329.17,6,3620.84
+batch1_1,11829549,05/13/2017,,Smith-Myers,"Tapia, Robinson and Miller",172.26,15.66,3,172.26
+batch1_1,73164326,07/13/2012,,Larson-Freeman,"Meyer, Horne and Hartman",8 377.33,761.58,5,8377.33
+batch1_1,87301946,02/23/2012,,"Baker, Meyers and Diaz",Chavez Ltd,"9 091,20","826,47",6,909120.0
+batch1_1,19507687,09/19/2018,,Houston-Brooks,"Moore, Hill and Ford","61 189,67","5 562,70",3,6118967.0
+batch1_1,15172184,08/24/2017,,Hart-Wright,Foster-Parks,"5 301,89","481,99",5,530189.0
+batch1_1,68800500,07/14/2013,,"Scott, Long and Smith","Russo, Schroeder and Hanson",538.73,48.98,7,538.73
+batch1_1,65981953,05/14/2020,,Horton LLC,Jackson-Holland,1 028.36,93.49,3,1028.36
+batch1_1,33965841,11/27/2017,,Moore-Kelly,"Hanson, Mathews and Brown",228.10,20.74,4,228.1
+batch1_1,14845988,10/25/2017,,"Taylor, Chen and Hooper",Porter-Martinez,1 656.47,150.59,4,1656.47
+batch1_1,31386585,02/03/2021,,Rodgers-Garcia,Bruce-Reid,219.98,20.00,1,219.98
+batch1_1,42910151,04/05/2013,,"Terry, Mccarthy and Clark","Schultz, Thomas and Lang","40 507,41","3 682,49",6,4050741.0
+batch1_1,96430839,01/13/2019,,"Bennett, Chavez and Vazquez",Alexander-Petersen,4958.16,450.74,5,4958.16
+batch1_1,69721323,05/07/2019,,Murray-Eaton,"Cuevas, Reid and Hurst",9145.62,831.42,5,9145.62
+batch1_1,35259356,01/20/2018,,Wilkins Ltd,Ross Inc,"692,78","62,98",6,69278.0
+batch1_1,71388340,02/21/2021,,Berg Ltd,Hicks-Mayer,"14317,42","1301,58",6,1431742.0
+batch1_1,30208398,05/24/2019,,"Thomas, White and Smith","Green, Scott and Miller",44.28,4.03,2,44.28
+batch1_1,87873157,05/09/2017,,Kirby Group,Martin-Allison,"6,60","0,60",1,660.0
+batch1_1,29534383,05/30/2017,,"Cook, Bartlett and Giles","Smith, Herrera and Graves",362.27,32.93,2,362.27
+batch1_1,77715322,08/23/2013,,Pena-Boyd,Branch-White,39.53,3.59,2,39.53
+batch1_1,35163496,10/28/2019,,"Mcpherson, Stark and Rodriguez",Holland LLC,"792,10","72,01",7,79210.0
+batch1_1,68766191,09/26/2012,,Campbell LLC,Ellison-Simpson,3717.66,337.97,7,3717.66
+batch1_2,34476404,07/24/2018,,"Carrillo, Lara and Hooper",Ellis and Sons,"34 486,08","3 135,10",4,3448608.0
+batch1_2,18999056,07/29/2011,,Wood-Kim,Thompson PLC,"164,97","15,00",1,16497.0
+batch1_2,33289699,12/24/2012,,Hall-Martinez,Haynes-Woods,439.95,40.00,1,439.95
+batch1_2,22758345,12/21/2015,,"Hensley, Harrison and Miller",Peters LLC,2694.13,244.92,5,2694.13
+batch1_2,79036267,09/16/2016,,"Anderson, Gentry and Williams",Bradley-Daniel,1176.62,106.97,3,1176.62
+batch1_2,11556735,03/07/2014,,Weaver-Barber,Scott Ltd,"388,63","35,33",4,38863.0
+batch1_2,35382296,09/07/2016,,Norman-Best,"Gilbert, Spencer and Anderson",1 930.23,175.48,2,1930.23
+batch1_2,64661204,12/19/2016,,"Abbott, Martinez and Nunez",Wilson PLC,"4 304,03","391,28",4,430403.0
+batch1_2,95545504,04/06/2012,,"Adams, Hess and Davis",Johnson Ltd,65.78,5.98,1,65.78
+batch1_2,66919860,05/11/2021,,King-Aguilar,"Chavez, Ortega and Hunt",49.90,4.54,1,49.9
+batch1_2,51033885,10/20/2020,,Haney LLC,Davis-Olson,229.08,20.83,2,229.08
+batch1_2,17014325,03/16/2017,,"Valdez, Clark and Fischer",Hancock-Shields,682.00,62.00,1,682.0
+batch1_2,81040846,02/07/2021,,Gibson-Gonzalez,"Osborne, Mcdonald and Hamilton",375.87,34.17,6,375.87
+batch1_2,86883880,06/16/2018,,"Rhodes, Young and Yoder",Davis PLC,225.19,20.47,4,225.19
+batch1_2,63042822,06/04/2014,,Ramirez and Sons,Harrison LLC,"56 680,77","5 152,80",5,5668077.0
+batch1_2,41287213,12/05/2019,,"Elliott, Jordan and Watson",Sanders Group,500.87,45.53,6,500.87
+batch1_2,74093352,10/18/2020,,Matthews-Olson,"Miller, Coleman and Rivera",395.25,35.93,5,395.25
+batch1_2,80673242,06/12/2012,,"Rice, Pitts and Ramos",Petersen Group,504.69,45.88,4,504.69
+batch1_2,94052403,03/30/2021,,"Woods, Hubbard and Harris","Hines, Ingram and Fisher","124 743,65","11 340,33",7,12474365.0
+batch1_2,61249473,12/02/2015,,Odonnell-Moore,Sloan and Sons,"4 713,34",428.49,4,471334.0
+batch1_2,91858806,03/05/2012,,Decker-Martinez,"Schmidt, Butler and Rodriguez",208.98,19.00,2,208.98
+batch1_2,70471446,03/16/2019,,"Hendrix, Miller and Robertson","Gonzalez, Jacobs and Williams",1708.27,155.30,4,1708.27
+batch1_2,80921168,05/14/2015,,"Matthews, Long and Hutchinson","Paul, Schneider and Kim","3 834,16","348,56",4,383416.0
+batch1_2,12947568,11/10/2018,,Santos-King,"Stone, Kramer and Diaz",300.81,27.35,3,300.81
+batch1_2,76059860,03/04/2020,,"Mills, Harrington and Winters",Owens-Harrison,36.03,3.28,2,36.03
+batch1_2,83087619,05/06/2019,,Murray-Blake,Turner-Wilkins,"172,41","15,67",4,17241.0
+batch1_2,61987058,11/13/2014,,"Schneider, Johnston and Aguirre","Perry, Elliott and Gray",377.05,34.28,7,377.05
+batch1_2,85992771,03/30/2021,,King Inc,"Chapman, Koch and Rivera",409.13,37.19,6,409.13
+batch1_2,10503434,10/14/2020,,Henry-Fleming,Tucker-Castillo,87.99,8.00,1,87.99
+batch1_2,16455494,10/08/2014,,Shaw-Boyer,"Stephenson, Edwards and Fowler","65 395,63","5 945,06",6,6539563.0
+batch1_2,89528165,12/30/2019,,Mendoza and Sons,"Fuller, Martin and Hays",36.30,3.30,1,36.3
+batch1_2,79622223,08/30/2011,,"Ramirez, Parker and Perez",Haas PLC,351.97,32.00,2,351.97
+batch1_2,72499229,02/15/2012,,Gray Ltd,"Cordova, Kennedy and Stevenson",212.20,19.29,2,212.2
+batch1_2,98424808,03/26/2019,,Hernandez-Wilson,Higgins-Rhodes,"16 811,70","1 528,34",4,1681170.0
+batch1_2,61382297,12/23/2015,,Reyes and Sons,Weaver-Hughes,1869.93,169.99,5,1869.93
+batch1_2,93281048,11/27/2017,,"Reilly, Hicks and Hughes","Benson, Medina and Hamilton","42 668,81","3 878,98",4,4266881.0
+batch1_2,11101593,05/18/2015,,"Hood, Ruiz and Williams",Carter Ltd,1 121.93,101.99,2,1121.93
+batch1_2,90670432,03/13/2018,,Kennedy PLC,Stevens Inc,79.53,7.23,1,79.53
+batch1_2,93008460,03/06/2015,,"Huynh, Kim and Jacobs","Davis, Wilson and Hunt",5 575.87,506.90,4,5575.87
+batch1_2,11898657,07/29/2020,,Smith-Elliott,"Evans, Andrade and Williams",489.38,44.49,6,489.38
+batch1_2,84991865,03/18/2012,,Collins Ltd,Sanchez-Bean,98.76,8.98,1,98.76
+batch1_2,34521296,07/21/2018,,"Harper, Scott and Lester","Lee, Murphy and Carrillo",5332.92,484.81,5,5332.92
+batch1_2,82038366,04/01/2015,,Medina-Thompson,Ramirez Inc,"2 837,86",257.99,5,283786.0
+batch1_2,53831875,02/12/2017,,Noble Inc,Nelson Group,433.86,39.44,3,433.86
+batch1_2,68743594,11/14/2015,,Vasquez-Brennan,Green-Schmidt,45.95,4.18,3,45.95
+batch1_2,89499883,11/23/2013,,Richardson Group,Smith-Glover,228.92,20.81,5,228.92
+batch1_2,66789639,09/19/2011,,Thomas Group,Ferguson and Sons,298.42,27.13,7,298.42
+batch1_2,66043700,09/08/2014,,"Martinez, Tran and Anderson",Goodwin-Campbell,"1 253,94","113,99",2,125394.0
+batch1_2,89174655,01/19/2016,,Hayden-Young,Guerrero Group,111.31,10.12,4,111.31
+batch1_2,76654515,04/09/2012,,Lopez-Nguyen,Bradford-Graham,70.52,6.41,2,70.52
+batch1_2,58097062,04/05/2013,,Wright-Alvarez,Harper-Flynn,"31 822,25","2 892,93",7,3182225.0
+batch1_2,19078061,03/03/2013,,Wilson PLC,Combs Group,1869.98,170.00,1,1869.98
+batch1_2,65524700,02/23/2020,,Kirk-Green,Hall-Cole,10316.95,937.90,6,10316.95
+batch1_2,16798931,10/15/2018,,Duncan and Sons,Williams-Rubio,778.49,70.77,7,778.49
+batch1_2,18884359,09/04/2015,,Tran PLC,"Fields, Bennett and Dodson",12627.75,1147.98,5,12627.75
+batch1_2,97286997,07/07/2020,,"Herrera, Carney and Davis","Patton, Terry and Franco",222.30,20.21,7,222.3
+batch1_2,60050779,08/10/2020,,Garcia-Olson,Phillips-Bradford,566.78,51.53,6,566.78
+batch1_2,11187242,02/25/2020,,Powell Ltd,Lee Ltd,235.92,21.45,7,235.92
+batch1_2,57381840,08/31/2017,,Ayers-Daniels,Weber-Rodriguez,16 253.60,1 477.60,3,16253.6
+batch1_2,38631441,02/08/2016,,Pacheco-Booker,"Brooks, Thomas and Ho","3 640,86","330,99",2,364086.0
+batch1_2,37481348,09/13/2014,,"Barr, Bennett and Williams","Johnson, Price and Lane",14 030.36,1 275.49,4,14030.36
+batch1_2,34977445,12/04/2011,,Pace-Baker,"Stanley, Cooper and Koch",15 094.83,10%,7,15094.83
+batch1_2,60795755,11/30/2011,,Jones LLC,Fritz Group,29.48,2.68,2,29.48
+batch1_2,61026262,08/03/2013,,Butler PLC,"Wood, Williams and Lozano",2623.28,238.48,7,2623.28
+batch1_2,77307465,08/12/2014,,"Warren, Henry and Ellis",Moore and Sons,189.99,17.27,2,189.99
+batch1_2,45767415,05/28/2015,,Gallagher PLC,"Douglas, Padilla and Hinton",118.73,10.79,3,118.73
+batch1_2,74898182,10/24/2017,,Myers-Holmes,"Jennings, Hall and Mccoy","3899,74","354,52",3,389974.0
+batch1_2,77545252,04/07/2017,,Flores-Lee,Walton and Sons,330.00,30.00,2,330.0
+batch1_2,91125915,01/28/2015,,"Fields, Martin and Long",Hicks PLC,2347.30,213.39,6,2347.3
+batch1_2,66525131,07/26/2014,,Morales-Wells,Moreno PLC,224.75,20.43,6,224.75
+batch1_2,69934544,04/17/2014,,Spence-Castro,Wolfe and Sons,43.96,4.00,1,43.96
+batch1_2,57443354,08/16/2013,,Griffin-Williams,"Thompson, Ray and Lawrence",2260.50,205.50,2,2260.5
+batch1_2,25596256,10/14/2020,,Choi Inc,"Boyd, Davis and Mason",462.77,42.07,6,462.77
+batch1_2,64197871,11/24/2013,,"Jones, Hamilton and Johnson","Thomas, Cook and Douglas",919.52,83.59,7,919.52
+batch1_2,34916768,11/03/2013,,Carlson-Caldwell,Bryan-Armstrong,1308.37,118.94,6,1308.37
+batch1_2,48223084,12/05/2018,,Rodriguez-Conley,Gregory Inc,"335,17","30,47",2,33517.0
+batch1_2,48223084,12/05/2018,,Rodriguez-Conley,Gregory Inc,"335,17","30,47",2,33517.0
+batch1_2,40949664,05/12/2020,,"Smith, Johnson and Moore",Taylor PLC,"421,25","38,30",7,42125.0
+batch1_2,96192536,06/12/2011,,Smith-Brown,"Haas, Garcia and White",145.94,13.27,3,145.94
+batch1_2,44868919,02/08/2020,,"Cantrell, Barnes and Miller","Craig, Fox and Anderson",481.79,43.80,3,481.79
+batch1_2,45072803,08/05/2017,,"Caldwell, Ochoa and Williams",Morrow Group,"2 782,39","252,94",3,278239.0
+batch1_2,86780085,08/23/2011,,Walters-Hall,"Kirk, Collins and Henson","8700,64","790,97",6,870064.0
+batch1_2,23048796,09/15/2020,,Thomas-Edwards,"Chavez, Cooley and Snyder",533.18,48.47,7,533.18
+batch1_2,11036543,06/25/2017,,Brooks-Tate,Jackson Inc,368.47,33.50,3,368.47
+batch1_2,75050384,03/04/2012,,"Decker, Miller and Hall","Richards, Cole and Young",25346.42,2304.22,7,25346.42
+batch1_2,29712721,05/04/2021,,Holder-Mcdowell,Navarro LLC,94.58,8.60,2,94.58
+batch1_2,71748307,12/24/2011,,"Velasquez, Ward and Ballard",Lewis Group,1576.90,143.35,6,1576.9
+batch1_2,93132815,09/07/2019,,Lucas-Lewis,Price-Bennett,"249,68","22,70",3,24968.0
+batch1_2,17619666,03/09/2020,,Wilkerson Ltd,English-Brown,41419.40,3765.40,6,41419.4
+batch1_2,16759248,09/17/2017,,"Lee, Gomez and Chung",Williams PLC,76 534.92,6 957.72,4,76534.92
+batch1_2,86792000,04/11/2020,,Chandler-Figueroa,Blackburn-Stephenson,496.43,45.13,7,496.43
+batch1_2,71561544,10/27/2019,,Gonzalez-Davis,Downs-Harvey,"81 117,18","7 374,29",4,8111718.0
+batch1_2,47981077,07/10/2017,,Santiago-King,Shelton-Mason,"18 165,14","1 651,38",4,1816514.0
+batch1_2,67802841,09/09/2015,,Lynn-Wise,Nelson-Clark,"3 625,57",329.60,3,362557.0
+batch1_2,35293120,08/09/2018,,Adams Ltd,Reynolds Inc,4828.97,439.00,7,4828.97
+batch1_2,24734743,12/13/2015,,Tyler-Black,Gross PLC,296.48,26.95,6,296.48
+batch1_2,88223203,01/14/2014,,Jordan-Moreno,"York, Best and Spencer",279.36,25.40,3,279.36
+batch1_2,68338115,01/07/2021,,"Bennett, Sullivan and Collier",Adams-Lewis,160.08,14.55,3,160.08
+batch1_2,22442124,01/13/2012,,Holland and Sons,"Benitez, Pierce and Moreno",211.57,19.23,3,211.57
+batch1_2,19570656,04/05/2016,,Nixon-Delacruz,Schneider-Garrison,65.98,6.00,1,65.98
+batch1_2,37306845,04/29/2015,,Scott-Young,Edwards Ltd,"10 153,76","923,07",2,1015376.0
+batch1_2,18650156,03/23/2020,,Young LLC,Rodriguez LLC,112.12,10.19,4,112.12
+batch1_2,90292361,05/21/2019,,Lewis-Gardner,Barnett PLC,"16 231,52","1 475,59",6,1623152.0
+batch1_2,32009066,04/18/2020,,"Reese, Young and Sosa",Peterson-Bryant,"3 707,10","337,01",2,370710.0
+batch1_2,66825384,02/22/2015,,Harris Ltd,"Tyler, Morris and Chaney",8450.91,768.26,7,8450.91
+batch1_2,47602389,03/22/2015,,Adkins PLC,Roberts Inc,"131 334,52","11 939,50",7,13133452.0
+batch1_2,23287155,11/07/2018,,Cox and Sons,"Ramsey, Herring and Wyatt",12412.48,1128.41,5,12412.48
+batch1_2,38392535,12/01/2018,,Monroe-Fischer,Howard-Haynes,1627.98,148.00,3,1627.98
+batch1_2,85395957,01/02/2019,,Contreras-Rangel,"Morgan, Johnson and Lee",320.65,29.15,4,320.65
+batch1_2,91445086,11/04/2019,,Wade-Johnson,Randolph LLC,180.87,16.44,5,180.87
+batch1_2,95076029,11/20/2011,,"Wallace, Webb and Lucas",Smith-Cabrera,249.96,22.72,5,249.96
+batch1_2,41659958,04/09/2015,,Jones-Torres,"Alvarado, Pittman and Baker","19 330,41","1 757,31",5,1933041.0
+batch1_2,43813549,08/07/2018,,Brown-Harris,Navarro-Webb,165.66,16.57,7,165.66
+batch1_2,56943461,12/05/2015,,Moore-Rodriguez,Diaz PLC,10 560.00,960.00,1,10560.0
+batch1_2,92944130,07/07/2014,,"Fritz, May and Gomez","Long, Jacobson and Roman",1576.18,143.29,4,1576.18
+batch1_2,94666143,10/11/2013,,Houston-Griffin,"Montgomery, Macias and Hines",11692.71,1062.97,7,11692.71
+batch1_2,77164038,04/15/2021,,Brooks-Butler,Myers-Brooks,90.67,8.24,3,90.67
+batch1_2,15902016,11/07/2017,,Martin-Silva,Spencer Ltd,7397.59,672.51,7,7397.59
+batch1_2,74227045,05/03/2018,,Graham-Taylor,Hopkins Ltd,759.11,69.01,7,759.11
+batch1_2,22434910,12/30/2015,,Orozco PLC,Miller Group,344.13,31.28,4,344.13
+batch1_2,98497640,06/22/2019,,"Martinez, Moore and Lee","Carter, Welch and Ryan","26 660,87","2 423,72",4,2666087.0
+batch1_2,64291160,02/17/2016,,"Evans, Bowman and Randolph",Weiss-Thomas,148.50,13.50,3,148.5
+batch1_2,98824587,03/09/2020,,"Booth, Townsend and Sanford","Hughes, Edwards and Jones",4 113.92,373.99,6,4113.92
+batch1_2,12681565,09/07/2015,,Clay-Koch,Thompson-Baker,"4 391,10",399.19,5,439110.0
+batch1_2,14103295,04/12/2013,,"Glover, Caldwell and Burch",Taylor-Robinson,421.25,38.30,5,421.25
+batch1_2,78785504,03/21/2012,,Solomon-Barnett,Campbell-Weiss,567.55,51.60,6,567.55
+batch1_2,83158540,02/28/2015,,Anderson-Garcia,"Anthony, Haley and Wiggins",156.05,14.19,2,156.05
+batch1_2,63960251,11/15/2019,,Stewart-Ruiz,"Hill, Williams and Knight",361.91,32.90,7,361.91
+batch1_2,66430808,06/18/2020,,Rowe-Lee,"Acosta, Price and West",769.54,69.96,6,769.54
+batch1_2,59628193,12/19/2019,,Hart Ltd,"Chandler, Campbell and Smith","32 880,80","2 989,16",5,3288080.0
+batch1_2,94914402,05/25/2016,,"Hines, Stevens and Wong","Gonzalez, Martin and Hamilton",255.64,23.24,3,255.64
+batch1_2,14467965,12/20/2019,,Flores Inc,Morse-Parsons,228.71,20.79,3,228.71
+batch1_2,95611677,07/19/2016,,Franco Group,Johnson Group,"1 054,10","95,83",2,105410.0
+batch1_2,49822251,02/21/2015,,House Group,Espinoza LLC,272.73,24.79,2,272.73
+batch1_2,26020078,11/19/2019,,"Johnson, Coleman and Mccarthy","Ochoa, Crane and Johnston",116.52,10.59,4,116.52
+batch1_2,34069390,05/09/2016,,Benton PLC,"Fuller, Thomas and Green",4272.92,388.45,7,4272.92
+batch1_2,42485588,03/15/2012,,Zuniga and Sons,Knight-Brown,214.41,19.49,2,214.41
+batch1_2,72794429,03/15/2021,,"Navarro, Nguyen and Peters",Frost PLC,"285,98","26,00",1,28598.0
+batch1_2,50222999,03/03/2015,,Walters-Johnson,Rodriguez-Thomas,3323.10,302.10,2,3323.1
+batch1_2,78697882,09/18/2016,,Wright-Lewis,Robinson-Martin,3 567.15,324.29,5,3567.15
+batch1_2,94689364,01/12/2015,,"Schwartz, Flynn and Jackson",Wilson PLC,"37 153,67","3 377,61",6,3715367.0
+batch1_2,62416513,05/05/2013,,Eaton LLC,Miller-Campbell,"415,75","37,80",2,41575.0
+batch1_2,48402876,02/06/2020,,Stone-Ruiz,Chapman-Pineda,4 618.75,419.89,5,4618.75
+batch1_2,55043266,03/15/2012,,Barnes Inc,"Smith, Payne and Vargas",676.46,61.50,6,676.46
+batch1_2,11158119,03/23/2019,,Moore Ltd,Graham-Shepherd,131.98,12.00,2,131.98
+batch1_2,48142412,02/02/2014,,Ramirez-Nunez,"Park, Sullivan and Bernard","34 222,84","3 111,17",4,3422284.0
+batch1_2,65321852,04/11/2021,,"Kaufman, Cooper and Young",Wells-Carlson,214.24,19.48,4,214.24
+batch1_2,53695084,10/25/2015,,"Diaz, Warren and Carter","Black, Smith and Bass",2 012.51,182.96,3,2012.51
+batch1_2,86268868,03/30/2012,,Harrison and Sons,"Adams, Holmes and Cruz","36 946,22","3 358,75",6,3694622.0
+batch1_2,65851875,05/06/2021,,"Glover, Harvey and Davis",Perez Group,55.66,5.06,4,55.66
+batch1_2,77006579,11/12/2019,,Wilson Inc,Hunter-Miranda,292.40,26.58,6,292.4
+batch1_2,39280409,07/06/2014,,Davis PLC,Bailey-Harris,1767.34,160.67,5,1767.34
+batch1_2,57262990,11/25/2016,,George-Roberts,Rivera Inc,27.13,2.47,3,27.13
+batch1_2,87278875,07/06/2019,,Jackson-Martinez,"Foster, Travis and Harris",75.61,6.87,3,75.61
+batch1_2,49089384,08/17/2014,,Pruitt Inc,Glover and Sons,51 803.01,4 709.36,5,51803.01
+batch1_2,16220332,05/15/2017,,Lawson and Sons,Mosley LLC,"69 138,73","6 285,34",6,6913873.0
+batch1_2,10080932,05/30/2021,,Young-Proctor,"Gallagher, Welch and Campbell",1430.92,130.08,5,1430.92
+batch1_2,76999802,07/14/2020,,"Nolan, Williams and Roach","Dixon, Hall and Payne",81661.14,7423.74,6,81661.14
+batch1_2,88659425,10/15/2016,,Vance-Scott,Moore-Pierce,567.27,51.57,6,567.27
+batch1_2,61619303,09/20/2013,,"Glenn, Roberts and Cochran","Burgess, Evans and Moreno",1 057.33,96.12,2,1057.33
+batch1_2,83326872,10/12/2019,,"Brown, Santos and Peters",Fisher-Mendez,3 241.81,324.18,4,3241.81
+batch1_2,92608297,03/03/2019,,"Gonzalez, Lin and Hernandez",Yates PLC,"8 210,37",746.40,2,821037.0
+batch1_2,56514066,05/14/2014,,"Snyder, Williams and Walter",Keller Inc,49.38,4.49,1,49.38
+batch1_2,47743201,07/23/2015,,Carpenter-Johnston,Greene-Dean,51.40,4.67,4,51.4
+batch1_2,74322107,02/02/2016,,Davis-Obrien,Taylor Ltd,68.16,6.20,1,68.16
+batch1_2,45072501,04/29/2017,,"Spears, Valdez and Perez",Sanford-Huffman,159.74,14.52,6,159.74
+batch1_2,33931957,12/17/2015,,Rojas-Cook,Cohen LLC,27.50,2.50,1,27.5
+batch1_2,74474655,01/03/2015,,Hunt Group,"Rogers, Parks and Hall",119.23,10.84,2,119.23
+batch1_2,70372519,05/01/2013,,"Williamson, Murphy and Winters","Brown, Rodriguez and Lopez",4916.88,446.99,7,4916.88
+batch1_2,95592218,03/09/2017,,Ortega-King,"Galloway, Robinson and Rice",20.34,1.85,2,20.34
+batch1_2,94133236,12/12/2019,,Parker Inc,Jefferson Group,114385.48,10398.68,6,114385.48
+batch1_2,33652903,05/19/2014,,"Li, Briggs and Jones",Stewart and Sons,267.69,24.34,5,267.69
+batch1_2,25353322,01/05/2014,,Lawson-Baker,Bradley-Ford,205.62,18.69,5,205.62
+batch1_2,51686132,06/27/2015,,Stephens PLC,"White, Blevins and Ellis",1523.45,138.50,5,1523.45
+batch1_2,99988020,07/03/2013,,Foster Ltd,Harvey-Palmer,"4 949,95","450,00",1,494995.0
+batch1_2,38829380,12/25/2017,,Cook LLC,"Meza, Griffin and Powell",18710.63,1700.97,7,18710.63
+batch1_2,68868961,03/06/2014,,Anderson Group,Gray LLC,"4 801,45","436,50",6,480145.0
+batch1_2,78566408,03/18/2016,,Clark PLC,Adams and Sons,228.68,20.79,6,228.68
+batch1_2,97802815,02/27/2013,,"Mcbride, Lowe and Robinson",Bolton-Jackson,560.99,51.00,1,560.99
+batch1_2,95707254,07/20/2020,,"Cobb, Allen and Diaz","Carr, Odom and Jones",302.58,27.51,5,302.58
+batch1_2,67182330,06/05/2014,,"Eaton, Thomas and Harrington",Wright-Johnson,405.67,36.88,5,405.67
+batch1_2,72346654,10/25/2015,,Malone-Lopez,Perez Group,7433.21,675.75,5,7433.21
+batch1_2,89538216,09/09/2018,,"Boyd, Franklin and Santos",Boyer-Jackson,"1 682,77","152,98",4,168277.0
+batch1_2,29180375,10/30/2011,,"Rowe, Grimes and Knox","Browning, Johnson and Graham",290.18,26.38,1,290.18
+batch1_2,60178633,12/25/2013,,Mendoza Group,"Elliott, Kelly and Warren",131.94,11.99,1,131.94
+batch1_2,65744802,03/30/2012,,"Yang, Barnes and Porter",Bates and Sons,52.80,4.80,1,52.8
+batch1_2,76671573,04/08/2012,,Benson LLC,"Smith, Landry and Ruiz",10.76,0.98,1,10.76
+batch1_2,49656852,08/28/2016,,Ross and Sons,"Wall, Gonzalez and Armstrong",52 466.15,4 769.65,5,52466.15
+batch1_2,46775557,04/05/2019,,"Roberts, Smith and Rogers",Rose Ltd,80.28,7.30,2,80.28
+batch1_2,23876575,07/11/2016,,"Alexander, Hensley and Watson","Simpson, Barton and Barnes",3766.06,342.37,5,3766.06
+batch1_2,97159829,09/18/2015,,Bradley-Andrade,Castro PLC,978.12,88.92,1,978.12
+batch1_2,89379798,03/20/2020,,Winters Inc,Williams PLC,"31 774,49","2 888,59",5,3177449.0
+batch1_2,12456262,02/22/2012,,Williams and Sons,Medina-Kennedy,"58 667,76","5 333,43",7,5866776.0
+batch1_2,20297202,04/28/2018,,"Sutton, Davis and Murray","Mitchell, Fletcher and Smith",19.67,1.79,1,19.67
+batch1_2,70370075,09/19/2015,,Kim PLC,Smith Ltd,"64 774,93","5 888,63",2,6477493.0
+batch1_2,40703934,03/10/2016,,Morales LLC,Moore-Miller,217.48,21.75,2,217.48
+batch1_2,12877828,01/28/2017,,"Perez, Bell and Smith",Woods Ltd,402.99,36.64,6,402.99
+batch1_2,20850516,07/10/2017,,Carney-Rogers,"Duncan, Mendoza and Mitchell",195.31,17.76,3,195.31
+batch1_2,24467788,12/09/2016,,"Owen, Peterson and Parsons",Rodriguez-Anderson,"1 138,50","103,50",1,113850.0
+batch1_2,13194726,05/29/2021,,Hopkins and Sons,Sims PLC,640.12,58.19,6,640.12
+batch1_2,75703845,05/20/2019,,Williams-Brown,"Aguilar, Brown and Ray",2425.87,220.53,6,2425.87
+batch1_2,33137636,07/20/2015,,Mckenzie PLC,Schultz PLC,215.03,19.55,6,215.03
+batch1_2,65937088,07/14/2011,,"Wall, Lester and Curtis","Barnes, Davis and Daniel",1133.54,103.05,7,1133.54
+batch1_2,93411242,01/07/2017,,Harrison-Harris,Smith-Hill,7876.78,716.07,5,7876.78
+batch1_2,78985014,10/21/2020,,"Gibson, Bradley and Jackson",Dickson LLC,12 074.79,1 097.71,2,12074.79
+batch1_2,53575326,11/18/2018,,Gay Group,Smith Inc,7 876.46,716.04,6,7876.46
+batch1_2,25342867,01/10/2015,,Scott LLC,"Brown, Miller and Wise",237.49,21.59,6,237.49
+batch1_2,96856159,06/12/2014,,Bradford and Sons,Sellers PLC,703.96,64.00,1,703.96
+batch1_2,26248685,05/26/2018,,Baker Inc,"Mitchell, Hill and Strickland",309.10,28.10,2,309.1
+batch1_2,41887406,03/24/2014,,Peterson-Branch,Wagner Ltd,"5 312,84",482.99,5,531284.0
+batch1_2,24344887,02/20/2020,,Cook Group,Mercado-Nelson,60.49,5.50,4,60.49
+batch1_2,24902792,02/27/2015,,"Shields, Webb and Williams","Morrow, Heath and Gonzales","20 871,27","1 897,39",7,2087127.0
+batch1_2,37292788,07/12/2013,,Bennett-Sanchez,Riley-Miller,120.51,10.96,3,120.51
+batch1_2,68357221,09/26/2013,,Wilson Group,Edwards-Morris,13.75,1.25,1,13.75
+batch1_2,84422507,12/08/2019,,Shelton Inc,"Watson, White and Lawrence",5274.36,479.49,7,5274.36
+batch1_2,14964142,12/23/2013,,Lewis and Sons,Dixon-Wall,4.94,0.45,1,4.94
+batch1_2,39463508,09/17/2013,,Evans PLC,"Barry, Ruiz and Alexander","5 013,80","455,80",2,501380.0
+batch1_2,12830936,04/27/2021,,Johnson LLC,"Smith, Anderson and Ward",6530.55,593.69,7,6530.55
+batch1_2,56323869,04/24/2015,,Weeks-Taylor,"Lopez, Bailey and White",31.02,2.82,1,31.02
+batch1_2,68043569,09/09/2011,,"Schultz, Lopez and Smith",David-Rhodes,969.80,88.16,5,969.8
+batch1_2,88408888,06/02/2012,,"Burns, Hall and Lopez","Baldwin, Johnson and Jenkins",650.67,59.15,6,650.67
+batch1_2,32656405,10/25/2013,,Mcdonald and Sons,"James, Johnson and Adkins",882.05,80.19,6,882.05
+batch1_2,52557179,08/22/2012,,Serrano-Jones,Gonzalez-Ross,"41 027,47","3 729,77",5,4102747.0
+batch1_2,80150256,07/24/2017,,"Jenkins, Green and Strickland",Perkins PLC,104.85,9.53,3,104.85
+batch1_2,59540671,09/23/2012,,"Williams, Merritt and Hodge","Garcia, Wheeler and Johnston",159.80,14.53,3,159.8
+batch1_2,80930562,08/14/2012,,Harvey-Bell,Vazquez Inc,1935.80,175.98,5,1935.8
+batch1_2,85817513,10/16/2018,,"Jennings, Perkins and Young",Alexander-Conrad,104.45,9.50,1,104.45
+batch1_2,55954287,03/23/2012,,Johnson-Moore,Leonard LLC,"46 660,90","4 241,90",5,4666090.0
+batch1_2,26675003,10/24/2012,,Wright-Lucas,Hayes Inc,"177,76","16,16",5,17776.0
+batch1_2,79616362,01/13/2021,,"Rosales, Day and Ingram",Sanchez LLC,4174.28,379.48,5,4174.28
+batch1_2,92651511,01/18/2015,,Jones Inc,Macdonald Ltd,"13 986,35","1 271,49",4,1398635.0
+batch1_2,92751876,02/14/2013,,"Mccormick, Sparks and Walsh",Welch Ltd,193.56,17.60,3,193.56
+batch1_2,87970852,05/16/2018,,Harvey-Rivas,Trujillo PLC,335.04,30.46,4,335.04
+batch1_2,53489259,04/03/2013,,Palmer PLC,Chavez-Marquez,1 509.64,137.24,7,1509.64
+batch1_2,94885760,08/22/2012,,"Crawford, Acosta and Solomon",Chen-Ortega,60.45,5.50,1,60.45
+batch1_2,17695664,02/27/2015,,"Daniel, Maxwell and Marshall",Clay-Johnson,229.17,20.83,4,229.17
+batch1_2,90446683,02/11/2016,,Chang-Cooper,Peterson-Long,"216,67","19,70",2,21667.0
+batch1_2,52013651,01/11/2017,,"Robinson, Thompson and Robinson",Taylor PLC,"72 423,87","6 583,99",6,7242387.0
+batch1_2,26213346,10/05/2020,,"Mitchell, Taylor and Bailey",Young-Hess,901.92,81.99,3,901.92
+batch1_2,29470022,02/17/2019,,Sanchez Group,Estrada-Vasquez,574.51,52.23,4,574.51
+batch1_2,21722776,11/05/2019,,Montgomery Ltd,Williams-Foster,"2 188,73","198,98",3,218873.0
+batch1_2,28610769,06/19/2017,,Martin Inc,Eaton Ltd,"2 172,39","197,49",2,217239.0
+batch1_2,79637771,09/26/2011,,Stevens-Compton,Tran PLC,"55 378,76","5 034,43",6,5537876.0
+batch1_2,33691533,07/25/2014,,Fowler-Griffin,Scott-Garcia,3619.50,329.05,6,3619.5
+batch1_2,52574707,04/12/2019,,"Martin, Johnson and Delgado",Williams-Lewis,720.57,65.51,7,720.57
+batch1_2,53339803,09/11/2018,,Evans LLC,"Ball, Smith and Rhodes",16830.00,1530.00,3,16830.0
+batch1_2,23128566,08/27/2020,,Wells-Allen,Martinez-Silva,135.62,12.33,6,135.62
+batch1_2,13110923,12/21/2013,,"Cruz, Meyer and Quinn","Hodges, Lang and Thompson","30 588,80","2 780,80",2,3058880.0
+batch1_2,66045137,08/09/2016,,Kelly Ltd,"Lopez, Chapman and Gonzalez",320.94,29.18,7,320.94
+batch1_2,10963794,08/09/2012,,Oconnor Group,Pena-Schaefer,589.41,53.58,4,589.41
+batch1_2,72005605,09/16/2019,,Butler and Sons,Pearson Group,95 556.75,8 686.98,6,95556.75
+batch1_2,86561552,03/09/2018,,Williams Group,Taylor-Howard,"3 305,18","300,47",2,330518.0
+batch1_2,40725651,06/15/2015,,Vincent-Smith,French-Cooper,"32 042,55","2 912,96",7,3204255.0
+batch1_2,66537515,11/25/2018,,Lucas-Bright,Morris-Trujillo,"1 658,25","150,75",2,165825.0
+batch1_2,28661957,04/07/2013,,"Stevenson, Hicks and Bowman","Harris, Walker and Lopez",328.79,29.89,6,328.79
+batch1_2,17548173,10/20/2012,,Shaw and Sons,"Conrad, Smith and Watkins",1 408.94,128.09,5,1408.94
+batch1_2,48239873,09/19/2016,,Taylor-Robertson,Briggs Inc,97.52,8.87,3,97.52
+batch1_2,16581981,07/26/2016,,Barber LLC,"Case, Wagner and Johnson","222,58","20,23",2,22258.0
+batch1_2,22323078,05/11/2016,,Lopez PLC,Hernandez LLC,131.92,11.99,2,131.92
+batch1_2,27188556,03/10/2019,,Hicks and Sons,Washington and Sons,18604.53,1691.32,4,18604.53
+batch1_2,71963176,01/31/2019,,"Brown, Grant and Young",Stewart Ltd,"142,11","12,92",5,14211.0
+batch1_2,72026666,12/04/2012,,"Parrish, Anderson and Banks","Hansen, Campbell and Boyd","53 782,93",10%,7,5378293.0
+batch1_2,22537855,07/03/2013,,"Barton, Garcia and Richards","Wilson, Wagner and Newman","10 559,00","959,91",6,1055900.0
+batch1_2,41997527,02/02/2021,,"Hernandez, Guzman and Lopez",Cox LLC,78.54,7.14,1,78.54
+batch1_2,99053443,06/04/2019,,"Chavez, Morton and Gonzales","Walters, Cantu and Duran","229,79","20,89",4,22979.0
+batch1_2,87433420,04/26/2015,,"James, Becker and Walters",Rios PLC,698.91,63.54,6,698.91
+batch1_2,64218159,11/09/2013,,Price-Bishop,"Mata, Pena and Avery",64.67,5.88,4,64.67
+batch1_2,78190005,01/09/2016,,"Simmons, Jones and Jones",Medina and Sons,4146.50,376.95,5,4146.5
+batch1_2,29333870,03/06/2021,,Watson-Harris,Castillo-Obrien,10.99,1.00,1,10.99
+batch1_2,48757480,02/28/2021,,"Murray, Deleon and Larson","Hogan, House and Braun",270.28,24.57,6,270.28
+batch1_2,19832522,09/27/2016,,Cunningham-Richmond,"Parks, Hardin and Hines",76.91,6.99,2,76.91
+batch1_2,70646996,12/04/2018,,"Love, Smith and Harris",Rogers Inc,97.33,8.85,3,97.33
+batch1_2,77097467,05/03/2019,,"Monroe, Dillon and Henderson","Lopez, Jordan and Jimenez",6369.92,636.99,4,6369.92
+batch1_2,78984257,10/20/2019,,"Hernandez, Brown and Rodriguez",Petersen-Best,30 468.27,2 769.84,3,30468.27
+batch1_2,84408619,08/19/2019,,Johnston and Sons,Chang-Doyle,5687.30,517.03,5,5687.3
+batch1_2,93769983,06/01/2019,,"Brown, King and Henry","Jones, Swanson and Smith",28 940.34,2 630.94,3,28940.34
+batch1_2,41925448,08/19/2019,,Keith LLC,Wang Ltd,395.96,36.00,1,395.96
+batch1_2,80918693,06/19/2020,,Charles-Parsons,"Jacobs, Patterson and Church",748.24,68.02,6,748.24
+batch1_2,65428348,07/27/2017,,Perez Ltd,Diaz LLC,672.08,61.10,5,672.08
+batch1_2,56014042,10/01/2014,,Nichols-Barajas,Mckay PLC,65.45,5.95,2,65.45
+batch1_2,52721574,04/13/2019,,Young-Wilkinson,Robertson Inc,5224.97,475.00,3,5224.97
+batch1_2,96452603,03/12/2016,,Summers-Bradley,Ochoa and Sons,458.96,41.72,1,458.96
+batch1_2,65923175,12/13/2019,,Hurst-Humphrey,Huber-Johnson,891.00,81.00,1,891.0
+batch1_2,58162869,05/18/2019,,"Foster, Jones and Contreras",Stevens and Sons,"36 210,72","3 291,88",5,3621072.0
+batch1_2,34108072,10/05/2014,,"Arnold, Watson and Taylor",Mcclure-Thompson,181.50,16.50,1,181.5
+batch1_2,60400209,10/02/2017,,White PLC,Elliott-Cole,257.19,23.38,3,257.19
+batch1_2,69045418,06/09/2015,,Thompson-Hopkins,Zavala-Brooks,26.94,2.45,2,26.94
+batch1_2,81163184,10/23/2017,,Harrison-Melton,Hoffman-Daniel,4.36,0.40,1,4.36
+batch1_2,19136863,11/15/2013,,Lewis Group,"Avila, Garcia and Murray","2 521,04","229,19",5,252104.0
+batch1_2,65059169,09/12/2018,,Rodriguez-Harrington,Smith Group,1017.45,92.50,5,1017.45
+batch1_2,26838088,05/16/2017,,Montoya PLC,Moss Inc,174.65,15.88,6,174.65
+batch1_2,14941401,07/28/2020,,Harris-Jones,"Oconnor, Hubbard and Jackson",605.00,55.00,2,605.0
+batch1_2,11764566,06/01/2018,,"Bernard, Lang and Guerra",Arnold Group,97.75,8.89,2,97.75
+batch1_2,55236311,10/21/2017,,Hill PLC,Ward-Lindsey,139.66,12.70,4,139.66
+batch1_2,95877096,07/01/2016,,"Allen, Johnson and Edwards","Gomez, Mercado and Nichols","529,90","48,17",3,52990.0
+batch1_2,83347787,06/05/2013,,"Williams, Coleman and Parrish",Lyons-Manning,557.85,50.71,6,557.85
+batch1_2,64516079,12/14/2020,,Flores PLC,"Schmidt, Carrillo and Estes",48.37,4.40,2,48.37
+batch1_2,68864619,01/16/2015,,Holt-Mooney,"Daniel, Sutton and Stevens",9.00,0.82,1,9.0
+batch1_2,38096197,02/23/2019,,Cook-Ortiz,Morgan LLC,27.23,2.48,1,27.23
+batch1_2,90253965,05/23/2013,,Rios-Ramirez,"Tate, Scott and Kennedy","26 677,20","2 425,20",2,2667720.0
+batch1_2,45205576,11/18/2015,,Garner-Henson,"Paul, Moore and Rojas",6874.44,624.95,7,6874.44
+batch1_2,46405643,05/16/2018,,Wilson Inc,Burke-Nelson,3098.57,281.69,6,3098.57
+batch1_2,12342928,04/12/2019,,Robinson and Sons,"Hanna, Mathis and Zuniga",819.69,74.52,7,819.69
+batch1_2,79434652,06/22/2013,,Ware Group,Keller Inc,231.12,21.01,4,231.12
+batch1_2,53923577,04/19/2017,,"Hamilton, Martin and Benson","Knapp, Moore and Cooper",1 938.76,176.25,2,1938.76
+batch1_2,27301261,10/09/2012,,Williams LLC,Hernandez-Anderson,"544,46","49,50",7,54446.0
+batch1_2,53989435,11/29/2013,,Kennedy PLC,Ramirez and Sons,"18 454,56","1 677,69",2,1845456.0
+batch1_2,63433526,09/08/2017,,Rangel Inc,Hudson Ltd,572.00,52.00,1,572.0
+batch1_2,88273503,01/17/2021,,Clark and Sons,Rodriguez-Jennings,549.98,50.00,1,549.98
+batch1_2,56114837,10/30/2013,,"Davis, Garrett and Nichols",Hill-Smith,109.96,10.00,1,109.96
+batch1_2,16979918,02/18/2018,,Wood Ltd,"Patterson, Trevino and Browning",4640.50,421.86,3,4640.5
+batch1_2,50368630,10/08/2018,,"Dominguez, Hunt and Garcia","Knight, Contreras and Roberts","36 623,38","3 329,40",3,3662338.0
+batch1_2,66002809,11/07/2017,,Bailey Inc,Chen-Higgins,569.21,51.75,6,569.21
+batch1_2,59506452,11/20/2017,,"Alexander, Schneider and Russo",Graham-Martinez,67719.34,6156.30,6,67719.34
+batch1_2,67411769,01/13/2013,,Colon and Sons,Estes-Ferguson,341.63,31.06,2,341.63
+batch1_2,28753573,07/28/2012,,Reynolds PLC,"Gordon, Crawford and Jacobs",65.97,6.00,1,65.97
+batch1_2,89404218,10/17/2017,,Rivera LLC,Zamora-Robbins,503.92,45.81,4,503.92
+batch1_2,35977350,04/01/2016,,Richardson PLC,Alvarado and Sons,1497.90,136.17,6,1497.9
+batch1_2,23710540,12/13/2011,,Graham-Thompson,"Wang, Mann and Johnson",50.19,4.56,4,50.19
+batch1_2,99034529,08/16/2011,,Patterson-Bryant,Allen-Alvarez,"680,34","61,85",1,68034.0
+batch1_2,83087418,08/21/2019,,"Perez, Hurst and Martinez","Kemp, Barber and Hanson",48416.63,4401.51,4,48416.63
+batch1_2,45241268,10/25/2018,,"Terry, Forbes and Franklin",Goodman-Rangel,220.44,20.04,2,220.44
+batch1_2,72473480,10/30/2020,,"Lee, Taylor and Thompson",Ball and Sons,82.20,7.47,4,82.2
+batch1_2,77256632,05/05/2013,,Cox-Ortega,Giles Inc,15.36,1.40,1,15.36
+batch1_2,46569899,10/14/2018,,Cooper PLC,"Harris, Robles and Martinez",2348.08,213.46,7,2348.08
+batch1_2,24364764,04/04/2012,,Martinez LLC,Brown-Sullivan,52.44,4.77,3,52.44
+batch1_2,38996645,02/16/2015,,Barnett-Hughes,Orr-Morales,302.39,27.49,3,302.39
+batch1_2,77281821,01/13/2014,,Stephens LLC,"Ramirez, Anderson and Hughes","29897,50","2717,95",7,2989750.0
+batch1_2,74825616,11/10/2011,,"White, Roy and Mcdaniel",Grant PLC,471.15,42.83,2,471.15
+batch1_2,37535203,07/13/2015,,Garcia-Burton,Miranda-Nielsen,475.75,43.25,6,475.75
+batch1_2,91203765,12/18/2019,,Knight-Velez,Nichols-Williams,606.66,55.15,4,606.66
+batch1_2,38166771,08/09/2018,,"Long, Mcclain and Harmon",Henry Ltd,51.70,4.70,1,51.7
+batch1_2,46301857,04/08/2017,,Murphy-Sanders,"Parker, Graham and Swanson",65.29,5.94,2,65.29
+batch1_2,35494837,04/02/2019,,Smith-Peterson,Cabrera Ltd,95.94,8.72,5,95.94
+batch1_2,12335640,12/31/2018,,Curry Inc,Tapia Inc,387.09,35.19,3,387.09
+batch1_2,10541959,02/19/2017,,Alvarez-Woods,Smith-Haynes,28.75,2.61,3,28.75
+batch1_2,35050964,11/18/2011,,Soto-Carson,"Wong, Le and Hall",664.02,60.37,7,664.02
+batch1_2,13869338,06/24/2018,,Torres-Mendez,Burnett-Garcia,5589.55,508.14,5,5589.55
+batch1_2,76588527,11/21/2018,,Oliver and Sons,Kirby-Charles,747.96,68.00,2,747.96
+batch1_2,84663031,08/02/2020,,Curtis Group,Berry-Barnes,126.08,11.46,2,126.08
+batch1_2,52676405,09/02/2017,,Phillips-Barnes,Avila-Miller,"165,94","15,09",2,16594.0
+batch1_2,97294846,05/23/2020,,Morgan and Sons,"Fuller, Baldwin and Michael",264.09,24.01,7,264.09
+batch1_2,65545038,06/21/2018,,Reyes Ltd,Roberts-Kelly,420.39,38.22,4,420.39
+batch1_2,39390025,01/17/2019,,Miller PLC,Sullivan-Sanchez,"1332,32","121,12",2,133232.0
+batch1_2,57976720,01/02/2018,,Mcintosh-Taylor,"Casey, Watkins and Delgado","916,21","83,29",1,91621.0
+batch1_2,43453121,03/24/2021,,Wise and Sons,"Moran, Taylor and Myers",201.06,18.28,4,201.06
+batch1_2,41389063,03/17/2021,,"Carpenter, Robinson and Jackson","Davis, Li and Coleman",16.14,1.47,1,16.14
+batch1_2,29494035,04/09/2016,,"Ray, Diaz and Montes",Kim-Mueller,2188.91,198.99,5,2188.91
+batch1_2,98418938,08/31/2018,,Hill-Jones,"Johnson, Anderson and Hartman",1286.99,117.00,3,1286.99
+batch1_2,27139567,07/14/2017,,"Vargas, Miller and Miller","Morris, Gentry and Nguyen",48517.63,4410.69,5,48517.63
+batch1_2,25796631,07/03/2013,,"Mercado, Fields and Lewis",Rogers-Jones,257.95,23.45,5,257.95
+batch1_2,65507091,07/30/2014,,"Pacheco, Simmons and Coleman",Hensley LLC,"67 572,13","6 142,92",6,6757213.0
+batch1_2,39338291,03/07/2017,,Mcdonald LLC,Carey PLC,275.00,25.00,1,275.0
+batch1_2,83613779,06/25/2014,,Larson-Grant,"Weiss, Beard and Ayala",897.52,81.59,5,897.52
+batch1_2,19961329,02/24/2015,,Martin Group,Cox-Hall,40.69,3.70,1,40.69
+batch1_2,38870308,08/01/2019,,Dunn-Campbell,"Ramirez, Donaldson and Lane",328.83,29.89,4,328.83
+batch1_2,40345107,04/02/2013,,Thomas-Mitchell,Roberts-Wolfe,175.30,15.94,4,175.3
+batch1_2,82869381,09/16/2016,,King-Lawrence,James-Jones,497.98,45.27,7,497.98
+batch1_2,51719586,08/25/2012,,"Oliver, Rodriguez and Taylor",Taylor-Neal,3.29,0.30,1,3.29
+batch1_2,66017174,03/26/2021,,Williams-Merritt,"Richards, Johnson and Harper",5 888.80,535.35,6,5888.8
+batch1_2,15665127,11/03/2020,,Greene Ltd,"Cruz, Martinez and Jones",2 345.76,213.25,6,2345.76
+batch1_2,77725914,09/01/2018,,"Sims, Salinas and Tanner","Coleman, Mccoy and Cooper",812.56,81.26,7,812.56
+batch1_2,63665479,02/12/2017,,Lowery LLC,Carrillo-Montoya,176.00,16.00,1,176.0
+batch1_2,75367021,11/12/2018,,Martinez-Ramirez,"Lawrence, Stevens and Robinson","36 651,71","3 331,97",7,3665171.0
+batch1_2,69941787,03/03/2012,,Hanson PLC,Nelson-Chandler,"35 572,00","3 233,82",2,3557200.0
+batch1_2,18001573,12/30/2012,,Mcgrath-Ruiz,"Chavez, Burke and Jones",111.07,10.10,3,111.07
+batch1_2,87844093,04/09/2021,,Snyder-Lane,Lozano PLC,7328.87,666.26,7,7328.87
+batch1_2,35034639,03/12/2015,,"Jones, Bryant and Ball",Jenkins Inc,109.94,9.99,1,109.94
+batch1_2,20527132,04/16/2018,,Smith-Flores,"Roberts, Wilson and Galloway",1208.85,109.90,4,1208.85
+batch1_2,16575103,07/03/2016,,Sheppard-Mendez,Charles-Garner,"280,50","25,50",1,28050.0
+batch1_2,57114004,03/20/2012,,Parker-Gonzalez,"Gardner, Hernandez and Hart",14.82,1.35,1,14.82
+batch1_2,93910733,01/18/2018,,Smith-Ramirez,"Reid, Ryan and Butler",4643.14,422.10,6,4643.14
+batch1_2,59482422,02/22/2016,,Avila-Espinoza,"Davis, Miller and Mcfarland","934,31","84,94",4,93431.0
+batch1_2,76903393,07/24/2012,,"Young, Owens and Hall",King-Wells,5230.40,475.49,7,5230.4
+batch1_2,30386285,09/28/2020,,Wagner-Weaver,Rodriguez and Sons,23844.07,2167.64,6,23844.07
+batch1_2,54350218,07/29/2018,,Lawrence LLC,"Richards, Pittman and Scott",482.25,43.84,7,482.25
+batch1_2,37999492,10/22/2017,,Smith Ltd,"Jones, Miller and Yoder",4 949.18,449.93,6,4949.18
+batch1_2,28590433,09/27/2016,,White Group,Hoffman Inc,15 804.54,1 436.78,7,15804.54
+batch1_2,42063568,06/21/2016,,Malone-Gonzalez,Kim-Anderson,"2 977,67","270,70",6,297767.0
+batch1_2,39190235,02/18/2019,,"Rich, White and Ryan","Mitchell, Knight and Hale",2506.78,227.89,7,2506.78
+batch1_2,75499908,11/15/2017,,Salazar PLC,Daniel LLC,"1 161,01","105,55",7,116101.0
+batch1_2,62515232,11/14/2019,,Cox-Mendoza,Yang LLC,"14 934,73","1 357,70",5,1493473.0
+batch1_2,52337235,05/30/2020,,Nicholson and Sons,"Gallegos, Shea and Lawson","507,47","46,13",4,50747.0
+batch1_2,45290929,05/19/2014,,"Garcia, Smith and Nelson",Garrison Inc,71.39,6.49,2,71.39
+batch1_2,56513760,10/25/2011,,Lyons-Murphy,Lawrence LLC,7110.40,646.40,5,7110.4
+batch1_2,90885385,12/26/2012,,"Gross, Williams and Robinson","Randall, Murphy and Bowman",397.96,36.18,7,397.96
+batch1_2,67651165,05/25/2018,,Harris Ltd,"Atkins, Benton and Cortez",614.05,61.41,6,614.05
+batch1_2,95635623,08/11/2019,,"Jones, English and Perry",Diaz Ltd,"397,51","36,14",5,39751.0
+batch1_2,85736423,10/06/2019,,"Mcdowell, Marsh and Hall",Flynn-Anderson,"2 161,30","196,48",5,216130.0
+batch1_2,70123184,01/28/2016,,"Kelly, Hernandez and Vaughan",Cooley Ltd,749.99,68.18,7,749.99
+batch1_2,79917076,05/13/2021,,"Green, Oliver and Smith","Davenport, Cooper and Clayton",15488.29,1408.03,7,15488.29
+batch1_2,27484701,11/16/2017,,"Stevens, Wright and Wright",Galloway PLC,6220.32,565.48,6,6220.32
+batch1_2,25939833,03/28/2014,,Rodgers LLC,Peterson Ltd,"3 933,72","357,61",7,393372.0
+batch1_2,60263180,10/11/2012,,"Costa, Swanson and Pittman",Johnson Inc,488.70,44.43,6,488.7
+batch1_2,68298216,07/16/2011,,Murphy PLC,"Smith, Le and Johnson",391.55,35.60,7,391.55
+batch1_2,19537372,07/28/2012,,Richardson LLC,Rodriguez Ltd,6016.84,546.99,7,6016.84
+batch1_2,33385243,09/25/2013,,Coffey-Smith,"Russo, Fernandez and May","2 900,15","263,65",5,290015.0
+batch1_2,15685761,05/15/2017,,Clark Ltd,Cunningham-Williams,14.82,1.35,1,14.82
+batch1_2,69649998,04/11/2017,,"Palmer, Jordan and Shannon","Jackson, Gomez and Dillon",8679.00,789.00,3,8679.0
+batch1_2,55735711,11/03/2017,,"Reese, Henderson and Pollard",Mathis-Berry,"52 697,26","4 790,66",2,5269726.0
+batch1_2,99763738,06/14/2017,,Wheeler-Dawson,"Franklin, Alexander and Ford",403.25,36.66,3,403.25
+batch1_2,77939527,10/21/2013,,Moore Group,Russo-Sexton,116.29,10.57,7,116.29
+batch1_2,11489615,07/06/2016,,Jones-Flores,Fields and Sons,303.29,27.57,5,303.29
+batch1_2,49458748,03/08/2019,,"Cameron, Palmer and Martin",Martin-Flores,1143.66,103.97,3,1143.66
+batch1_2,60358070,03/29/2019,,Vasquez-Hogan,Compton-Hahn,8695.03,790.46,5,8695.03
+batch1_2,30592071,08/22/2016,,Spencer PLC,Woods PLC,143.00,13.00,1,143.0
+batch1_2,27543706,07/20/2020,,"Kaiser, Hays and Cook",Holland PLC,48801.10,4436.46,5,48801.1
+batch1_2,62312762,03/08/2019,,Lambert-Murphy,Dalton-Pope,1080.08,98.19,3,1080.08
+batch1_2,85583861,11/29/2020,,Wong and Sons,Blankenship-Yates,6236.91,566.99,6,6236.91
+batch1_2,88630006,02/18/2017,,Pena-White,"Barton, Haynes and Washington","33 794,35","3 072,21",5,3379435.0
+batch1_2,84404809,09/11/2011,,Tucker-Wilson,Bishop-Taylor,"123,09","11,19",3,12309.0
+batch1_2,41210651,12/12/2011,,"White, Warren and Sheppard",Holloway-Wright,343.90,34.39,5,343.9
+batch1_2,38794127,03/11/2013,,Cohen Ltd,Byrd-George,345.74,31.43,7,345.74
+batch1_2,70521557,04/12/2020,,Houston-Jacobs,Ramirez-Williams,117.60,10.69,3,117.6
+batch1_2,90841776,01/12/2019,,Brandt-Hunter,Brennan-Smith,110.00,10.00,1,110.0
+batch1_2,66172709,02/27/2015,,Adams Inc,Ferguson Inc,"72 257,70","6 568,88",7,7225770.0
+batch1_2,10823698,09/26/2020,,Hernandez Ltd,Huerta-Cortez,"57 483,07","5 225,73",6,5748307.0
+batch1_2,90172850,09/22/2012,,"Johnson, Johnson and Clark","Morgan, Farmer and Cook",71.96,6.54,4,71.96
+batch1_2,67583819,06/01/2012,,Gibson Ltd,Gomez-Martinez,978.64,88.97,7,978.64
+batch1_2,22819126,09/05/2012,,Jimenez-Jones,Rojas and Sons,"3 948,95","359,00",2,394895.0
+batch1_2,26343874,07/17/2013,,Smith Ltd,Herring-Floyd,3490.29,317.30,5,3490.29
+batch1_2,51608394,04/17/2015,,"Mays, Garner and Jordan",Kramer-Moody,998.53,90.78,3,998.53
+batch1_2,43106482,06/15/2019,,Graham-Gonzalez,"Vincent, Johnson and Cortez",295.44,26.86,3,295.44
+batch1_2,65882528,01/08/2014,,"Andrews, Smith and Simon","Hale, Adams and Kramer",160.33,14.58,4,160.33
+batch1_2,79128264,12/31/2014,,Rivera-Thompson,"Pearson, Gibbs and Ayala",382.98,34.82,5,382.98
+batch1_2,74782862,02/17/2012,,White Group,"Chavez, Harrell and Parker","1 665,40","151,40",7,166540.0
+batch1_3,96556696,02/25/2016,,"Paul, Wilson and Gonzalez",Miller PLC,1025.61,93.24,5,1025.61
+batch1_3,95894022,07/17/2014,,"Wilson, Sullivan and Lucas","Cruz, Miller and Brown",169.34,15.39,2,169.34
+batch1_3,17585415,09/26/2016,,"Erickson, Hunt and Gonzales",Carey-Montgomery,464.87,42.26,4,464.87
+batch1_3,27702906,08/06/2015,,Mcclain Group,Moore PLC,"10661,46","969,22",6,1066146.0
+batch1_3,34310027,09/06/2016,,Moore Ltd,Thomas-Lee,293.05,26.64,7,293.05
+batch1_3,48650328,01/23/2019,,Dunn PLC,Steele PLC,"3120,51","283,68",4,312051.0
+batch1_3,27892893,01/16/2020,,Reeves-Campbell,Duncan and Sons,16691.02,1517.37,6,16691.02
+batch1_3,81205197,11/23/2016,,Lindsey Inc,"Hawkins, Robinson and Pittman",1126.13,102.38,1,1126.13
+batch1_3,38557956,08/16/2013,,Lopez-Fitzgerald,"Wilson, Freeman and Lyons",584.48,53.13,6,584.48
+batch1_3,83514460,06/10/2019,,"Hawkins, Howard and Acosta",Mason Group,395.99,36.00,2,395.99
+batch1_3,13044521,01/02/2013,,Johnson Group,Garcia and Sons,"53 078,96","4 825,36",2,5307896.0
+batch1_3,94404257,07/03/2013,,Cruz PLC,Sandoval-Phillips,"138,90","12,63",7,13890.0
+batch1_3,79587541,08/02/2014,,Baker-Wagner,"Horton, Gillespie and Moore",10.99,1.00,1,10.99
+batch1_3,87689704,03/24/2020,,Lynch-Young,Gonzalez-Williams,687.50,62.50,1,687.5
+batch1_3,88834769,08/18/2011,,Kent LLC,Gonzales PLC,37.38,3.40,1,37.38
+batch1_3,36063205,01/06/2016,,Morse PLC,Webster Group,110.00,10.00,1,110.0
+batch1_3,97410469,02/12/2018,,"Nelson, Beard and Hill",Kidd Group,167.57,15.23,4,167.57
+batch1_3,15226383,12/13/2012,,Banks Group,Hudson-Calderon,331.99,30.18,4,331.99
+batch1_3,54896869,01/20/2019,,Arnold PLC,Odonnell-Kirk,33 527.36,3 047.94,6,33527.36
+batch1_3,53192110,07/28/2019,,Rogers Group,"George, Solis and Roberts",16.47,1.50,1,16.47
+batch1_3,60241381,10/02/2018,,Stevens-Black,"Higgins, Bautista and Harrison",115.39,10.49,2,115.39
+batch1_3,90068152,08/11/2018,,Rice Group,Clark-Lopez,577.31,52.48,2,577.31
+batch1_3,99788357,10/14/2018,,Lee-Everett,"Valdez, Young and Ingram",4.36,0.40,1,4.36
+batch1_3,94198533,08/03/2015,,"Russell, Andrews and Hayes",Brooks Group,2350.26,213.66,6,2350.26
+batch1_3,92034501,12/12/2015,,"Smith, Anderson and Johnson","Rodriguez, Johnson and David",15764.17,1433.11,5,15764.17
+batch1_3,70284416,04/15/2012,,Johnson PLC,Marshall-Perez,32.97,3.00,2,32.97
+batch1_3,92631946,09/05/2020,,Allen-Smith,"Alexander, Gibson and Le","1 152,24","104,75",3,115224.0
+batch1_3,19005698,04/27/2019,,Costa PLC,"Middleton, Lee and Peters",84274.59,7661.33,7,84274.59
+batch1_3,25864435,01/08/2018,,"Frazier, Ruiz and Robertson",Glover-Welch,1186.57,107.87,3,1186.57
+batch1_3,84635791,04/17/2020,,"Jimenez, Cummings and Ross",Jones Ltd,351.96,32.00,1,351.96
+batch1_3,64125453,03/25/2013,,Soto and Sons,Campos PLC,296.91,26.99,3,296.91
+batch1_3,21628539,01/25/2018,,Camacho Group,Hall Inc,262.63,23.88,2,262.63
+batch1_3,43825047,05/09/2020,,"Diaz, Bryan and Garcia",Price-Williams,3762.43,342.04,3,3762.43
+batch1_3,72455228,05/11/2021,,"Potts, Reed and Miller",Brady LLC,2155.98,196.00,6,2155.98
+batch1_3,48186352,06/10/2013,,Silva-Horn,Gonzalez-Brown,961.36,87.40,5,961.36
+batch1_3,76658127,10/23/2011,,Crawford-Byrd,Sherman PLC,628.00,57.09,4,628.0
+batch1_3,54533510,02/10/2021,,Tucker Inc,Skinner Group,63.69,5.79,3,63.69
+batch1_3,26110076,05/20/2012,,Barnes Ltd,Turner-Palmer,1657.58,150.69,7,1657.58
+batch1_3,32717637,01/08/2013,,Armstrong and Sons,Daniels-Miles,119.87,10.90,7,119.87
+batch1_3,49106170,04/30/2013,,Jackson-Johnson,"Huerta, Graham and Campbell","8 905,77","809,62",7,890577.0
+batch1_3,37702939,03/02/2013,,Martinez Inc,Lopez Inc,521.64,47.42,3,521.64
+batch1_3,37020779,12/23/2019,,"Duke, Levy and Arnold",Jenkins-Lewis,394.34,35.85,2,394.34
+batch1_3,98341217,09/16/2011,,"Marks, Hoover and Miles",Huynh-Pacheco,251.65,22.88,7,251.65
+batch1_3,75106829,09/03/2011,,"Young, Gonzalez and Russell","Adams, Garza and Lynch",354.15,32.20,4,354.15
+batch1_3,69087316,08/12/2011,,Simmons-Henry,Adkins LLC,91.39,8.31,4,91.39
+batch1_3,55979366,01/21/2016,,Johnson PLC,Gonzalez-Aguilar,459.79,41.80,7,459.79
+batch1_3,51265939,11/16/2016,,"Leonard, Forbes and Allen",Weaver-Carr,"5 906,47","536,95",5,590647.0
+batch1_3,35302925,12/18/2012,,Hutchinson PLC,Melton-Gutierrez,19 938.20,1 812.56,3,19938.2
+batch1_3,19512841,06/18/2012,,Camacho-Stewart,Fleming Ltd,"1 102,90","100,26",1,110290.0
+batch1_3,26388025,09/01/2018,,"Green, Sanchez and Shannon",Robertson-Davis,20.72,1.88,1,20.72
+batch1_3,27216737,05/23/2018,,"Nicholson, Hamilton and Holder",Campbell and Sons,"18 561,36","1 687,40",2,1856136.0
+batch1_3,60882295,12/11/2013,,"Johnson, Perez and Zhang",Palmer-Johnson,623.65,62.37,5,623.65
+batch1_3,86091106,09/22/2013,,Diaz-Nguyen,Strong-Chavez,648.93,58.99,5,648.93
+batch1_3,47015720,01/29/2019,,"Huber, Graves and Jensen","Robbins, Kelley and Lewis",274.88,24.99,5,274.88
+batch1_3,89098949,11/18/2018,,Mason-Cross,Short-Gonzalez,"26 764,68","2 433,15",4,2676468.0
+batch1_3,99096943,10/08/2018,,Hughes-Hernandez,Walker Group,231.39,21.04,3,231.39
+batch1_3,43551281,11/02/2014,,Phillips Group,Bowen-Schroeder,"2 089,23","189,93",3,208923.0
+batch1_3,24048799,05/21/2014,,Rodriguez-Jackson,"Williams, Fletcher and Taylor",5.45,0.50,1,5.45
+batch1_3,21097773,01/05/2020,,"Jones, Maddox and Brown",Becker Group,76.98,7.00,3,76.98
+batch1_3,42242778,03/05/2017,,Roberson and Sons,"Moore, Hall and Figueroa","26 577,76","2 416,16",1,2657776.0
+batch1_3,73707762,12/13/2017,,Prince-Gutierrez,Oneill Inc,"1 221,77",111.07,3,122177.0
+batch1_3,40394912,03/23/2020,,Mccullough-Bradley,Cross-Estrada,"1 369,50","124,50",1,136950.0
+batch1_3,54569960,12/06/2020,,Copeland-Hudson,"Jones, Butler and Olson",323.11,29.37,3,323.11
+batch1_3,31007296,05/06/2016,,"Farley, Jones and Williams","Eaton, White and Turner",764.24,69.48,4,764.24
+batch1_3,80036269,02/27/2018,,Mccarty-Mcgee,"Hull, Page and Perez",79 238.76,7 203.52,4,79238.76
+batch1_3,62842838,08/27/2019,,"Carson, Holder and Roberts",Hill-Garcia,"20 710,80","1 882,80",2,2071080.0
+batch1_3,30642722,10/06/2015,,James LLC,Peterson Inc,187.85,17.08,6,187.85
+batch1_3,23894332,06/16/2015,,Hill-Perez,Mora-Manning,47 168.59,4 288.05,7,47168.59
+batch1_3,45181097,02/24/2018,,"Long, Alvarez and Mendoza",Hobbs Group,500.29,45.48,3,500.29
+batch1_3,65166425,11/14/2020,,Wagner PLC,Gutierrez-Williams,138.53,12.59,2,138.53
+batch1_3,26363966,06/13/2016,,"Griffin, Cox and Day",Fox Inc,"323,84","29,44",2,32384.0
+batch1_3,68330075,10/08/2011,,Mills-Nicholson,"Shaw, Reeves and Valdez",230.97,21.00,1,230.97
+batch1_3,95566234,12/25/2012,,Gallagher-Williams,"Jones, Green and Nolan",432.22,39.29,2,432.22
+batch1_3,91484809,04/05/2013,,"Ramirez, Jones and Anderson",Lopez Inc,"81 492,41","7 408,40",7,8149241.0
+batch1_3,64281058,11/08/2019,,"Zuniga, Short and Jensen",Wells Ltd,15416.49,1401.50,7,15416.49
+batch1_3,31137784,01/27/2015,,"Adams, French and Lee",Arnold and Sons,76.96,7.00,2,76.96
+batch1_3,34287467,06/21/2017,,"Rowe, Payne and Stewart",Daniel LLC,223.01,20.27,3,223.01
+batch1_3,12222347,03/18/2017,,"Gregory, Patterson and Fischer",Wilson PLC,136.13,12.38,1,136.13
+batch1_3,23706524,12/15/2013,,"Carter, Boyer and Ware",Walker LLC,146.27,13.30,2,146.27
+batch1_3,94292113,06/06/2016,,"Sosa, Maynard and Grimes",Johnson and Sons,962.46,87.50,4,962.46
+batch1_3,72677375,08/04/2013,,"Potter, Jackson and Brooks",Gonzalez-Stephens,527.95,48.00,2,527.95
+batch1_3,38248291,06/18/2012,,Campbell and Sons,Weber-Torres,305.57,27.78,6,305.57
+batch1_3,58769039,07/09/2012,,"Martin, Foster and Hayes",Walters and Sons,3074.95,307.50,5,3074.95
+batch1_3,13304079,11/12/2011,,"Robles, Murray and Phillips",Carter-Hill,2200.00,200.00,1,2200.0
+batch1_3,96448980,04/03/2013,,Davis and Sons,Duarte Ltd,5 034.62,457.69,6,5034.62
+batch1_3,43546497,08/26/2017,,Ramos-Gomez,Davis Ltd,37.05,3.37,3,37.05
+batch1_3,80797635,11/22/2014,,"Franco, Richardson and Miller",Decker Group,557.40,50.67,4,557.4
+batch1_3,56192997,08/16/2019,,Scott and Sons,"Ingram, Mcdaniel and Wilson","3 013,90","273,99",7,301390.0
+batch1_3,95710850,10/30/2015,,Mckenzie PLC,"Salazar, Dunlap and Graham",41.80,3.80,1,41.8
+batch1_3,64248693,01/26/2018,,"Morgan, Rogers and Brown","Cook, Anderson and Bowen",7598.61,690.78,5,7598.61
+batch1_3,77205533,11/29/2011,,Massey-Guzman,"Murphy, Fleming and Bentley",340.99,31.00,3,340.99
+batch1_3,72744145,03/29/2016,,"Elliott, Simon and Taylor","Hopkins, Graves and Baker",3085.50,280.50,1,3085.5
+batch1_3,67528272,01/15/2020,,Reyes Group,Adams Inc,437.70,39.79,6,437.7
+batch1_3,33292422,11/13/2014,,"Aguirre, Oliver and Gaines",Peterson-Bell,330.00,30.00,1,330.0
+batch1_3,96900726,05/11/2014,,"Williams, Smith and Welch",Nielsen-Phillips,98.96,9.00,2,98.96
+batch1_3,16692901,04/03/2018,,Jackson-Oliver,Tucker-Diaz,79.13,7.19,1,79.13
+batch1_3,20653012,08/03/2013,,Smith and Sons,Coleman Inc,640.15,58.20,4,640.15
+batch1_3,28036023,06/12/2020,,Barton-Waters,Torres-Johnson,165.00,15.00,1,165.0
+batch1_3,74336205,10/17/2016,,Smith and Sons,Chen-Garcia,"7 973,98",724.91,4,797398.0
+batch1_3,16131761,12/04/2015,,"Figueroa, Richard and Hunter",Watts-Glover,398.16,36.20,2,398.16
+batch1_3,93062905,08/16/2014,,"Gaines, Wilson and Garner",Anderson Group,1800.81,163.71,7,1800.81
+batch1_3,48902311,03/31/2016,,Hill Group,Calhoun PLC,645.56,58.69,7,645.56
+batch1_3,33658471,12/24/2016,,Rodriguez-Smith,Roy LLC,272.47,24.77,5,272.47
+batch1_3,83186249,03/06/2014,,Jacobs-Curtis,Moody LLC,"9 103,46","827,59",7,910346.0
+batch1_3,29653721,10/07/2017,,Barker LLC,Reyes LLC,767.32,69.76,7,767.32
+batch1_3,87280945,03/05/2012,,Burton Inc,"Daniels, Garcia and Larson",1095.56,99.60,2,1095.56
+batch1_3,39760888,07/20/2017,,Williamson-Rogers,Yates and Sons,569.69,51.79,3,569.69
+batch1_3,79111644,04/19/2020,,"Jones, Kelly and Yang","Phillips, May and Evans",582.70,52.97,6,582.7
+batch1_3,56282973,06/30/2015,,"Davis, Orozco and Walsh","Boyer, Trevino and Hines","46 273,39","4 206,67",6,4627339.0
+batch1_3,45425546,07/13/2017,,"Marshall, Nelson and Hudson","Walker, Foster and Brandt","6 232,82","566,62",6,623282.0
+batch1_3,91966464,08/24/2020,,Taylor and Sons,Hays and Sons,1394.75,126.80,3,1394.75
+batch1_3,53986545,08/04/2014,,Robinson-Green,"Reid, Dixon and Larson",720.43,65.49,4,720.43
+batch1_3,86976994,08/02/2020,,Williams Inc,"Gonzalez, Taylor and Gonzales",852.50,77.50,1,852.5
+batch1_3,76330023,05/04/2018,,Baker-Jackson,Obrien Ltd,2810.26,255.48,4,2810.26
+batch1_3,65095335,02/15/2017,,Payne-Davis,Flores LLC,46 910.41,4 264.58,4,46910.41
+batch1_3,43883632,06/20/2020,,"Walker, Serrano and Garcia","Wu, Chung and White",330.00,30.00,1,330.0
+batch1_3,29593215,11/20/2017,,Hooper Group,"Washington, Robertson and Howard",462.97,42.09,6,462.97
+batch1_3,13337063,01/15/2014,,Martin and Sons,"Cooper, Carr and Graham","73 920,00","6 720,00",2,7392000.0
+batch1_3,92802196,04/09/2017,,Cruz-Rice,Phillips Group,686.75,62.43,2,686.75
+batch1_3,61264237,10/25/2020,,"Larson, Jones and Liu",Cisneros Group,288.15,26.20,3,288.15
+batch1_3,47703225,06/18/2018,,Lee and Sons,Green Ltd,56338.59,5121.69,5,56338.59
+batch1_3,43417184,01/15/2017,,"Johnson, Frye and Jones",Garner-Robinson,339.79,30.89,3,339.79
+batch1_3,14778207,01/06/2017,,Allen Inc,"Caldwell, Ortega and Adams","12 267,20","1 115,20",1,1226720.0
+batch1_3,36529974,07/22/2017,,Harrell LLC,"Morris, Trujillo and Rhodes",2566.09,233.28,5,2566.09
+batch1_3,81296657,09/14/2018,,Schmidt-Fitzgerald,Gordon-James,"1 165,90","105,99",2,116590.0
+batch1_3,25698672,08/01/2015,,"Gordon, Alvarado and Jones",Manning-Ho,127.00,11.55,3,127.0
+batch1_3,10817861,06/09/2020,,Hughes-Jones,"Shaw, Williams and Johnston","11 880,00","1 080,00",1,1188000.0
+batch1_3,59932057,01/17/2021,,Navarro-Jensen,Jones Inc,"19 932,00","1 812,00",3,1993200.0
+batch1_3,59336079,01/09/2012,,"Perry, Brown and Hudson",Rogers-Brown,1.99,0.20,1,1.99
+batch1_3,35893514,12/23/2019,,Oliver LLC,Merritt and Sons,70.14,6.38,1,70.14
+batch1_3,59326638,05/27/2013,,Ashley-Shaw,"Huber, Walker and Mullins",158.38,14.40,5,158.38
+batch1_3,76954213,08/11/2012,,"Martin, Mclaughlin and Stevens",Jennings Inc,403.84,36.71,5,403.84
+batch1_3,78962884,01/03/2019,,Thomas PLC,Anderson-Rodriguez,409.05,37.19,5,409.05
+batch1_3,16925671,07/14/2012,,Patterson-Carrillo,"Robertson, Morton and Levine",188.89,17.17,5,188.89
+batch1_3,28935386,02/25/2017,,Bishop Group,"Mayer, Richardson and Gamble",3157.01,287.00,4,3157.01
+batch1_3,74724200,02/15/2016,,"Perez, King and Baker","Hawkins, Bell and Calhoun",242.70,22.06,5,242.7
+batch1_3,10596025,12/31/2020,,"Hobbs, Bennett and Juarez","Mendez, Carrillo and Bush",2601.39,236.49,3,2601.39
+batch1_3,86602235,04/03/2021,,Yoder Inc,Barnes-Morton,"3 729,94","339,09",7,372994.0
+batch1_3,66700610,06/19/2013,,Collins-Cooley,Grant PLC,1451.91,131.99,3,1451.91
+batch1_3,71349588,01/12/2014,,Becker-Miller,Patterson-Rhodes,412.70,37.52,4,412.7
+batch1_3,71177260,06/11/2014,,Henry Inc,"Gay, Wilson and Green",422.55,38.41,6,422.55
+batch1_3,26871861,05/15/2014,,Johnson Inc,Casey-Osborn,85.76,7.80,1,85.76
+batch1_3,68251548,10/07/2019,,Kelly-Freeman,"Peterson, Oconnor and Rodriguez",158.40,14.40,2,158.4
+batch1_3,72238973,07/25/2011,,Holt Ltd,"Morris, Robinson and Porter",4532.00,412.00,2,4532.0
+batch1_3,45802970,03/30/2021,,Walter-Robbins,"Lopez, Pearson and Garcia",4055.34,368.67,7,4055.34
+batch1_3,43846862,01/10/2017,,Phillips PLC,"Elliott, Moreno and Garcia",5 296.43,481.49,7,5296.43
+batch1_3,51890008,10/21/2020,,Burke Ltd,Velasquez-Lopez,1516.88,137.90,4,1516.88
+batch1_3,14361748,09/09/2018,,"Nelson, Ellis and Gregory","Becker, Day and Macias",412.36,37.49,5,412.36
+batch1_3,49740963,08/22/2017,,Flores-Reilly,Moore Ltd,594.52,54.05,7,594.52
+batch1_3,10457894,08/21/2012,,Martin LLC,Morgan-Houston,215.04,19.55,3,215.04
+batch1_3,15829892,02/01/2021,,"Curtis, Snyder and Cohen",Wyatt-Keith,5 902.45,536.59,6,5902.45
+batch1_3,71887110,02/07/2013,,"Baker, Mitchell and Cooper",Adams Group,2 595.99,236.00,3,2595.99
+batch1_3,35471025,12/19/2015,,"Nixon, Mclean and Nelson","Garcia, Castro and Smith",5826.92,529.72,7,5826.92
+batch1_3,59150399,10/13/2014,,Oliver-Serrano,Silva Inc,139.39,12.67,4,139.39
+batch1_3,53181869,05/21/2020,,Sanchez-Williams,Turner-Brown,58 523.19,5 320.29,3,58523.19
+batch1_3,66666492,12/05/2017,,Walters-Allen,Hurst LLC,274.18,24.93,4,274.18
+batch1_3,72310470,05/10/2019,,Smith-Bennett,Hartman-Cooley,2 376.00,216.00,1,2376.0
+batch1_3,78873710,12/14/2015,,Weber-Wagner,"Barry, Patterson and Greer",41306.81,3755.16,4,41306.81
+batch1_3,77298183,08/23/2013,,Ward-Day,Bullock-Garza,575.49,52.32,7,575.49
+batch1_3,23152691,08/01/2015,,Whitaker Ltd,Stout-Miller,"4 783,70","434,88",7,478370.0
+batch1_3,99530936,08/24/2019,,Knight Ltd,Martinez PLC,"5536,20","503,29",3,553620.0
+batch1_3,15715972,11/13/2012,,Knox-Snyder,"Wagner, Brown and Moore","7 589,84","689,99",7,758984.0
+batch1_3,20813410,08/15/2015,,Patterson-Harris,"Deleon, Molina and Johnson",282.82,28.28,3,282.82
+batch1_3,67615206,05/01/2017,,"Cole, Andrade and Horn","Jimenez, Young and Carpenter","3 714,50","337,68",4,371450.0
+batch1_3,47156580,11/09/2011,,Berger-Dickerson,Bailey Group,131.98,12.00,1,131.98
+batch1_3,38726684,01/01/2012,,"Simmons, Olson and Watson",Smith-Jackson,"999,22","90,84",6,99922.0
+batch1_3,58478169,07/04/2016,,Conley Ltd,Wells-Avery,"12 261,98","1 114,73",2,1226198.0
+batch1_3,19852419,12/11/2020,,Marsh-Baker,Sanders and Sons,"3 139,95","285,45",4,313995.0
+batch1_3,15700884,01/15/2021,,Franklin PLC,Schultz Group,43.96,4.00,1,43.96
+batch1_3,56159495,04/01/2012,,Chen-Hartman,Jackson Ltd,4237.17,385.20,6,4237.17
+batch1_3,70362207,01/12/2017,,"Rodriguez, Wood and Wright",Patel-Matthews,1963.26,178.48,4,1963.26
+batch1_3,22396736,03/09/2012,,Carroll-Cardenas,Smith LLC,"285,95","26,00",2,28595.0
+batch1_3,99923268,05/29/2012,,Stone Group,Morrison-Donaldson,"210,80","19,16",7,21080.0
+batch1_3,45325258,02/13/2012,,Krueger LLC,Vasquez PLC,"1 821,48","165,59",6,182148.0
+batch1_3,36793561,10/29/2012,,"Roberts, Gonzalez and Davis",Young Group,"675,82","61,44",6,67582.0
+batch1_3,93697303,03/20/2014,,"Lewis, Morris and Stanley","Cox, Franklin and Wood","768,51","69,86",6,76851.0
+batch1_3,80937887,04/27/2017,,"Bradley, Pitts and Johnson","Garrett, Vincent and Glass","14 531,03","1 321,00",3,1453103.0
+batch1_3,83684211,06/19/2016,,Lucas Inc,Johnson Inc,101.07,9.19,2,101.07
+batch1_3,96051364,04/28/2020,,Jackson Ltd,"Williams, Fowler and Phillips",157 929.37,14 357.22,6,157929.37
+batch1_3,67113656,09/07/2015,,Henson-Cross,"Murray, Mckinney and Hayes","4 583,61","416,69",7,458361.0
+batch1_3,70235468,08/28/2012,,"Charles, Black and Vasquez","Lang, Davenport and Young",117.70,10.70,2,117.7
+batch1_3,87973938,11/19/2015,,"Robinson, Mcclain and Moore",Harrison-Davis,1393.63,126.69,3,1393.63
+batch1_3,45483334,10/04/2019,,Davis-Ramirez,Thornton-Henry,"227,96","20,72",5,22796.0
+batch1_3,50857048,05/22/2020,,"Mcneil, Munoz and Campbell",Rhodes Inc,64.72,5.88,2,64.72
+batch1_3,69990274,07/21/2019,,Spencer-Potter,Salazar Inc,434.42,39.49,2,434.42
+batch1_3,18309452,03/01/2016,,Warren-Morris,Hunt-Hernandez,8 470.63,770.06,5,8470.63
+batch1_3,36279024,08/18/2014,,"Baker, Michael and Martin",Werner-Castillo,1255.17,114.11,6,1255.17
+batch1_3,33784215,03/24/2018,,Hart-Johnson,Martin and Sons,62.46,5.68,4,62.46
+batch1_3,57168813,10/01/2017,,"Lee, Young and Krause",Oconnor Inc,19.77,1.80,1,19.77
+batch1_3,65917154,03/25/2019,,"Reid, Owens and Miller",Key-Fisher,2850.93,259.18,3,2850.93
+batch1_3,39080216,09/26/2017,,Ramirez Ltd,Hawkins-Watts,234.40,21.31,6,234.4
+batch1_3,28688861,06/13/2012,,Hall-Johnston,"Walker, Rojas and Wells",2655.37,241.40,6,2655.37
+batch1_3,71185820,05/16/2015,,Murray Ltd,Mayer Ltd,"1392,84",126.62,4,139284.0
+batch1_3,35515944,08/28/2014,,Schmidt-Alexander,Brown Ltd,1126.13,102.38,1,1126.13
+batch1_3,61769801,11/01/2018,,Moses-Blair,"Smith, Martinez and Mitchell",280.50,25.50,2,280.5
+batch1_3,59070830,11/25/2020,,"Forbes, Newton and Clayton","Yang, Hicks and Thomas",716.43,65.13,7,716.43
+batch1_3,27485789,10/14/2013,,"Lopez, Franklin and Chapman","Lopez, Thompson and Thomas",705.92,64.17,7,705.92
+batch1_3,35989405,08/24/2016,,"Dominguez, Lee and Simpson","Scott, Clark and Gonzalez",6 325.00,575.00,1,6325.0
+batch1_3,85315696,07/19/2011,,"Johnson, Morales and Logan",Spears-Martinez,174.52,15.87,4,174.52
+batch1_3,77310109,12/03/2020,,"Willis, Wilson and Benson",Cole Group,4572.37,415.67,6,4572.37
+batch1_3,61268082,10/23/2013,,"Henson, Mccarthy and Hart",Garcia Group,14.00,1.27,1,14.0
+batch1_3,76533932,10/29/2016,,Harrell LLC,Houston-Ortiz,"126,23","11,48",1,12623.0
+batch1_3,34528548,11/02/2015,,"Garcia, Stewart and Payne",Huerta Ltd,802.73,72.98,2,802.73
+batch1_3,65051504,07/15/2014,,Wu-Brock,"Rodriguez, Myers and Robinson",8448.88,768.08,2,8448.88
+batch1_3,57468195,12/25/2013,,"Hutchinson, Williams and Wilson",Adams-Campbell,98.58,8.96,5,98.58
+batch1_3,73074953,11/10/2015,,Soto-Reynolds,Ferguson-Garcia,34501.86,3136.53,5,34501.86
+batch1_3,75959628,12/01/2014,,"Williams, Matthews and Lewis","White, Chase and Gonzalez","107,09","9,74",7,10709.0
+batch1_3,93662534,01/11/2014,,Jacobs PLC,Bush and Sons,391.59,35.60,2,391.59
+batch1_3,35797032,10/06/2015,,Todd PLC,"Davis, Henderson and Nguyen",940.50,85.50,2,940.5
+batch1_3,92242080,02/18/2014,,Hale LLC,Lindsey Ltd,133.23,12.11,7,133.23
+batch1_3,30221274,03/05/2021,,Lynch-Coleman,Henry-Malone,1593.58,144.87,7,1593.58
+batch1_3,86339764,07/29/2017,,Cruz Ltd,Hunter and Sons,17 820.00,1 620.00,2,17820.0
+batch1_3,67856369,05/27/2020,,Pierce PLC,Cochran-Alvarez,4 952.82,450.26,3,4952.82
+batch1_3,95537278,11/10/2019,,"Hart, Rios and Williams",Chavez-Wilcox,694.90,63.17,4,694.9
+batch1_3,78526775,03/25/2017,,"Arnold, Holder and Armstrong",Durham PLC,816.49,74.23,6,816.49
+batch1_3,48682438,03/01/2020,,Williams PLC,Cox Ltd,71.06,6.46,2,71.06
+batch1_3,12007995,04/08/2012,,Jones and Sons,"Jenkins, Cobb and Woods",22.00,2.00,1,22.0
+batch1_3,88072177,02/08/2019,,White Group,Cruz-Clark,"194,56","17,69",4,19456.0
+batch1_3,83239748,08/14/2017,,"Jennings, Delgado and Bell",Clark Ltd,22.00,2.00,1,22.0
+batch1_3,43040851,05/30/2019,,Hall Inc,"Spencer, Lopez and Bowers","30 235,98","2 748,73",4,3023598.0
+batch1_3,82087318,07/31/2019,,Hughes LLC,Khan LLC,12 119.61,1 101.78,3,12119.61
+batch1_3,80028090,11/20/2018,,Shaw-Miller,Burke-Gordon,5899.43,536.31,6,5899.43
+batch1_3,11442355,01/31/2017,,"Mcdaniel, Newman and Williams",Williamson and Sons,9.88,0.90,1,9.88
+batch1_3,10299181,04/13/2020,,Tran-Dunn,Barber Inc,2858.84,259.89,3,2858.84
+batch1_3,61111603,08/08/2012,,Mack-Jones,"Olsen, Williams and Adams",306.44,27.86,7,306.44
+batch1_3,60907167,09/02/2013,,Sanchez-Villanueva,Freeman-Taylor,"2 015,04","183,19",5,201504.0
+batch1_3,24680775,03/28/2013,,"Jarvis, Soto and Wilkins","Graham, Luna and Greene","61,51","5,59",2,6151.0
+batch1_3,25600767,10/07/2014,,"Frank, Blake and Proctor","Alexander, Williams and Walker",327.53,29.78,5,327.53
+batch1_3,52301916,10/20/2014,,Rose LLC,Sullivan Ltd,207.53,18.87,3,207.53
+batch1_3,12579622,03/09/2013,,Paul LLC,"Sanders, Terry and Johnston","4 207,37","382,49",5,420737.0
+batch1_3,29033172,05/03/2021,,"Davis, Leon and Morgan","Olson, Michael and Matthews","321,32","29,21",7,32132.0
+batch1_3,51089508,12/30/2018,,"Sullivan, Li and Lindsey","Matthews, Taylor and Robinson","4 254,39","386,76",4,425439.0
+batch1_3,44273790,07/02/2013,,"Anderson, Sanchez and Benitez",Allen-Beard,374.00,34.00,1,374.0
+batch1_3,51409570,12/29/2018,,Mcguire PLC,"Chase, Mullins and Donaldson",173.80,15.80,2,173.8
+batch1_3,83917328,04/23/2015,,"Matthews, Hendricks and Martin","Weaver, Coleman and Wright",142.25,12.93,6,142.25
+batch1_3,39623428,11/23/2019,,Rodriguez-Mckinney,Smith-Ross,59.00,5.36,2,59.0
+batch1_3,29311476,04/17/2016,,Small-Simpson,"Newman, Elliott and Nelson",196.42,17.86,3,196.42
+batch1_3,42535887,09/04/2014,,Williams-Perez,Bean and Sons,879.95,80.00,1,879.95
+batch1_3,42266538,10/04/2019,,Haas Group,Washington-Willis,44.85,4.08,1,44.85
+batch1_3,15128200,03/28/2013,,Patterson LLC,Dyer-Griffith,57.20,5.20,1,57.2
+batch1_3,20701368,02/02/2012,,Hernandez Inc,Marsh PLC,1416.77,128.80,4,1416.77
+batch1_3,64690034,09/06/2014,,"Saunders, Snyder and Rivera","Martinez, Ward and Martinez","8 332,50","757,50",1,833250.0
+batch1_3,21257968,03/06/2012,,"Williams, Barron and Smith",Smith Inc,2807.08,255.19,5,2807.08
+batch1_3,25222301,06/02/2017,,Vargas-Mata,"Moody, Thompson and Evans",18230.85,1657.35,5,18230.85
+batch1_3,22749826,02/11/2017,,"Peters, Barnett and Ramos",Russell PLC,165.42,15.04,6,165.42
+batch1_3,26925356,01/05/2017,,"Gomez, Sanchez and Flores","Freeman, Williams and Rodriguez",1237.74,112.52,3,1237.74
+batch1_3,64103969,11/28/2015,,"Garcia, Powell and Osborne",Le and Sons,169.37,15.40,2,169.37
+batch1_3,99749241,05/07/2017,,Wilkinson Group,Brooks Ltd,"35 697,02","3 245,18",5,3569702.0
+batch1_3,88741818,08/17/2015,,"Lawson, Martin and Young","Davis, Rodriguez and Williams",3 386.35,307.85,2,3386.35
+batch1_3,52093915,08/29/2017,,Cooper Group,West LLC,1 722.39,156.58,5,1722.39
+batch1_3,44318912,09/09/2017,,Tapia-Smith,Shaffer LLC,"6 494,81","590,44",3,649481.0
+batch1_3,66506031,05/05/2021,,Watson Group,Hill-Dyer,3 003.09,273.01,3,3003.09
+batch1_3,61637938,05/10/2014,,"Jones, Robertson and Ramirez","Mcmillan, Hanna and Grant","533,02","48,46",5,53302.0
+batch1_3,33815697,09/14/2015,,Obrien LLC,Weaver-Harrington,324.41,29.49,4,324.41
+batch1_3,20385371,11/08/2014,,Hess and Sons,Smith-Hobbs,1627.96,148.00,5,1627.96
+batch1_3,25988505,03/23/2015,,Clay PLC,Henderson-Stafford,572.00,52.00,1,572.0
+batch1_3,59506052,12/24/2018,,Chang-Cruz,Christian-Gardner,5873.90,533.99,7,5873.9
+batch1_3,56400315,04/23/2018,,"Butler, Tucker and Hernandez","Bailey, Dodson and Campbell",455.68,41.43,3,455.68
+batch1_3,28294642,04/26/2018,,Shah-Hancock,Meyer-Ramirez,"27 515,95","2 501,45",7,2751595.0
+batch1_3,32131502,02/26/2019,,"Campbell, Mathis and Johnson","Jimenez, Smith and Lee","6 640,07","603,64",5,664007.0
+batch1_3,82339928,12/19/2016,,"Wright, Chung and Mason",Lam-Mccormick,"14 737,18","1 339,74",2,1473718.0
+batch1_3,98442092,06/10/2015,,"Hudson, Hinton and Phillips",Castillo-Price,172.71,15.70,7,172.71
+batch1_3,76820481,07/08/2016,,Vargas-Hughes,Bradshaw-Wall,117.04,10.64,3,117.04
+batch1_3,25681210,08/21/2016,,Ramos Inc,Wilson-Gibson,"54 704,84","4 973,17",6,5470484.0
+batch1_3,54445950,05/15/2019,,Coffey Ltd,"Johnston, Crosby and Alexander",53550.75,4868.25,7,53550.75
+batch1_3,61067356,03/28/2012,,Rasmussen Ltd,King-Keller,293.40,26.67,1,293.4
+batch1_3,29086575,07/08/2020,,"Booth, Weber and Wall",Randolph and Sons,"17 124,42","1 556,77",5,1712442.0
+batch1_3,72759914,05/22/2014,,Lowery-Pham,"Fisher, Gonzalez and Burgess",66614.44,6055.86,6,66614.44
+batch1_3,71377614,05/25/2018,,Carpenter-Morales,Mathis Ltd,70065.75,6369.61,7,70065.75
+batch1_3,91287532,06/22/2016,,Henson Group,Allen-Ward,203.41,18.49,4,203.41
+batch1_3,59989382,11/30/2015,,Rosario-Ross,Lawrence PLC,4845.38,440.49,5,4845.38
+batch1_3,98151772,09/30/2019,,"Sexton, Rivera and Pineda",Wright-Lopez,188.09,17.10,3,188.09
+batch1_3,90508672,04/16/2020,,Stone-Waller,Shaw Group,7052.49,641.14,5,7052.49
+batch1_3,14693250,07/17/2019,,Rodriguez-Nichols,Bailey LLC,255.31,25.53,7,255.31
+batch1_3,23004223,03/05/2020,,"Jimenez, Hicks and Bailey",Gomez Ltd,450.54,40.96,7,450.54
+batch1_3,17887323,02/09/2018,,Guerra PLC,Smith Inc,"7 098,43","645,31",2,709843.0
+batch1_3,82200633,04/05/2019,,Price-Booker,Campbell PLC,547.76,49.80,4,547.76
+batch1_3,60860535,09/14/2015,,"Shields, Copeland and Gallegos",Lamb Group,153.97,14.00,2,153.97
+batch1_3,16253735,09/28/2014,,"Powell, Baker and Mills",Grant PLC,"6 214,89",564.99,3,621489.0
+batch1_3,77145709,01/18/2019,,"Farley, Hayes and Cooper",Benton Inc,913.45,83.04,7,913.45
+batch1_3,61852578,07/05/2011,,Foley-Alexander,"Smith, Lyons and White",1055.99,96.00,3,1055.99
+batch1_3,66585788,03/18/2012,,"Andersen, Wilkinson and Robles",Martinez-Bennett,1128.35,102.58,4,1128.35
+batch1_3,92321765,11/19/2016,,Clark-Osborn,Perry and Sons,"789,20","71,75",4,78920.0
+batch1_3,25784321,04/08/2021,,"Mercer, Castro and Sanchez","Chavez, Allison and Evans","5 536,89","503,35",5,553689.0
+batch1_3,52998962,03/29/2020,,Gutierrez-Long,Mccarty-Hoffman,712.45,64.77,6,712.45
+batch1_3,47291856,04/26/2018,,"Williams, May and Wilson","Lewis, Hale and Dickerson",50.85,4.62,2,50.85
+batch1_3,99004300,09/17/2012,,Miles Ltd,Davis and Sons,7 425.00,675.00,2,7425.0
+batch1_3,12920327,08/28/2014,,Thomas-Woods,Weber Inc,2 529.57,229.96,3,2529.57
+batch1_3,96272374,05/22/2019,,Murphy Inc,"Higgins, Alvarez and Berry",474.02,43.09,6,474.02
+batch1_3,69816333,07/07/2014,,Mclaughlin-Mendoza,"Huff, Colon and Lang",198.00,18.00,2,198.0
+batch1_3,28608590,07/05/2013,,Smith LLC,Cervantes and Sons,11 021.86,1 001.99,3,11021.86
+batch1_3,68593869,12/24/2017,,Horne LLC,"Patel, Johnson and Williams",162.35,14.76,4,162.35
+batch1_3,22765594,04/11/2018,,"Villa, Smith and Clark","Hernandez, Lindsey and Anderson","397,29","36,12",5,39729.0
+batch1_3,15523094,04/06/2018,,"Garcia, Anderson and Short","Ryan, Velasquez and Dunn",1 966.71,178.79,4,1966.71
+batch1_3,52060328,10/11/2019,,Johnson-Cain,"West, Cooper and Welch","177,10","16,10",2,17710.0
+batch1_3,91300640,01/07/2015,,"Scott, Lawrence and Solis","Arnold, Mccall and Briggs",3 827.98,348.00,2,3827.98
+batch1_3,47567823,03/23/2019,,Brown-Foster,Thomas PLC,87.07,7.92,1,87.07
+batch1_3,34218641,02/25/2017,,Ferguson LLC,Reynolds-Mccoy,230.63,20.97,4,230.63
+batch1_3,89909949,01/04/2017,,"Williams, Stewart and Ward",Bullock-Terry,269.96,24.54,5,269.96
+batch1_3,78493177,09/01/2013,,"Johnson, Patterson and Tate",Stein PLC,362.03,32.91,5,362.03
+batch1_3,65129596,09/12/2017,,Lyons LLC,Mccormick-Williams,292.03,26.55,5,292.03
+batch1_3,97675851,05/25/2016,,Baird PLC,"Smith, Reynolds and Dunn",154.74,14.07,7,154.74
+batch1_3,33587413,11/23/2018,,Miller Group,"Edwards, King and Oliver","45 653,41","4 150,31",3,4565341.0
+batch1_3,97154949,12/27/2015,,Vargas-York,"Barber, Arnold and Patton",1512.48,137.50,2,1512.48
+batch1_3,64480147,04/09/2012,,Byrd Group,"Leonard, Torres and Sutton","3 046,86","276,99",6,304686.0
+batch1_3,11844533,01/28/2013,,Sanders-Evans,Morse and Sons,238.11,21.65,4,238.11
+batch1_3,72415673,10/29/2011,,Moore and Sons,"Serrano, Willis and Ellison","61 568,50","5 597,14",7,6156850.0
+batch1_3,15005739,04/19/2012,,"Keller, Collins and Wells",Long Group,"63 240,53",10%,7,6324053.0
+batch1_3,51783813,01/26/2017,,Johnson-Evans,Marshall-Flores,904.66,82.24,7,904.66
+batch1_3,84597526,01/22/2013,,"May, Jones and Diaz",Villanueva-White,1116.62,101.51,5,1116.62
+batch1_3,22488149,12/29/2020,,Drake Group,"Strickland, Ferguson and Ellis",2953.35,268.49,6,2953.35
+batch1_3,22007301,06/25/2017,,"Ellis, Hall and Lamb",Crawford Group,29325.79,2665.98,7,29325.79
+batch1_3,67156751,07/31/2011,,Little PLC,"Moreno, Montoya and Washington",270.64,24.60,4,270.64
+batch1_3,44897195,09/04/2018,,"Williams, Chandler and Romero","Rodriguez, Fleming and Flores",19.22,1.75,2,19.22
+batch1_3,52661039,06/27/2017,,"Ortiz, Alvarez and Davis",Castro-Medina,546.16,49.65,3,546.16
+batch1_3,47990906,12/13/2015,,Reynolds PLC,Garcia-Thompson,362.42,32.95,6,362.42
+batch1_3,93035437,07/23/2017,,Barber LLC,Matthews-Bautista,"44 262,48","4 023,86",6,4426248.0
+batch1_3,85335509,06/09/2011,,Frank-Guerrero,Allen Ltd,"5345,89","485,99",4,534589.0
+batch1_3,98919360,04/24/2021,,"Gonzales, Rodgers and Sanchez","Wright, Yang and Riddle",192.50,17.50,2,192.5
+batch1_3,14875723,04/11/2014,,Gray Inc,Perkins LLC,"26 591,16","2 417,38",4,2659116.0
+batch1_3,25388424,12/31/2014,,"Ryan, Carey and Gardner",Chen Inc,461.26,41.93,6,461.26
+batch1_3,70722751,11/29/2018,,Hall Ltd,Love Inc,59.32,5.39,2,59.32
+batch1_3,82308284,04/23/2013,,Sullivan-Burns,"Clay, Cook and Nichols",478.68,43.52,5,478.68
+batch1_3,68106191,07/05/2019,,"Mullins, Scott and Mclaughlin","Johnson, White and Lee","105,94","9,63",4,10594.0
+batch1_3,18393770,07/16/2013,,Taylor-Davis,Gonzalez Inc,4334.11,394.01,6,4334.11
+batch1_3,78265258,09/26/2016,,Duran-Cole,Patel Group,228.71,20.79,4,228.71
+batch1_3,92627663,05/12/2018,,Solis Group,"Nguyen, Ray and Allen","23 454,63","2 132,24",7,2345463.0
+batch1_3,36526167,01/05/2013,,Roy and Sons,"Mahoney, Bird and Gonzalez",148.19,13.47,4,148.19
+batch1_3,58303988,08/20/2016,,Deleon and Sons,Howard-Mueller,39935.77,3630.52,7,39935.77
+batch1_3,79709420,02/18/2018,,Foster-Fowler,"Santana, Lloyd and Cook","6 645,73","604,16",7,664573.0
+batch1_3,66020741,10/11/2014,,"Gonzales, Kelly and Berry",Mcdonald PLC,44.00,4.00,1,44.0
+batch1_3,42781500,01/19/2015,,Parker LLC,"Taylor, Keller and Nichols",53572.82,4870.26,7,53572.82
+batch1_3,75073339,04/24/2013,,Miller-Terry,Stout LLC,"19 709,80","1 791,80",3,1970980.0
+batch1_3,74178352,09/03/2014,,"Morgan, Moss and Bush",Robinson-Martin,760.48,69.13,6,760.48
+batch1_3,56731210,10/25/2011,,"Crawford, Moore and Romero",Andrade and Sons,665.43,60.49,7,665.43
+batch1_3,57567230,02/20/2020,,Andrade Inc,Benson and Sons,1 980.00,180.00,1,1980.0
+batch1_3,93799370,06/28/2016,,Park PLC,Perry-Delgado,522.61,47.51,5,522.61
+batch1_3,52064971,07/26/2017,,Ward-Buchanan,Burke Inc,20 437.73,1 857.98,3,20437.73
+batch1_3,53391878,09/06/2017,,Turner-Thompson,"Conner, Price and Melendez","1 113,15","101,20",4,111315.0
+batch1_3,56414170,12/17/2016,,Espinoza Group,Rice-Ruiz,"295,55","26,87",5,29555.0
+batch1_3,43674884,04/22/2014,,Miller-Williams,"Stokes, Cain and Fox",179.07,16.28,5,179.07
+batch1_3,73381889,12/10/2016,,"Salinas, Dominguez and Hamilton",Anderson-Bonilla,222.18,20.20,5,222.18
+batch1_3,98542442,07/25/2018,,Frederick-Norton,"Eaton, Lane and Robinson",659.67,59.97,7,659.67
+batch1_3,15259432,02/06/2016,,"Franklin, Buchanan and Reed","Ford, Myers and Walton",82.49,7.50,1,82.49
+batch1_3,23777462,11/04/2016,,"Zhang, Hobbs and Bean",Walker-Arias,"228,44","20,77",6,22844.0
+batch1_3,77029419,01/13/2020,,"Clark, Moran and Johnson","Mclaughlin, Meza and Wood",454.72,41.34,4,454.72
+batch1_3,35850942,11/26/2015,,Gonzales and Sons,Phillips LLC,"35 342,91","3 212,99",5,3534291.0
+batch1_3,99741629,10/12/2020,,Smith LLC,"Bean, Cunningham and Taylor","454,74","41,34",6,45474.0
+batch1_3,20583097,09/16/2019,,Gomez-Schwartz,Jones PLC,92902.69,8445.70,7,92902.69
+batch1_3,84476266,09/18/2017,,King-Byrd,Haney and Sons,182.15,16.56,5,182.15
+batch1_3,20290421,06/22/2011,,Christensen PLC,"Ayers, Williams and Medina",317.24,28.84,6,317.24
+batch1_3,92964019,01/23/2013,,"Silva, Moreno and Henry",Williams Inc,11 788.23,1 071.66,6,11788.23
+batch1_3,49166171,02/21/2021,,Stanton PLC,Davis-Jackson,47.37,4.31,2,47.37
+batch1_3,96503490,03/06/2013,,"Wright, Martin and Carter",Schneider Ltd,"16 179,90","1 470,90",2,1617990.0
+batch1_3,11324589,01/02/2019,,"Dixon, Allison and Burton",Chavez-Morales,"11 032,05","1 002,91",5,1103205.0
+batch1_3,35451351,06/28/2014,,Martinez LLC,Smith LLC,646.80,58.80,2,646.8
+batch1_3,63395419,06/20/2015,,Harris-Scott,Walter-Walters,"6 935,91","630,54",4,693591.0
+batch1_3,96958424,09/14/2012,,"Barton, Wright and Peters","Sandoval, Rosales and Young",659.98,60.00,1,659.98
+batch1_3,19898218,06/15/2014,,"Rogers, James and Hansen",Sosa LLC,26.38,2.40,1,26.38
+batch1_3,97190733,02/11/2013,,Johnson-Henderson,Hampton-Singh,307.89,27.99,1,307.89
+batch1_3,41942687,09/01/2016,,Galvan and Sons,Armstrong-Mitchell,282.59,25.69,2,282.59
+batch1_3,27278750,08/04/2015,,Harris-Wright,"Russell, May and Olson",400.40,36.40,2,400.4
+batch1_3,84077104,09/01/2013,,Cobb-Burns,Johnson LLC,115.68,10.52,5,115.68
+batch1_3,87428284,06/17/2015,,Grant and Sons,"Meza, Harrison and Campbell",21.52,1.96,1,21.52
+batch1_3,54795998,04/24/2012,,"Williams, Norman and Caldwell","Duarte, Grant and Moran",83.89,7.63,3,83.89
+batch1_3,46939079,04/26/2018,,Thomas Inc,"Clark, Greene and Lewis",42.68,3.88,1,42.68
+batch1_3,56379795,10/06/2019,,Love Ltd,Lee-Howell,188.31,17.12,5,188.31
+batch1_3,39400829,01/12/2012,,Smith-Guerrero,"Reynolds, Gonzales and Meyer",7096.28,645.12,4,7096.28
+batch1_3,65643191,07/31/2020,,Thompson Inc,Johnson-Alvarez,61.42,5.58,3,61.42
+batch1_3,56576694,11/11/2017,,"Johnson, Miller and Stanley",Brown-Schmitt,26.75,2.43,1,26.75
+batch1_3,31470773,03/05/2012,,"Johnston, Byrd and Hendrix",May Inc,559.89,50.90,2,559.89
+batch1_3,30955348,02/08/2014,,Kaufman-Hopkins,"Fox, Munoz and Brown",5256.04,477.82,5,5256.04
+batch1_3,56418581,01/25/2013,,Watkins Inc,"Cruz, Nichols and Fischer","43 523,40","3 956,67",5,4352340.0
+batch1_3,64678621,09/06/2014,,Sanchez Inc,Becker Group,130.84,11.89,3,130.84
+batch1_3,71449499,09/09/2015,,Juarez PLC,Peters-Santiago,"193,02","17,55",6,19302.0
+batch1_3,17345626,09/26/2012,,"Stewart, Howard and Williams",Hunt Group,4268.89,388.08,6,4268.89
+batch1_3,42981942,09/21/2013,,Huerta and Sons,Jones Inc,16.50,1.50,1,16.5
+batch1_3,27709823,12/11/2012,,Kaufman-Wyatt,"Williams, Haley and Ellis","797,23",72.48,1,79723.0
+batch1_3,53766818,05/20/2019,,Deleon Ltd,"Daniels, Jensen and Hernandez",287.28,26.12,6,287.28
+batch1_3,24489313,12/13/2019,,Roach Group,Hernandez-Fleming,"1 234,20","112,20",1,123420.0
+batch1_3,94695871,09/05/2020,,Matthews-Bailey,Mccarty-Carroll,"4 356,00","396,00",1,435600.0
+batch1_3,65128151,07/18/2014,,"Miller, Wright and Clark","Rogers, Floyd and Smith",75.57,6.87,3,75.57
+batch1_3,62261351,02/06/2012,,Mcdowell PLC,Calhoun Ltd,43.98,4.00,1,43.98
+batch1_3,77833987,05/20/2013,,Freeman and Sons,Houston Group,129.53,11.78,5,129.53
+batch1_3,17545286,03/23/2012,,Anderson-Bryant,Obrien Group,"39 000,60","3 545,51",6,3900060.0
+batch1_3,50343017,09/07/2020,,Hayes and Sons,Christian-Krueger,176.00,16.00,2,176.0
+batch1_3,91394927,09/04/2018,,"Dixon, Trujillo and Evans",Burke-Reynolds,20601.20,1872.84,5,20601.2
+batch1_3,65673716,12/24/2017,,Kemp and Sons,Shaffer-Craig,7933.79,793.38,5,7933.79
+batch1_3,22862792,04/19/2013,,Robbins Inc,"Coleman, Casey and Austin","34 397,78","3 127,07",6,3439778.0
+batch1_3,14878236,04/26/2015,,"Hernandez, Coleman and Alvarado",Turner-Green,568.49,51.68,7,568.49
+batch1_3,64770456,10/13/2011,,Adams-Johnson,"Boyer, Wilson and Ortiz","2 349,03","213,55",3,234903.0
+batch1_3,47433391,11/23/2018,,"Kramer, Harris and Martinez",Dawson LLC,428.83,38.98,1,428.83
+batch1_3,86447617,01/11/2020,,Ramos Group,Harris Group,"2 823,64","256,69",5,282364.0
+batch1_3,23285582,12/19/2015,,Harris-Green,Good PLC,"38 086,73","3 462,43",3,3808673.0
+batch1_3,15801054,09/08/2015,,Jones-Frazier,"Byrd, Harper and Maddox",270.94,24.63,3,270.94
+batch1_3,58031199,11/11/2017,,Ramos-Holt,Bates LLC,8389.96,762.72,2,8389.96
+batch1_3,66443782,08/21/2011,,Rivera Group,Garcia-Williams,"9 767,56","887,96",7,976756.0
+batch1_3,26120082,12/29/2012,,"Cox, Collins and Fisher",Kelly-Franklin,471.35,42.85,7,471.35
+batch1_3,24119502,07/14/2019,,Harrison-Pierce,Reeves-Holder,"329,91","29,99",3,32991.0
+batch1_3,76937754,07/22/2020,,Webb-Alexander,"Williams, Davis and Prince","2 750,00","275,00",1,275000.0
+batch1_3,77728243,07/10/2011,,"Edwards, Harris and Brown",Pearson Inc,1474.00,134.00,2,1474.0
+batch1_3,40122783,12/03/2019,,"Davis, Jones and Smith",Contreras-Gray,142.02,12.91,3,142.02
+batch1_3,53065226,12/23/2016,,West-Anderson,"Brown, Wilson and Robertson","58 507,00","5 318,82",6,5850700.0
+batch1_3,29113910,11/19/2019,,Miller-Jackson,"Hurst, Reed and Wright",386.11,35.10,5,386.11
+batch1_3,57037406,09/06/2015,,Martin and Sons,Vargas Inc,4 729.96,430.00,3,4729.96
+batch1_3,62481750,04/03/2014,,Jones Ltd,"Pittman, Zhang and Peterson",661.64,60.15,6,661.64
+batch1_3,96609211,03/16/2013,,Barrett-Smith,Love Inc,271.12,24.65,3,271.12
+batch1_3,27344877,07/15/2019,,Branch LLC,Rivers-Williams,480.36,43.67,3,480.36
+batch1_3,94623559,10/08/2012,,Mitchell-Gibbs,"Jackson, Ellis and Martinez","280,50","25,50",1,28050.0
+batch1_3,49455197,10/25/2013,,Thompson-Webster,Ward PLC,"2 463,78","223,98",2,246378.0
+batch1_3,75658283,07/07/2017,,Jacobs Group,"Robinson, Stephens and Bennett",74.76,6.80,1,74.76
+batch1_3,17945506,08/24/2019,,Solis-Grimes,Garcia PLC,147.13,13.38,3,147.13
+batch1_3,77404624,10/20/2014,,Hayes-Mcdonald,"Sheppard, Guerrero and Castillo",9556.58,868.78,6,9556.58
+batch1_3,53875869,07/12/2012,,Mitchell Ltd,"Elliott, Kelly and Turner",66.00,6.00,1,66.0
+batch1_3,81133446,10/05/2018,,Price and Sons,Espinoza-Doyle,56.10,5.10,1,56.1
+batch1_3,28768109,08/24/2015,,"Potts, Gray and Tucker",Harris-Harrell,58.07,5.28,2,58.07
+batch1_3,18320628,10/08/2013,,Martin Inc,"Roberts, Levine and Chavez",396.00,36.00,1,396.0
+batch1_3,50047409,08/05/2014,,Green Ltd,Brown and Sons,42402.27,3854.75,5,42402.27
+batch1_3,56479895,08/10/2019,,Blake LLC,Flores LLC,493.83,44.89,6,493.83
+batch1_3,49464905,07/21/2012,,Johnson-Higgins,Macdonald-Hampton,"4 651,38","422,85",5,465138.0
+batch1_3,52513212,03/20/2017,,"Perez, Pace and Bailey","Martinez, Logan and Peterson",835.99,76.00,3,835.99
+batch1_3,84231664,04/26/2012,,"Waller, Williams and Brown","Mills, Stephenson and Watkins",3 340.78,303.71,4,3340.78
+batch1_3,89305462,08/23/2015,,Forbes LLC,Williams and Sons,538.67,48.97,5,538.67
+batch1_3,79426901,02/09/2015,,"Morrison, Hernandez and Hayes",Perez PLC,8134.09,739.46,6,8134.09
+batch1_3,14037981,04/13/2021,,"Williams, Moore and Wang","Berg, Lang and Maynard",555.37,50.49,2,555.37
+batch1_3,61965030,10/11/2016,,"Rodriguez, Morales and Rogers",Daniels-Farrell,"37,55","3,41",3,3755.0
+batch1_3,91134042,02/12/2013,,"Stone, Lopez and Harding",York-Crawford,102.30,9.30,2,102.3
+batch1_3,81972673,08/13/2014,,Dickerson-Burgess,Baxter-Gonzalez,"428,35","38,94",5,42835.0
+batch1_3,75299595,06/03/2011,,"Cox, Bell and Rodriguez",Jackson Group,272.65,24.79,3,272.65
+batch1_3,84777898,06/02/2017,,Byrd PLC,Palmer LLC,314.62,28.60,3,314.62
+batch1_3,59781795,01/12/2017,,Rosales-Perry,"Bender, Burgess and King",197.96,18.00,1,197.96
+batch1_3,61356291,09/06/2012,,"Chapman, Kim and Green",Rodriguez-Stevens,"212,09","19,28",4,21209.0
+batch1_3,69087856,02/20/2020,,Escobar PLC,James PLC,29 726.40,2 702.40,1,29726.4
+batch1_3,51385584,11/08/2012,,Nelson Ltd,"Garcia, Navarro and Rocha",2804.66,254.97,6,2804.66
+batch1_3,91059347,12/03/2019,,Heath-Ballard,Simpson-Pitts,205.81,18.71,5,205.81
+batch1_3,64713590,03/02/2017,,Wang-Tran,Larson-Hill,1129.04,102.64,2,1129.04
+batch1_3,93559969,11/14/2017,,Taylor Group,Ashley-Cook,159.95,15.99,2,159.95
+batch1_3,30126821,11/27/2014,,"Stewart, Arias and Nguyen",Holt-Snow,"5 322,08","483,83",3,532208.0
+batch1_3,91451938,10/27/2018,,Webb-Short,Lee LLC,1 319.96,120.00,1,1319.96
+batch1_3,66525750,02/19/2016,,Thompson-Smith,Gonzales Ltd,"35 563,37","3 233,03",4,3556337.0
+batch1_3,81321189,10/20/2014,,"Mcgee, Butler and Zuniga",Williams-Patel,552.19,50.20,4,552.19
+batch1_3,89559338,05/16/2012,,Henderson-Diaz,Arroyo-Fletcher,"3 002,98","273,00",2,300298.0
+batch1_3,83237973,05/03/2018,,Keller-Hahn,Watson-Hartman,81.33,7.39,2,81.33
+batch1_3,76702963,10/22/2012,,Meyer Inc,White-Daniel,365.20,33.20,4,365.2
+batch1_3,98605220,03/17/2016,,"Hernandez, Green and Lloyd",Matthews-Roman,166.91,15.17,4,166.91
+batch1_3,85265380,05/14/2013,,Johnson LLC,Hebert Ltd,833.70,75.79,4,833.7
+batch1_3,72481334,08/18/2013,,Bridges Inc,"Fleming, Hopkins and Ward",1330.97,121.00,3,1330.97
+batch1_3,45687667,12/21/2013,,Lewis and Sons,Phillips PLC,"13 615,89","1 237,81",3,1361589.0
+batch1_3,94041746,10/16/2011,,"Jones, Carroll and Carpenter",Rogers PLC,631.31,57.39,6,631.31
+batch1_3,71433151,12/16/2020,,Watson-White,Sanchez Ltd,7986.35,726.03,2,7986.35
+batch1_3,75131164,06/13/2020,,Gregory-Ramos,"Barrera, Merritt and Rodriguez",691.06,62.82,6,691.06
+batch1_3,24945791,12/15/2015,,"Contreras, Hunter and Cameron","Phillips, Elliott and Johnston","27 657,15","2 514,29",7,2765715.0
+batch1_3,69490839,12/17/2016,,Mccall-Walker,Parks and Sons,"879,73","79,98",1,87973.0
+batch1_3,15855229,03/30/2014,,Hanson LLC,Hawkins-Lopez,"5 823,92","529,45",3,582392.0
+batch1_3,16662010,08/28/2016,,Smith-Cook,Snyder-Johnson,2 259.10,205.37,7,2259.1
+batch1_3,70922221,05/30/2021,,Vincent Ltd,Miller LLC,"42 900,00","3 900,00",1,4290000.0
+batch1_3,54394190,02/23/2021,,"Nelson, Bird and Mendoza",Allen Inc,3 695.93,335.99,4,3695.93
+batch1_3,94588842,06/02/2011,,"Ortega, Carey and Morris","Khan, Moore and Peterson",1 124.00,102.18,3,1124.0
+batch1_3,84440315,08/21/2018,,Herrera-Mills,Johnson-Simmons,2 378.99,216.27,5,2378.99
+batch1_3,61942465,08/27/2012,,Jones Ltd,"Williams, Kelley and Watts",44.00,4.00,1,44.0
+batch1_3,25951002,12/10/2012,,Clark Group,Santana-Hoover,"10 898,16","990,74",7,1089816.0
+batch1_3,17045625,11/01/2017,,Bass-Petersen,Davidson-Martinez,28.24,2.82,3,28.24
+batch1_3,45286327,07/21/2015,,"White, Brown and Martinez","Rosales, Anderson and Salazar",442.93,40.27,6,442.93
+batch1_3,15686725,03/11/2021,,"Whitaker, Gray and Green","Davidson, Smith and Gill",94435.43,8585.04,7,94435.43
+batch1_3,58777305,04/12/2018,,Thomas and Sons,"Martin, Lowe and Alvarado","106 081,93","9 643,81",7,10608193.0
+batch1_3,24308198,06/08/2011,,Johnson-Franco,"Simmons, Simmons and Nguyen","5 701,08","518,28",4,570108.0
+batch1_3,21686737,03/19/2014,,Parker Group,Brooks PLC,538.00,48.91,3,538.0
+batch1_3,83505253,05/19/2014,,"Cooper, Cox and Hernandez",Reeves LLC,411.18,37.38,6,411.18
+batch1_3,91327263,08/30/2012,,"Wolf, Smith and Shaffer",Wilson Group,1704.60,154.96,7,1704.6
+batch1_3,88208084,05/16/2020,,"Brown, York and Irwin","Brown, Preston and Wilson","75 351,02","6 850,09",4,7535102.0
+batch1_3,33145095,08/06/2020,,Stanton Group,Perez Inc,167.16,15.20,3,167.16
+batch1_3,42461657,02/15/2021,,"Lawrence, Smith and Mccormick",Mckenzie-Rice,237.36,21.58,7,237.36
+batch1_3,62788012,03/12/2013,,Barker-Fletcher,"Anderson, Webb and Perkins",219.89,19.99,3,219.89
+batch1_3,90118586,08/21/2017,,Taylor and Sons,Obrien Ltd,274.13,27.41,6,274.13
+batch1_3,17794459,10/28/2020,,Schultz-Garcia,Melendez-Rogers,"29 543,09","2 685,74",6,2954309.0
+batch1_3,33907816,02/11/2013,,"Clark, Wolfe and Kelly",Bryant LLC,23917.86,2174.35,7,23917.86
+batch1_3,54011206,01/27/2020,,Sawyer-Stone,Harris-Mejia,2 766.45,251.50,4,2766.45
+batch1_3,97833274,09/03/2014,,"Baker, Pearson and Perry","Wilcox, Turner and Porter",440.00,40.00,1,440.0
+batch1_3,58751726,10/09/2018,,Campbell-Schmidt,"Singleton, Perry and Brown","2 298,03","208,91",3,229803.0
+batch1_3,70699664,10/28/2017,,Mack-Clark,"Hess, Douglas and Blackburn",2553.02,232.09,6,2553.02
+batch1_3,60038342,01/02/2018,,Moore PLC,"Gregory, Whitney and Smith",1473.67,133.97,4,1473.67
+batch1_3,56987614,07/03/2019,,"Campbell, Hernandez and Blankenship",Wright-Lee,"296,02","26,91",7,29602.0
+batch1_3,26307902,10/05/2015,,Moore Ltd,"Johnson, Harvey and Richardson",104.06,9.46,2,104.06
+batch1_3,35806662,01/27/2021,,Fields-Ward,Matthews-Rodriguez,3057.69,277.97,5,3057.69
+batch1_3,87519797,05/13/2013,,Navarro Inc,Dawson Inc,410.56,37.32,6,410.56
+batch1_3,94223548,11/19/2012,,"Mitchell, Acevedo and Wright",Brock-Walker,"4 420,79","401,89",7,442079.0
+batch1_3,59612541,08/24/2016,,"Thomas, Gonzalez and Bennett",Flynn-Walton,"21 089,90","1 917,26",5,2108990.0
+batch1_3,34630909,09/14/2011,,"Smith, Campbell and Gonzales",Green and Sons,306.51,27.86,6,306.51
+batch1_3,14287592,03/05/2021,,"Burns, Figueroa and Hawkins",Compton-Brown,"149 105,43","13 555,04",7,14910543.0

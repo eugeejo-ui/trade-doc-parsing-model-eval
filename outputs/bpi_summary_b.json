@@ -1,0 +1,13 @@
+{
+  "method": "B (split deliveries, cumulative last value)",
+  "max_gr_events": 21,
+  "cases_analyzed": 1985,
+  "rule_vs_definition": "100% match",
+  "mismatched": 983,
+  "mismatch_rate_pct": 49.52,
+  "compare_method_a": {
+    "cases": 8564,
+    "mismatched_cleared": 128,
+    "rate_pct": 1.5
+  }
+}

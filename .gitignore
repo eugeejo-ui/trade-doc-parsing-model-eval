@@ -1,0 +1,17 @@
+﻿# 원본 데이터 (용량. 출처에서 직접 받는다)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/

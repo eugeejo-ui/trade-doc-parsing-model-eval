@@ -1,0 +1,25 @@
+{
+  "csv_files": [
+    "batch1_1.csv",
+    "batch1_2.csv",
+    "batch1_3.csv"
+  ],
+  "rows": 1414,
+  "parsed": 1414,
+  "parse_failed": 0,
+  "json_column": "Json Data",
+  "fill_pct": {
+    "total": 100.0,
+    "seller_name": 100.0,
+    "invoice_date": 100.0,
+    "due_date": 0.0,
+    "client_name": 100.0
+  },
+  "gap_days": null,
+  "ucp600_reference_days": 21,
+  "amount": {
+    "median": 1020.165,
+    "max": 19452170.0
+  },
+  "images_batch1_unique": 1489
+}

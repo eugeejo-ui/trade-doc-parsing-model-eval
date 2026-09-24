@@ -1,0 +1,39 @@
+{
+  "n_cases": 150,
+  "eps": 0.01,
+  "accuracy": {
+    "granite": {
+      "금액": {
+        "extracted_pct": 100.0,
+        "correct_pct": 98.0
+      },
+      "날짜": {
+        "extracted_pct": 100.0,
+        "correct_pct": 100.0
+      },
+      "상호": {
+        "extracted_pct": 100.0,
+        "correct_pct": 100.0
+      }
+    },
+    "paddle": {
+      "금액": {
+        "extracted_pct": 100.0,
+        "correct_pct": 98.0
+      },
+      "날짜": {
+        "extracted_pct": 100.0,
+        "correct_pct": 100.0
+      },
+      "상호": {
+        "extracted_pct": 100.0,
+        "correct_pct": 100.0
+      }
+    }
+  },
+  "diff_pp": {
+    "금액": 0.0,
+    "날짜": 0.0,
+    "상호": 0.0
+  }
+}

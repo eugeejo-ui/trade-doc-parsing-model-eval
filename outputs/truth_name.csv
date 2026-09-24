@@ -1,0 +1,1414 @@
+﻿file_name,field,doc_value,cond_value,is_defect,injected,tier,amount
+batch1-0494,seller_name,Nguyen-Roach,NguyeB-Roach,True,True,mid,232.95
+batch1-0489,seller_name,Scott-Howard,Scott-Howard,False,False,,153.92
+batch1-0499,seller_name,"Bailey, Murray and Lewis","Bailey, Murray and Lewis Ltd.",True,True,weak,498.21
+batch1-0497,seller_name,"Merritt, Williams and Young","Merritt, Williams and Young Ltd.",True,True,weak,677.47
+batch1-0081,seller_name,Fernandez Ltd,Fernandez Ltd,False,False,,1.71
+batch1-0105,seller_name,Adams PLC,Meridian Supplies Inc.,True,True,strong,70577.35
+batch1-0019,seller_name,"Lozano, Wang and Smith","Lozano, Wang and Smith",False,False,,188.11
+batch1-0108,seller_name,Jackson Ltd,Jackson Ltd,False,False,,360.58
+batch1-0087,seller_name,"Chase, Green and Bailey",Meridian Supplies Inc.,True,True,strong,6.58
+batch1-0151,seller_name,"Archer, Davis and Hudson",Zenith Global Corp,True,True,strong,3838.87
+batch1-0187,seller_name,"Bishop, Kelley and Wright",Pinnacle Trading Ltd.,True,True,strong,5283.18
+batch1-0039,seller_name,Cruz-Carter,Cruz-CBrter,True,True,mid,3004.96
+batch1-0490,seller_name,Reed and Sons,Reed and Sons Ltd.,True,True,weak,689.19
+batch1-0196,seller_name,"Gilmore, Brady and Carter","Gilmore, Brady and Carter",False,False,,172.22
+batch1-0132,seller_name,"Peterson, Hester and Mckee","Peterson, Hester and Mckee",False,False,,714.95
+batch1-0210,seller_name,Powell Ltd,Powell Limited,True,True,weak,386.6
+batch1-0020,seller_name,"Kerr, Ryan and Gomez","Kerr, Ryan and Gomez",False,False,,327.08
+batch1-0276,seller_name,Lyons Inc,Lyons Incorporated,True,True,weak,89.06
+batch1-0300,seller_name,"Bailey, Adams and Pacheco",Meridian Supplies Inc.,True,True,strong,343.87
+batch1-0158,seller_name,Kane-Morgan,Kane-Morgan,False,False,,96.73
+batch1-0136,seller_name,Faulkner Group,Zenith Global Corp,True,True,strong,5605.15
+batch1-0274,seller_name,"Potts, Pittman and Beck","Potts, PittBan and Beck",True,True,mid,913.65
+batch1-0435,seller_name,Mason-Beltran,Pinnacle Trading Ltd.,True,True,strong,312.04
+batch1-0384,seller_name,Williams-Morris,Williams-Morris,False,False,,7237.02
+batch1-0401,seller_name,White PLC,White PLC,False,False,,740.69
+batch1-0035,seller_name,Campos LLC,CampBs LLC,True,True,mid,722.11
+batch1-0023,seller_name,Harris LLC,Pinnacle Trading Ltd.,True,True,strong,18281.24
+batch1-0093,seller_name,Lopez-Smith,Lopez-Bmith,True,True,mid,2235.2
+batch1-0080,seller_name,Mercer-Donovan,Mercer-Bonovan,True,True,mid,291.92
+batch1-0059,seller_name,James PLC,Pinnacle Trading Ltd.,True,True,strong,1255.0
+batch1-0056,seller_name,"Terry, Crawford and Vega","Terry, Crawford and Vega",False,False,,494.89
+batch1-0170,seller_name,"Schneider, Aguirre and Dennis",Pinnacle Trading Ltd.,True,True,strong,771.01
+batch1-0123,seller_name,Fernandez-Evans,Zenith Global Corp,True,True,strong,8621.78
+batch1-0137,seller_name,"Flores, David and Fleming","Flores, David and Fleming Ltd.",True,True,weak,44.0
+batch1-0320,seller_name,Gonzales-Hart,Gonzales-Hart Ltd.,True,True,weak,186.96
+batch1-0167,seller_name,Alexander-Valenzuela,Alexander-Balenzuela,True,True,mid,86.56
+batch1-0376,seller_name,Ross Group,Ross Group Ltd.,True,True,weak,2568.45
+batch1-0361,seller_name,Johnson-Young,JohnsoB-Young,True,True,mid,997.37
+batch1-0439,seller_name,Hall LLC,Zenith Global Corp,True,True,strong,141.87
+batch1-0391,seller_name,"Reyes, Fox and Martinez","Reyes, Fox and Martinez",False,False,,1026.71
+batch1-0362,seller_name,Smith-Torres,Zenith Global Corp,True,True,strong,3393.4
+batch1-0098,seller_name,"Rodriguez, White and Hernandez","Rodriguez, White and Hernandez Ltd.",True,True,weak,1.99
+batch1-0095,seller_name,Kelley-Thomas,Kelley-Thomas Ltd.,True,True,weak,32.95
+batch1-0026,seller_name,Sims-Olson,Sims-Olson,False,False,,9256.59
+batch1-0082,seller_name,Nunez Inc,Zenith Global Corp,True,True,strong,371.51
+batch1-0114,seller_name,Klein and Sons,Klein aBd Sons,True,True,mid,2.99
+batch1-0067,seller_name,West-Hodges,West-Hodges Ltd.,True,True,weak,21.56
+batch1-0094,seller_name,Armstrong Inc,Pinnacle Trading Ltd.,True,True,strong,394.19
+batch1-0115,seller_name,Smith-Strickland,Smith-StBickland,True,True,mid,55.0
+batch1-0229,seller_name,Robinson and Sons,RobinsoB and Sons,True,True,mid,5101.77
+batch1-0124,seller_name,Marshall-Mullins,Marshall-Mullins,False,False,,7737.7
+batch1-0293,seller_name,Gutierrez LLC,Gutierrez LLC,False,False,,12.76
+batch1-0298,seller_name,Barron-Rodriguez,Pinnacle Trading Ltd.,True,True,strong,162.33
+batch1-0433,seller_name,Mcdaniel Inc,McdanBel Inc,True,True,mid,306.82
+batch1-0263,seller_name,"Cooper, Wilson and Tran","Cooper, Wilson and Tran",False,False,,247.84
+batch1-0078,seller_name,Gonzales-Faulkner,Gonzales-Baulkner,True,True,mid,312.93
+batch1-0066,seller_name,"Ryan, Garcia and Gregory","Ryan, Garcia Bnd Gregory",True,True,mid,1.99
+batch1-0015,seller_name,Porter-Perkins,Porter-Berkins,True,True,mid,1469.45
+batch1-0428,seller_name,Henry Inc,Henry Incorporated,True,True,weak,10.98
+batch1-0006,seller_name,Obrien Group,Meridian Supplies Inc.,True,True,strong,732.34
+batch1-0363,seller_name,Nichols-Powell,Nichols-Powell Ltd.,True,True,weak,21.45
+batch1-0461,seller_name,"Nguyen, Russell and Rodriguez","Nguyen, Russell and Rodriguez",False,False,,48.14
+batch1-0011,seller_name,Torres and Sons,Pinnacle Trading Ltd.,True,True,strong,91.27
+batch1-0041,seller_name,"Davis, Thomas and Larson",Pinnacle Trading Ltd.,True,True,strong,194521.7
+batch1-0040,seller_name,West Group,West Group,False,False,,191.26
+batch1-0031,seller_name,"Garrett, Gonzales and Hurley","Garrett, Gonzales and Hurley",False,False,,29.67
+batch1-0295,seller_name,French PLC,FrenBh PLC,True,True,mid,43.96
+batch1-0260,seller_name,Rose-Brown,Rose-Drown,True,True,mid,1023.94
+batch1-0316,seller_name,Santos-Lee,SantBs-Lee,True,True,mid,428.9
+batch1-0206,seller_name,Banks Group,Banks Broup,True,True,mid,731.23
+batch1-0192,seller_name,"Hood, Andrade and Kim",Meridian Supplies Inc.,True,True,strong,120.99
+batch1-0340,seller_name,Daniel-Morrison,Daniel-Morrison Ltd.,True,True,weak,269.49
+batch1-0054,seller_name,Anderson Group,Zenith Global Corp,True,True,strong,4007.31
+batch1-0407,seller_name,Aguilar-Thompson,Aguilar-Thompson,False,False,,22.0
+batch1-0455,seller_name,Huynh-Ruiz,Zenith Global Corp,True,True,strong,4008.74
+batch1-0169,seller_name,"Gutierrez, Shah and Davis","Gutierrez, SBah and Davis",True,True,mid,25.52
+batch1-0104,seller_name,Baker-Smith,Zenith Global Corp,True,True,strong,353.66
+batch1-0065,seller_name,Castillo-Jones,Zenith Global Corp,True,True,strong,152.87
+batch1-0014,seller_name,"Tran, Hurst and Rodgers",Zenith Global Corp,True,True,strong,24.95
+batch1-0388,seller_name,"Mckenzie, Johnson and Rich","Mckenzie, JohBson and Rich",True,True,mid,2454.03
+batch1-0457,seller_name,Davis-Shepherd,Davis-Shepherd Ltd.,True,True,weak,2441.81
+batch1-0060,seller_name,"Cohen, Saunders and Chapman","Cohen, Saunders and Chapman",False,False,,32.83
+batch1-0182,seller_name,"Campbell, Chavez and Reynolds","Campbell, ChavBz and Reynolds",True,True,mid,127.31
+batch1-0072,seller_name,Dawson-Strickland,Dawson-Strickland Ltd.,True,True,weak,324.5
+batch1-0107,seller_name,Maxwell Inc,MaxweBl Inc,True,True,mid,514.02
+batch1-0224,seller_name,Gould-Martinez,Gould-Martinez,False,False,,6140.09
+batch1-0231,seller_name,Mullen-Smith,MulleB-Smith,True,True,mid,18614.34
+batch1-0058,seller_name,Gonzalez LLC,GonzaBez LLC,True,True,mid,470.92
+batch1-0353,seller_name,Callahan and Sons,Callahan and Sons,False,False,,561.7
+batch1-0352,seller_name,Fernandez LLC,FernanBez LLC,True,True,mid,18863.63
+batch1-0256,seller_name,"Smith, Page and Ross","Smith, Page and Ross",False,False,,47502.39
+batch1-0383,seller_name,"Galloway, Silva and Nelson",Meridian Supplies Inc.,True,True,strong,304.92
+batch1-0478,seller_name,Curtis-Lloyd,Meridian Supplies Inc.,True,True,strong,387.11
+batch1-0205,seller_name,"Olson, Holt and Burton","Olson, Holt and Burton",False,False,,3262.02
+batch1-0313,seller_name,"Mckenzie, Clay and Campos",Zenith Global Corp,True,True,strong,323.14
+batch1-0166,seller_name,"Brown, Lowery and Sandoval","Brown, Lowery Bnd Sandoval",True,True,mid,36.33
+batch1-0235,seller_name,"Harrell, Johnson and Thompson","Harrell, Johnson and Thompson",False,False,,418.84
+batch1-0096,seller_name,Rodriguez and Sons,Pinnacle Trading Ltd.,True,True,strong,5664.9
+batch1-0004,seller_name,"Reyes, Holloway and Lee","Reyes, Holloway and Lee Ltd.",True,True,weak,819.06
+batch1-0024,seller_name,"Johnson, Barrett and King","Johnson, Barrett and King Ltd.",True,True,weak,98.95
+batch1-0073,seller_name,"Johnson, Buckley and Terry","Johnson, Buckley and Terry Ltd.",True,True,weak,53.96
+batch1-0070,seller_name,"Wilson, Sanders and Smith",Pinnacle Trading Ltd.,True,True,strong,1250.75
+batch1-0380,seller_name,Montgomery LLC,Montgomery LLC,False,False,,18749.5
+batch1-0436,seller_name,"Padilla, Webb and Pearson","Padilla, Webb and Pearson",False,False,,307.93
+batch1-0404,seller_name,Moore-Miller,Moore-Miller,False,False,,4695.01
+batch1-0168,seller_name,"Cantu, Livingston and Baker","Cantu, Livingston and Baker Ltd.",True,True,weak,2511.2
+batch1-0227,seller_name,Chan-Becker,Chan-BBcker,True,True,mid,46215.06
+batch1-0254,seller_name,Rivers-Martin,Rivers-Bartin,True,True,mid,181.34
+batch1-0289,seller_name,Brown-Russell,Brown-Russell Ltd.,True,True,weak,350.24
+batch1-0119,seller_name,"Pierce, Barber and Howard","Pierce, BarbBr and Howard",True,True,mid,701.72
+batch1-0149,seller_name,"Mendez, Gibson and Shaffer","Mendez, Gibson and Shaffer",False,False,,10865.23
+batch1-0102,seller_name,"Parker, Khan and Parker",Pinnacle Trading Ltd.,True,True,strong,321.95
+batch1-0429,seller_name,"Gonzalez, Bauer and Taylor","Gonzalez, Bauer and Taylor Ltd.",True,True,weak,261.41
+batch1-0009,seller_name,Padilla-Miller,Meridian Supplies Inc.,True,True,strong,124.79
+batch1-0042,seller_name,Potter-Gordon,Potter-Gordon,False,False,,15574.11
+batch1-0443,seller_name,Black-Smith,Black-Smith Ltd.,True,True,weak,6.38
+batch1-0453,seller_name,Ramirez Ltd,Ramirez Ltd,False,False,,29087.53
+batch1-0370,seller_name,"Thornton, Franklin and Hamilton","Thornton, Franklin and Hamilton",False,False,,4140.06
+batch1-0202,seller_name,Watson LLC,Watson LLC,False,False,,1182.5
+batch1-0109,seller_name,Campos-Hawkins,Campos-Hawkins,False,False,,986.7
+batch1-0085,seller_name,Myers Inc,Myers Inc,False,False,,2970.0
+batch1-0092,seller_name,Weaver Ltd,Weaver Limited,True,True,weak,32.83
+batch1-0037,seller_name,Carter Inc,CartBr Inc,True,True,mid,151.38
+batch1-0355,seller_name,"Logan, Deleon and Ayers",Pinnacle Trading Ltd.,True,True,strong,266.11
+batch1-0459,seller_name,Johnson-Mcdonald,Johnson-Mcdonald,False,False,,20085.99
+batch1-0252,seller_name,Anderson Ltd,Anderson Limited,True,True,weak,25.15
+batch1-0063,seller_name,"Padilla, Mccarthy and Gonzales","Padilla, Mccarthy and Gonzales Ltd.",True,True,weak,154.0
+batch1-0287,seller_name,Rivera Group,RiverB Group,True,True,mid,204.27
+batch1-0239,seller_name,Ryan LLC,Meridian Supplies Inc.,True,True,strong,7269.8
+batch1-0175,seller_name,Austin-Mcmillan,Austin-MBmillan,True,True,mid,5375.57
+batch1-0390,seller_name,Green-Wright,Green-Wright,False,False,,502.74
+batch1-0419,seller_name,"Holloway, Ford and Smith","Holloway, Ford and Smith",False,False,,365.13
+batch1-0308,seller_name,Merritt-Gallagher,Merritt-Gallagher Ltd.,True,True,weak,23988.86
+batch1-0480,seller_name,"Burns, Padilla and Daniels","Burns, PadillB and Daniels",True,True,mid,9809.8
+batch1-0185,seller_name,King Inc,Zenith Global Corp,True,True,strong,237.6
+batch1-0193,seller_name,Fox-Reeves,Fox-Reeves,False,False,,1349.08
+batch1-0212,seller_name,Hawkins PLC,Pinnacle Trading Ltd.,True,True,strong,178.16
+batch1-0496,seller_name,Roberts-Larson,Roberts-Larson Ltd.,True,True,weak,246.28
+batch1-0101,seller_name,Phillips-Bailey,Phillips-Bailey,False,False,,5439.26
+batch1-0437,seller_name,"Forbes, Young and Fisher","Forbes, Young and Fisher",False,False,,1037.38
+batch1-0346,seller_name,"Moran, Harris and Smith","Moran, Harris and Smith",False,False,,190.62
+batch1-0272,seller_name,Harris-Thomas,Harris-Thomas,False,False,,129.6
+batch1-0013,seller_name,Schmidt LLC,Schmidt LLC,False,False,,237.29
+batch1-0270,seller_name,Long LLC,Pinnacle Trading Ltd.,True,True,strong,331.78
+batch1-0139,seller_name,Solomon-Murray,Solomon-Murray Ltd.,True,True,weak,743.58
+batch1-0103,seller_name,Foster-Beard,Foster-Beard,False,False,,6097.29
+batch1-0077,seller_name,Jordan-Cohen,Jordan-Cohen,False,False,,5295.73
+batch1-0470,seller_name,Gentry-Villarreal,Gentry-ViBlarreal,True,True,mid,823.66
+batch1-0255,seller_name,Kirby PLC,Kirby PLC,False,False,,103.92
+batch1-0463,seller_name,Valenzuela PLC,Valenzuela PLC Ltd.,True,True,weak,2069.23
+batch1-0140,seller_name,Mckay Inc,Mckay Inc,False,False,,10319.1
+batch1-0130,seller_name,"Thompson, Evans and Parker","Thompson, EvaBs and Parker",True,True,mid,66.99
+batch1-0047,seller_name,"Davis, Evans and Cooper","Davis, Evans and Cooper Ltd.",True,True,weak,4524.28
+batch1-0221,seller_name,Campos LLC,CampBs LLC,True,True,mid,125.23
+batch1-0402,seller_name,Murray-Parsons,Murray-Parsons,False,False,,6004.31
+batch1-0306,seller_name,Valencia-Pearson,Valencia-Pearson Ltd.,True,True,weak,1330.04
+batch1-0290,seller_name,Johns-Brown,Johns-Drown,True,True,mid,5213.9
+batch1-0044,seller_name,"Wright, Gonzalez and Gomez","Wright, Gonzalez and Gomez Ltd.",True,True,weak,81.68
+batch1-0145,seller_name,Barry-Roberts,Barry-Roberts Ltd.,True,True,weak,6198.39
+batch1-0069,seller_name,"Smith, Johnson and Ramsey","Smith, JohnsBn and Ramsey",True,True,mid,162.79
+batch1-0177,seller_name,Costa Inc,Costa Incorporated,True,True,weak,19.22
+batch1-0413,seller_name,Wang and Sons,Wang and Sons,False,False,,346.19
+batch1-0366,seller_name,Williams Ltd,Williams Limited,True,True,weak,697.8
+batch1-0146,seller_name,Fleming and Sons,Fleming and Sons,False,False,,205.21
+batch1-0269,seller_name,"Wade, Scott and Glover","Wade, Scott and Glover",False,False,,87.96
+batch1-0200,seller_name,Skinner-Molina,SkinneB-Molina,True,True,mid,162.72
+batch1-0138,seller_name,"Anderson, Brown and Thompson","Anderson, BrowB and Thompson",True,True,mid,73824.49
+batch1-0411,seller_name,Carter-Carroll,Carter-Carroll,False,False,,4306.26
+batch1-0141,seller_name,"Wood, Nichols and Perry","Wood, NichoBs and Perry",True,True,mid,43.95
+batch1-0012,seller_name,"Nicholson, Miller and Webster","Nicholson, Miller and Webster Ltd.",True,True,weak,5459.75
+batch1-0456,seller_name,Martinez PLC,Zenith Global Corp,True,True,strong,99.0
+batch1-0194,seller_name,Johnson LLC,Zenith Global Corp,True,True,strong,3221.63
+batch1-0417,seller_name,"Stone, Fernandez and Swanson","Stone, Fernandez and Swanson Ltd.",True,True,weak,1660.86
+batch1-0476,seller_name,"Thompson, Jackson and Ware","Thompson, Jackson and Ware Ltd.",True,True,weak,330.29
+batch1-0449,seller_name,"Wright, Pineda and Walker",Pinnacle Trading Ltd.,True,True,strong,17711.25
+batch1-0032,seller_name,Coleman Inc,Coleman Inc,False,False,,21151.66
+batch1-0100,seller_name,Henderson Group,Henderson Group Ltd.,True,True,weak,235.79
+batch1-0483,seller_name,Mcbride-Smith,Pinnacle Trading Ltd.,True,True,strong,205.29
+batch1-0250,seller_name,"Smith, Blackburn and Barton","Smith, Blackburn and Barton",False,False,,208.5
+batch1-0142,seller_name,Daniel Group,Daniel Group Ltd.,True,True,weak,104.97
+batch1-0134,seller_name,"Cervantes, Carpenter and Morse","Cervantes, CarpBnter and Morse",True,True,mid,10818.95
+batch1-0135,seller_name,Brown and Sons,Brown aBd Sons,True,True,mid,274.95
+batch1-0099,seller_name,"Hernandez, English and Yoder",Pinnacle Trading Ltd.,True,True,strong,495.3
+batch1-0029,seller_name,Fitzgerald Group,Fitzgerald Group Ltd.,True,True,weak,7920.58
+batch1-0131,seller_name,Hicks-Miller,Pinnacle Trading Ltd.,True,True,strong,74294.55
+batch1-0369,seller_name,Miller Inc,Pinnacle Trading Ltd.,True,True,strong,716.27
+batch1-0367,seller_name,Day and Sons,Day and Sons,False,False,,93439.3
+batch1-0467,seller_name,Dixon-Hebert,Dixon-Bebert,True,True,mid,2149.21
+batch1-0400,seller_name,Walker LLC,Meridian Supplies Inc.,True,True,strong,414.67
+batch1-0368,seller_name,Horne-Fields,Horne-Fields,False,False,,107.78
+batch1-0159,seller_name,"Steele, Trujillo and Becker","Steele, TrujiBlo and Becker",True,True,mid,386.05
+batch1-0265,seller_name,Webb-Oconnor,Webb-Oconnor,False,False,,15803.26
+batch1-0028,seller_name,"George, Casey and Harris","George, Casey and Harris Ltd.",True,True,weak,1140.24
+batch1-0232,seller_name,Ford Ltd,Ford Ltd,False,False,,5553.0
+batch1-0464,seller_name,"Raymond, Mejia and Thomas","Raymond, Mejia and Thomas Ltd.",True,True,weak,633.96
+batch1-0181,seller_name,Oneill LLC,Oneill LLC Ltd.,True,True,weak,74.8
+batch1-0299,seller_name,"Howe, Evans and Velazquez",Pinnacle Trading Ltd.,True,True,strong,191.76
+batch1-0007,seller_name,"Wood, Simpson and Summers","Wood, Simpson and Summers",False,False,,5138.35
+batch1-0349,seller_name,"Hernandez, Barber and Jones","Hernandez, Barber and Jones",False,False,,7645.22
+batch1-0195,seller_name,Tapia-Cline,Tapia-Bline,True,True,mid,47600.71
+batch1-0237,seller_name,Brooks Inc,Brooks Inc,False,False,,1022.88
+batch1-0373,seller_name,Jones-Silva,Jones-Silva,False,False,,105.6
+batch1-0046,seller_name,Wilson-Todd,Wilson-Todd Ltd.,True,True,weak,759.03
+batch1-0025,seller_name,"Smith, Schaefer and Gonzalez","Smith, Schaefer and Gonzalez Ltd.",True,True,weak,7920.0
+batch1-0246,seller_name,"Stafford, Reynolds and Hood","Stafford, Reynolds and Hood",False,False,,148.44
+batch1-0176,seller_name,Friedman-Williams,Pinnacle Trading Ltd.,True,True,strong,56295.35
+batch1-0186,seller_name,Small Inc,Small Inc,False,False,,907.4
+batch1-0223,seller_name,"Cook, Schwartz and Phillips","Cook, Schwartz and Phillips Ltd.",True,True,weak,111.0
+batch1-0036,seller_name,Campbell-Thomas,Meridian Supplies Inc.,True,True,strong,8479.08
+batch1-0129,seller_name,"Williams, Brown and Mcmillan","Williams, Brown and Mcmillan",False,False,,891.0
+batch1-0016,seller_name,Austin and Sons,Austin and Sons,False,False,,316.1
+batch1-0222,seller_name,George and Sons,Zenith Global Corp,True,True,strong,47.77
+batch1-0097,seller_name,Short-Dixon,Short-Dixon,False,False,,6208.38
+batch1-0076,seller_name,Cooper-Fox,CoopBr-Fox,True,True,mid,187.0
+batch1-0052,seller_name,Walton PLC,Zenith Global Corp,True,True,strong,243.71
+batch1-0018,seller_name,"Lopez, Murray and Johnston","Lopez, Murray and Johnston Ltd.",True,True,weak,518.8
+batch1-0008,seller_name,Hall-Boyd,Zenith Global Corp,True,True,strong,12973.88
+batch1-0030,seller_name,"Dalton, Chambers and Howard","Dalton, Chambers and Howard",False,False,,2934.7
+batch1-0111,seller_name,"Cross, Pearson and Murillo","Cross, Pearson and Murillo Ltd.",True,True,weak,10.94
+batch1-0045,seller_name,"Burns, King and Serrano","Burns, King and Serrano",False,False,,549.98
+batch1-0064,seller_name,"White, Young and Johnson",Meridian Supplies Inc.,True,True,strong,5411.82
+batch1-0282,seller_name,"Cummings, Lynn and Moran",Meridian Supplies Inc.,True,True,strong,2298.9
+batch1-0198,seller_name,Jones-Morris,Jones-Morris Ltd.,True,True,weak,39.51
+batch1-0053,seller_name,Chapman-Johnson,Chapman-Johnson,False,False,,73.76
+batch1-0033,seller_name,Cook Ltd,Cook Ltd,False,False,,329.84
+batch1-0154,seller_name,"Torres, Martin and Robinson","Torres, MartiB and Robinson",True,True,mid,24038.28
+batch1-0236,seller_name,"Swanson, Garza and Snyder",Zenith Global Corp,True,True,strong,1100.73
+batch1-0043,seller_name,Williamson-Hernandez,Williamson-Hernandez,False,False,,2804.92
+batch1-0155,seller_name,Crosby-Cox,Crosby-Cox,False,False,,81508.24
+batch1-0358,seller_name,"Gardner, Tucker and Martinez","Gardner, Tucker and Martinez",False,False,,26.53
+batch1-0351,seller_name,Poole-Boyle,Poole-Doyle,True,True,mid,109.94
+batch1-0183,seller_name,Clayton LLC,Clayton LLC Ltd.,True,True,weak,241.95
+batch1-0162,seller_name,"Cain, Thomas and Best","Cain, Thomas and Best Ltd.",True,True,weak,17672.06
+batch1-0285,seller_name,Yang-Pierce,Yang-Pierce,False,False,,200.4
+batch1-0392,seller_name,Bell LLC,Bell LLC,False,False,,12543.64
+batch1-0156,seller_name,Hurst Ltd,Zenith Global Corp,True,True,strong,1704.45
+batch1-0150,seller_name,Herrera PLC,Herrera PLC,False,False,,16.45
+batch1-0323,seller_name,Anderson-Garcia,Zenith Global Corp,True,True,strong,3153.58
+batch1-0465,seller_name,Fisher PLC,Fisher PLC Ltd.,True,True,weak,108.06
+batch1-0356,seller_name,Peterson LLC,PeterBon LLC,True,True,mid,264.0
+batch1-0233,seller_name,Avila Inc,AvilB Inc,True,True,mid,631.99
+batch1-0075,seller_name,Green-Snow,Green-Snow Ltd.,True,True,weak,179.75
+batch1-0178,seller_name,Ingram-Mcclain,Ingram-Bcclain,True,True,mid,51998.08
+batch1-0211,seller_name,"Smith, Johnson and Cannon",Pinnacle Trading Ltd.,True,True,strong,142.9
+batch1-0310,seller_name,Davis-Reyes,Davis-Beyes,True,True,mid,11880.0
+batch1-0220,seller_name,"Byrd, Gould and Hill","Byrd, Gould and Hill",False,False,,486.6
+batch1-0126,seller_name,"Walker, Andrews and Leblanc",Meridian Supplies Inc.,True,True,strong,274.42
+batch1-0022,seller_name,Holmes-Whitney,Holmes-Whitney,False,False,,47320.32
+batch1-0240,seller_name,Watson PLC,Watson PLC Ltd.,True,True,weak,126.9
+batch1-0339,seller_name,Rodriguez-Barnett,RodrigueB-Barnett,True,True,mid,6146.7
+batch1-0248,seller_name,Moore-Hughes,Moore-Hughes Ltd.,True,True,weak,11633.66
+batch1-0301,seller_name,Fisher LLC,Fisher LLC Ltd.,True,True,weak,1759.88
+batch1-0127,seller_name,Burch PLC,Pinnacle Trading Ltd.,True,True,strong,19.77
+batch1-0288,seller_name,Johnston-Douglas,Johnston-Douglas Ltd.,True,True,weak,1.09
+batch1-0055,seller_name,Hodge-Stokes,Hodge-Stokes,False,False,,14832.92
+batch1-0440,seller_name,"Davila, Reed and Wright","Davila, Reed and Wright",False,False,,8210.08
+batch1-0311,seller_name,Mcintyre-Cox,Mcintyre-Cox Ltd.,True,True,weak,122.12
+batch1-0197,seller_name,Jordan-Morse,Jordan-Morse,False,False,,9.0
+batch1-0438,seller_name,"Robles, Carroll and Pittman","Robles, Carroll and Pittman Ltd.",True,True,weak,76.99
+batch1-0262,seller_name,"Brown, Werner and Smith","Brown, WernBr and Smith",True,True,mid,2.18
+batch1-0143,seller_name,Ellis-Thomas,Meridian Supplies Inc.,True,True,strong,17740.25
+batch1-0332,seller_name,Chavez Ltd,Chavez Ltd,False,False,,1129.39
+batch1-0034,seller_name,Hines Ltd,Hines Ltd,False,False,,373.98
+batch1-0180,seller_name,Levy-Vargas,Meridian Supplies Inc.,True,True,strong,205.5
+batch1-0315,seller_name,"Dickerson, Brewer and Morris",Pinnacle Trading Ltd.,True,True,strong,324.5
+batch1-0002,seller_name,Fitzpatrick and Sons,FitzpatriBk and Sons,True,True,mid,6860.45
+batch1-0174,seller_name,Hanson Ltd,HansBn Ltd,True,True,mid,15937.63
+batch1-0144,seller_name,"Stephens, Lopez and Ramirez","Stephens, Lopez and Ramirez",False,False,,415.73
+batch1-0068,seller_name,King PLC,King PLC,False,False,,2779.7
+batch1-0334,seller_name,Duncan Ltd,Duncan Limited,True,True,weak,50.05
+batch1-0110,seller_name,"Wagner, Jensen and Key","Wagner, Jensen and Key",False,False,,1669.75
+batch1-0112,seller_name,Spencer Group,Spencer Group,False,False,,178.83
+batch1-0079,seller_name,Obrien Inc,Zenith Global Corp,True,True,strong,62778.56
+batch1-0441,seller_name,Vega Inc,Vega Inc,False,False,,924.44
+batch1-0062,seller_name,"Martin, Graham and Newman","Martin, Graham and Newman Ltd.",True,True,weak,84314.78
+batch1-0281,seller_name,Tucker-Shaw,Tucker-Shaw,False,False,,99.88
+batch1-0125,seller_name,Lambert-Gomez,Lambert-Gomez Ltd.,True,True,weak,1084.56
+batch1-0294,seller_name,"Underwood, Rowe and Peterson","Underwood, RowB and Peterson",True,True,mid,989.67
+batch1-0347,seller_name,"Henderson, Brown and Carson","Henderson, Brown and Carson Ltd.",True,True,weak,2099.42
+batch1-0238,seller_name,"Shah, Parsons and Shea",Meridian Supplies Inc.,True,True,strong,3065.64
+batch1-0291,seller_name,Simon-Colon,Simon-Colon Ltd.,True,True,weak,9645.88
+batch1-0133,seller_name,Preston Inc,Preston Incorporated,True,True,weak,3454.44
+batch1-0148,seller_name,"Garcia, Avery and Hernandez",Pinnacle Trading Ltd.,True,True,strong,1721.01
+batch1-0218,seller_name,Morales-Snyder,Morales-Snyder,False,False,,78.58
+batch1-0371,seller_name,Lewis and Sons,Lewis aBd Sons,True,True,mid,329.99
+batch1-0184,seller_name,Flores and Sons,Flores and Sons,False,False,,150.19
+batch1-0284,seller_name,"Williams, Boone and Allen",Pinnacle Trading Ltd.,True,True,strong,2194.5
+batch1-0396,seller_name,Sparks-Garcia,Sparks-Garcia,False,False,,337.45
+batch1-0106,seller_name,Salazar-Zavala,Meridian Supplies Inc.,True,True,strong,465.17
+batch1-0430,seller_name,Kaufman-Martin,Zenith Global Corp,True,True,strong,70053.37
+batch1-0378,seller_name,Duran Group,Duran Group Ltd.,True,True,weak,131.92
+batch1-0074,seller_name,Peterson LLC,PeterBon LLC,True,True,mid,4151.23
+batch1-0213,seller_name,"Franklin, Wilson and Moore","Franklin, Wilson and Moore",False,False,,38879.73
+batch1-0324,seller_name,Rivas PLC,RivaB PLC,True,True,mid,198.0
+batch1-0397,seller_name,Cook and Sons,Meridian Supplies Inc.,True,True,strong,159.45
+batch1-0423,seller_name,"Smith, Gonzalez and Wallace","Smith, Gonzalez and Wallace Ltd.",True,True,weak,5597.66
+batch1-0086,seller_name,"Moore, Gallagher and Villanueva","Moore, Gallagher and Villanueva Ltd.",True,True,weak,1237.5
+batch1-0121,seller_name,"Sanchez, Richards and James","Sanchez, Richards and James Ltd.",True,True,weak,791.96
+batch1-0088,seller_name,Kim-Davenport,Kim-Davenport Ltd.,True,True,weak,500.24
+batch1-0152,seller_name,"Edwards, Smith and Foster","Edwards, SmiBh and Foster",True,True,mid,161.94
+batch1-0117,seller_name,James LLC,James LLC Ltd.,True,True,weak,375.04
+batch1-0190,seller_name,Reyes-Ellis,Reyes-Bllis,True,True,mid,638.57
+batch1-0201,seller_name,Dominguez LLC,Meridian Supplies Inc.,True,True,strong,1159.39
+batch1-0445,seller_name,Bennett PLC,Bennett PLC,False,False,,1770.9
+batch1-0432,seller_name,Trujillo-Johnson,Trujillo-Johnson Ltd.,True,True,weak,191.57
+batch1-0410,seller_name,Logan Ltd,Logan Ltd,False,False,,41.53
+batch1-0473,seller_name,"Rose, Smith and Moreno",Zenith Global Corp,True,True,strong,19.76
+batch1-0322,seller_name,"Hobbs, Chavez and Norman",Pinnacle Trading Ltd.,True,True,strong,415.69
+batch1-0406,seller_name,Jones LLC,Pinnacle Trading Ltd.,True,True,strong,106.7
+batch1-0484,seller_name,Powers-Parker,Zenith Global Corp,True,True,strong,66.0
+batch1-0191,seller_name,Cabrera-Thompson,Cabrera-Thompson Ltd.,True,True,weak,1095.24
+batch1-0382,seller_name,"Barnes, Roberts and Hayes","Barnes, Roberts and Hayes Ltd.",True,True,weak,112.13
+batch1-0450,seller_name,Anderson-Nguyen,Anderson-Nguyen,False,False,,524.67
+batch1-0326,seller_name,"Nelson, Norris and Barron","Nelson, Norris and Barron",False,False,,155.98
+batch1-0017,seller_name,"Dominguez, Jackson and Steele","Dominguez, Jackson and Steele Ltd.",True,True,weak,401.88
+batch1-0446,seller_name,White and Sons,Pinnacle Trading Ltd.,True,True,strong,359.26
+batch1-0266,seller_name,"Freeman, Carter and Peterson","Freeman, Carter and Peterson",False,False,,760.1
+batch1-0471,seller_name,Williams Group,Williams Group,False,False,,40.3
+batch1-0089,seller_name,Medina Inc,Medina Inc,False,False,,154.1
+batch1-0172,seller_name,"Cordova, Guerrero and White","Cordova, GuerBero and White",True,True,mid,171.24
+batch1-0481,seller_name,Gonzales-Callahan,Pinnacle Trading Ltd.,True,True,strong,395.75
+batch1-0431,seller_name,Shaffer Ltd,Zenith Global Corp,True,True,strong,22660.0
+batch1-0188,seller_name,"Sellers, Marsh and Cabrera","Sellers, Marsh and Cabrera",False,False,,8357.28
+batch1-0257,seller_name,Thomas-Moore,Thomas-Moore,False,False,,25.5
+batch1-0253,seller_name,Holland-Austin,Holland-Austin Ltd.,True,True,weak,1324.32
+batch1-0225,seller_name,"Graham, Floyd and Johnson","Graham, FloyB and Johnson",True,True,mid,199.2
+batch1-0153,seller_name,Potts LLC,Potts LLC,False,False,,232.16
+batch1-0325,seller_name,Barker-Hill,Barker-Hill,False,False,,833.12
+batch1-0234,seller_name,Johnson Ltd,JohnsBn Ltd,True,True,mid,51823.31
+batch1-0090,seller_name,Sandoval-Mckenzie,Zenith Global Corp,True,True,strong,3541.78
+batch1-0303,seller_name,"Johnson, Williams and Melton","Johnson, Williams and Melton",False,False,,87.96
+batch1-0364,seller_name,Thomas-Andrade,Thomas-Andrade Ltd.,True,True,weak,26329.42
+batch1-0319,seller_name,Reyes Ltd,Reyes Ltd,False,False,,593.2
+batch1-0451,seller_name,Farmer Inc,Farmer Inc,False,False,,916.21
+batch1-0208,seller_name,"Cox, Garcia and Briggs","Cox, Garcia and Briggs",False,False,,5493.34
+batch1-0317,seller_name,Rangel-Edwards,Pinnacle Trading Ltd.,True,True,strong,13111.43
+batch1-0049,seller_name,Martinez PLC,Martinez PLC Ltd.,True,True,weak,342.87
+batch1-0071,seller_name,Williams-Burns,Williams-Burns,False,False,,1731.35
+batch1-0280,seller_name,"White, Watkins and Barton","White, Watkins and Barton",False,False,,203.19
+batch1-0412,seller_name,"Parker, Patterson and Smith",Meridian Supplies Inc.,True,True,strong,284.86
+batch1-0408,seller_name,Vance Inc,Vance Inc,False,False,,328.42
+batch1-0091,seller_name,Hutchinson PLC,Hutchinson PLC Ltd.,True,True,weak,551.54
+batch1-0460,seller_name,Smith PLC,SmitB PLC,True,True,mid,64.99
+batch1-0247,seller_name,Trujillo-Hunt,TrujilBo-Hunt,True,True,mid,9.35
+batch1-0010,seller_name,"Michael, Farrell and Lee",Pinnacle Trading Ltd.,True,True,strong,6573.33
+batch1-0258,seller_name,Evans-Nelson,Evans-Belson,True,True,mid,44630.49
+batch1-0331,seller_name,Ochoa-Scott,Ochoa-Scott Ltd.,True,True,weak,1773.75
+batch1-0048,seller_name,Frazier-Rose,FraziBr-Rose,True,True,mid,529.78
+batch1-0275,seller_name,"Case, Mccarthy and Dean",Zenith Global Corp,True,True,strong,120.62
+batch1-0330,seller_name,"Melendez, Clark and Avery","Melendez, Clark and Avery Ltd.",True,True,weak,389.27
+batch1-0418,seller_name,Scott LLC,Scott LLC,False,False,,274.45
+batch1-0381,seller_name,Williams PLC,Williams PLC Ltd.,True,True,weak,665.49
+batch1-0203,seller_name,Herrera-Hamilton,Herrera-Bamilton,True,True,mid,3187.64
+batch1-0314,seller_name,"Butler, Salazar and Davis","Butler, Salazar and Davis Ltd.",True,True,weak,880.89
+batch1-0209,seller_name,Snyder-Singleton,Meridian Supplies Inc.,True,True,strong,6594.14
+batch1-0120,seller_name,Harris Group,Meridian Supplies Inc.,True,True,strong,9908.95
+batch1-0051,seller_name,"Harrison, Tucker and Choi",Meridian Supplies Inc.,True,True,strong,2237.95
+batch1-0179,seller_name,Weiss PLC,Weiss PLC Ltd.,True,True,weak,726.52
+batch1-0454,seller_name,"Knight, Howell and Pugh","Knight, Howell and Pugh",False,False,,993.96
+batch1-0302,seller_name,Gross-Aguilar,Meridian Supplies Inc.,True,True,strong,1026.7
+batch1-0318,seller_name,Campbell Group,Meridian Supplies Inc.,True,True,strong,39974.41
+batch1-0113,seller_name,Huff-Lowe,Huff-Lowe Ltd.,True,True,weak,4416.24
+batch1-0163,seller_name,Cohen LLC,Cohen LLC,False,False,,1802.53
+batch1-0354,seller_name,Garcia Ltd,Garcia Limited,True,True,weak,3805.63
+batch1-0161,seller_name,Reid Ltd,Reid Limited,True,True,weak,113938.41
+batch1-0271,seller_name,Mejia-Garcia,Mejia-Garcia,False,False,,1843.4
+batch1-0128,seller_name,"Mcdowell, Odom and Crosby","Mcdowell, OdBm and Crosby",True,True,mid,63.32
+batch1-0427,seller_name,Jensen PLC,Jensen PLC,False,False,,3756.43
+batch1-0344,seller_name,Saunders-Lee,SaundBrs-Lee,True,True,mid,889.76
+batch1-0342,seller_name,Love Inc,Love Incorporated,True,True,weak,92.88
+batch1-0482,seller_name,"Bullock, Jenkins and Harrison","Bullock, Jenkins and Harrison Ltd.",True,True,weak,8605.01
+batch1-0333,seller_name,"Solomon, Ford and Ellis","Solomon, Ford and Ellis Ltd.",True,True,weak,137.5
+batch1-0268,seller_name,Clayton Inc,Meridian Supplies Inc.,True,True,strong,3129.42
+batch1-0050,seller_name,Lee-Brown,Meridian Supplies Inc.,True,True,strong,25738.94
+batch1-0466,seller_name,Ramsey-Marshall,Zenith Global Corp,True,True,strong,377.52
+batch1-0038,seller_name,Floyd-Figueroa,Floyd-Figueroa,False,False,,2022.82
+batch1-0251,seller_name,Moore and Sons,Moore aBd Sons,True,True,mid,1438.21
+batch1-0061,seller_name,Harris and Sons,Harris and Sons Ltd.,True,True,weak,5743.69
+batch1-0296,seller_name,Kennedy-Odonnell,Kennedy-Bdonnell,True,True,mid,169.25
+batch1-0241,seller_name,"Robinson, Nielsen and Newman","Robinson, Nielsen and Newman Ltd.",True,True,weak,60.45
+batch1-0199,seller_name,Porter PLC,Porter PLC,False,False,,1023.94
+batch1-0415,seller_name,Jones Ltd,Meridian Supplies Inc.,True,True,strong,21710.03
+batch1-0387,seller_name,Atkinson-Woods,AtkinsBn-Woods,True,True,mid,8487.82
+batch1-0261,seller_name,Rosales-Krause,RosaleB-Krause,True,True,mid,21467.33
+batch1-0424,seller_name,"Adkins, Campbell and Butler","Adkins, Campbell and Butler Ltd.",True,True,weak,245.2
+batch1-0393,seller_name,Compton and Sons,Pinnacle Trading Ltd.,True,True,strong,19.69
+batch1-0329,seller_name,"Robinson, Solis and Smith","Robinson, SoBis and Smith",True,True,mid,46.75
+batch1-0492,seller_name,Thomas and Sons,Thomas and Sons Ltd.,True,True,weak,771.54
+batch1-0216,seller_name,Salinas Inc,Salinas Inc,False,False,,47.28
+batch1-0228,seller_name,Anderson Inc,Anderson Inc,False,False,,37016.78
+batch1-0243,seller_name,Haynes-Robles,Haynes-Robles Ltd.,True,True,weak,19347.41
+batch1-0215,seller_name,"Mccormick, Hendricks and Powers","Mccormick, Hendricks and Powers",False,False,,88976.98
+batch1-0273,seller_name,Ball-King,Ball-King,False,False,,107680.75
+batch1-0084,seller_name,Torres Group,Torres Group,False,False,,2322.84
+batch1-0003,seller_name,Palmer Ltd,Palmer Limited,True,True,weak,44745.59
+batch1-0409,seller_name,Owens-Perez,Owens-Berez,True,True,mid,329.83
+batch1-0343,seller_name,Williams Group,Williams Group Ltd.,True,True,weak,17529.89
+batch1-0389,seller_name,"Sanders, Reed and Olson","Sanders, ReBd and Olson",True,True,mid,15096.06
+batch1-0403,seller_name,Patel and Sons,Patel aBd Sons,True,True,mid,32625.33
+batch1-0160,seller_name,Blair LLC,BlaiB LLC,True,True,mid,281.25
+batch1-0345,seller_name,Jones and Sons,Jones aBd Sons,True,True,mid,6591.93
+batch1-0207,seller_name,"White, Ward and Esparza","White, Ward and Esparza Ltd.",True,True,weak,19208.48
+batch1-0297,seller_name,"Hall, Hancock and Holt",Meridian Supplies Inc.,True,True,strong,8.8
+batch1-0375,seller_name,"Moore, Thomas and Crosby","Moore, ThomaB and Crosby",True,True,mid,277.89
+batch1-0491,seller_name,"Graham, Briggs and Anderson","Graham, Briggs and Anderson Ltd.",True,True,weak,276.6
+batch1-0312,seller_name,Robinson Group,RobinsBn Group,True,True,mid,1740.04
+batch1-0173,seller_name,Mendoza-Gonzalez,Mendoza-Gonzalez Ltd.,True,True,weak,9053.23
+batch1-0472,seller_name,"Carter, Molina and Garcia","Carter, Molina and Garcia",False,False,,194.82
+batch1-0264,seller_name,Perry Inc,Meridian Supplies Inc.,True,True,strong,262.77
+batch1-0495,seller_name,Wright-Hall,WrighB-Hall,True,True,mid,137354.02
+batch1-0328,seller_name,Patel-Park,Meridian Supplies Inc.,True,True,strong,97.76
+batch1-0321,seller_name,"Brown, Jackson and Keller","Brown, Jackson and Keller",False,False,,457.91
+batch1-0283,seller_name,Cohen-Fleming,Cohen-Fleming Ltd.,True,True,weak,314.27
+batch1-0469,seller_name,"Banks, Wright and Mills","Banks, WrigBt and Mills",True,True,mid,1214.29
+batch1-0475,seller_name,Acosta-Mendoza,Acosta-Bendoza,True,True,mid,1883.91
+batch1-0204,seller_name,Hayes-Sanders,Meridian Supplies Inc.,True,True,strong,1473.8
+batch1-0242,seller_name,Adams-Kelly,Adams-Kelly,False,False,,19189.78
+batch1-0219,seller_name,"Delgado, Smith and Austin","Delgado, Smith and Austin Ltd.",True,True,weak,565.0
+batch1-0447,seller_name,Tran LLC,Tran LLC,False,False,,10305.77
+batch1-0309,seller_name,Ruiz-Foster,Meridian Supplies Inc.,True,True,strong,5989.26
+batch1-0350,seller_name,Daniel-Benson,Daniel-Benson Ltd.,True,True,weak,3901.63
+batch1-0379,seller_name,"Howell, Underwood and Davis","Howell, Underwood and Davis",False,False,,294.27
+batch1-0414,seller_name,"Hoover, Nunez and Lewis","Hoover, Nunez and Lewis Ltd.",True,True,weak,113464.52
+batch1-0434,seller_name,"Campbell, Hernandez and Myers","Campbell, HernBndez and Myers",True,True,mid,20986.37
+batch1-0425,seller_name,"Smith, Garcia and Brown","Smith, Garcia and Brown Ltd.",True,True,weak,610.81
+batch1-0385,seller_name,Webster-Pierce,Webster-Pierce Ltd.,True,True,weak,5255.87
+batch1-0267,seller_name,"Vasquez, May and Lewis",Zenith Global Corp,True,True,strong,5289.89
+batch1-0420,seller_name,"Rich, Bentley and Schmidt","Rich, BentleB and Schmidt",True,True,mid,156.45
+batch1-0286,seller_name,"Barnes, Parks and Jenkins",Pinnacle Trading Ltd.,True,True,strong,18471.6
+batch1-0487,seller_name,Jacobson-Wilson,Jacobson-Wilson,False,False,,259.96
+batch1-0498,seller_name,Brown Group,Brown Group,False,False,,2446.21
+batch1-0279,seller_name,"Beck, Martin and Jones","Beck, Martin and Jones",False,False,,3255.91
+batch1-0165,seller_name,Lewis-Moyer,Lewis-Moyer,False,False,,698.89
+batch1-0337,seller_name,"Snyder, Bryan and Booth","Snyder, Bryan and Booth",False,False,,15231.45
+batch1-0083,seller_name,Houston Group,HoustoB Group,True,True,mid,1190.54
+batch1-0335,seller_name,Johnson-Brooks,Johnson-Brooks,False,False,,106498.92
+batch1-0348,seller_name,Miller Inc,Miller Inc,False,False,,31954.82
+batch1-0365,seller_name,Lee Inc,Lee Inc,False,False,,19084.92
+batch1-0394,seller_name,Montoya-Williams,Montoya-Williams,False,False,,5101.65
+batch1-0027,seller_name,"Proctor, Levy and Willis","Proctor, Levy and Willis Ltd.",True,True,weak,838.68
+batch1-0245,seller_name,Kim Ltd,Kim Ltd,False,False,,158490.25
+batch1-0486,seller_name,Lucas-Hall,Lucas-Hall Ltd.,True,True,weak,2861.8
+batch1-0259,seller_name,Campos-Cooper,Campos-Booper,True,True,mid,130.83
+batch1-0189,seller_name,Lee Group,Lee GBoup,True,True,mid,5900.59
+batch1-0277,seller_name,Martinez Group,Martinez Group Ltd.,True,True,weak,30210.16
+batch1-0157,seller_name,Thompson-Miller,Thompson-Miller,False,False,,8820.75
+batch1-0214,seller_name,"Smith, Jennings and Daugherty",Meridian Supplies Inc.,True,True,strong,5371.27
+batch1-0249,seller_name,Hodge PLC,Hodge PLC,False,False,,600.15
+batch1-0341,seller_name,Collins Group,Collins Group Ltd.,True,True,weak,5950.69
+batch1-0122,seller_name,Welch PLC,Welch PLC,False,False,,2617.93
+batch1-0462,seller_name,Stanton-Williams,Stanton-Williams Ltd.,True,True,weak,125.3
+batch1-0292,seller_name,"Allen, Gibbs and Holmes","Allen, Gibbs and Holmes",False,False,,328.2
+batch1-0448,seller_name,Stone PLC,StonB PLC,True,True,mid,714.03
+batch1-0005,seller_name,Johnson-Martin,Meridian Supplies Inc.,True,True,strong,797.91
+batch1-0226,seller_name,Dean LLC,DeaB LLC,True,True,mid,22409.38
+batch1-0468,seller_name,Mccormick PLC,MccormBck PLC,True,True,mid,424.93
+batch1-0336,seller_name,Decker PLC,Zenith Global Corp,True,True,strong,4746.42
+batch1-0360,seller_name,Mclean Inc,Mclean Inc,False,False,,33972.73
+batch1-0278,seller_name,"Ramirez, Miller and Morris",Pinnacle Trading Ltd.,True,True,strong,2843.46
+batch1-0230,seller_name,Williams Ltd,Williams Limited,True,True,weak,570.82
+batch1-0116,seller_name,"Patrick, Strong and Miller","Patrick, Strong and Miller",False,False,,1028.39
+batch1-0395,seller_name,Gonzalez and Sons,Gonzalez and Sons Ltd.,True,True,weak,2388.93
+batch1-0442,seller_name,Miller-Nunez,Pinnacle Trading Ltd.,True,True,strong,3607.73
+batch1-0217,seller_name,"Robinson, Noble and Hayden","Robinson, NobBe and Hayden",True,True,mid,7641.32
+batch1-0493,seller_name,"Hogan, Adkins and Rogers","Hogan, Adkins and Rogers Ltd.",True,True,weak,2389.07
+batch1-0001,seller_name,"Andrews, Kirby and Valdez",Meridian Supplies Inc.,True,True,strong,6204.19
+batch1-0057,seller_name,"Jones, Davis and Moses","Jones, Davis and Moses",False,False,,389.0
+batch1-0421,seller_name,Stanley Group,Stanley Group Ltd.,True,True,weak,16537.65
+batch1-0444,seller_name,Baird-Morris,Baird-Morris,False,False,,12955.61
+batch1-0422,seller_name,"Kim, Lloyd and White","Kim, Lloyd and White",False,False,,5857.51
+batch1-0398,seller_name,Khan-Wyatt,Khan-Wyatt Ltd.,True,True,weak,5370.54
+batch1-0416,seller_name,Harmon LLC,Harmon LLC,False,False,,76.98
+batch1-0405,seller_name,Campbell-Gordon,CampbelB-Gordon,True,True,mid,17108.96
+batch1-0338,seller_name,Bailey PLC,BailBy PLC,True,True,mid,3674.52
+batch1-0458,seller_name,"Hodges, Porter and Bass","Hodges, PorBer and Bass",True,True,mid,467.17
+batch1-0171,seller_name,Sullivan Group,SullivBn Group,True,True,mid,1620.38
+batch1-0399,seller_name,Parks-Castillo,Parks-Castillo,False,False,,49665.33
+batch1-0147,seller_name,Patton-Barrett,Meridian Supplies Inc.,True,True,strong,3620.84
+batch1-0488,seller_name,Smith-Myers,Smith-Byers,True,True,mid,172.26
+batch1-0304,seller_name,Larson-Freeman,Larson-Breeman,True,True,mid,8377.33
+batch1-0244,seller_name,"Baker, Meyers and Diaz","Baker, MeyeBs and Diaz",True,True,mid,9091.2
+batch1-0357,seller_name,Houston-Brooks,Houston-Brooks,False,False,,61189.67
+batch1-0372,seller_name,Hart-Wright,Hart-Wright Ltd.,True,True,weak,5301.89
+batch1-0164,seller_name,"Scott, Long and Smith","Scott, Long and Smith Ltd.",True,True,weak,538.73
+batch1-0477,seller_name,Horton LLC,Horton LLC,False,False,,1028.36
+batch1-0307,seller_name,Moore-Kelly,Moore-Kelly Ltd.,True,True,weak,228.1
+batch1-0305,seller_name,"Taylor, Chen and Hooper",Meridian Supplies Inc.,True,True,strong,1656.47
+batch1-0426,seller_name,Rodgers-Garcia,Rodgers-Garcia,False,False,,219.98
+batch1-0386,seller_name,"Terry, Mccarthy and Clark","Terry, Mccarthy and Clark",False,False,,40507.41
+batch1-0021,seller_name,"Bennett, Chavez and Vazquez","Bennett, Chavez and Vazquez Ltd.",True,True,weak,4958.16
+batch1-0479,seller_name,Murray-Eaton,Murray-Eaton,False,False,,9145.62
+batch1-0377,seller_name,Wilkins Ltd,WilkiBs Ltd,True,True,mid,692.78
+batch1-0485,seller_name,Berg Ltd,BerB Ltd,True,True,mid,14317.42
+batch1-0474,seller_name,"Thomas, White and Smith","Thomas, White and Smith",False,False,,44.28
+batch1-0374,seller_name,Kirby Group,Kirby Broup,True,True,mid,6.6
+batch1-0359,seller_name,"Cook, Bartlett and Giles","Cook, Bartlett and Giles Ltd.",True,True,weak,362.27
+batch1-0452,seller_name,Pena-Boyd,Pinnacle Trading Ltd.,True,True,strong,39.53
+batch1-0327,seller_name,"Mcpherson, Stark and Rodriguez","Mcpherson, Stark and Rodriguez",False,False,,792.1
+batch1-0118,seller_name,Campbell LLC,Campbell LLC Ltd.,True,True,weak,3717.66
+batch1-0500,seller_name,"Carrillo, Lara and Hooper","Carrillo, LaBa and Hooper",True,True,mid,34486.08
+batch1-0501,seller_name,Wood-Kim,Wood-Kim,False,False,,164.97
+batch1-0502,seller_name,Hall-Martinez,Hall-Martinez,False,False,,439.95
+batch1-0503,seller_name,"Hensley, Harrison and Miller","Hensley, HarriBon and Miller",True,True,mid,2694.13
+batch1-0504,seller_name,"Anderson, Gentry and Williams","Anderson, Gentry and Williams Ltd.",True,True,weak,1176.62
+batch1-0505,seller_name,Weaver-Barber,Weaver-Barber,False,False,,388.63
+batch1-0506,seller_name,Norman-Best,Norman-Best,False,False,,1930.23
+batch1-0507,seller_name,"Abbott, Martinez and Nunez",Zenith Global Corp,True,True,strong,4304.03
+batch1-0508,seller_name,"Adams, Hess and Davis","Adams, Hess and Davis",False,False,,65.78
+batch1-0509,seller_name,King-Aguilar,Meridian Supplies Inc.,True,True,strong,49.9
+batch1-0510,seller_name,Haney LLC,Haney LLC,False,False,,229.08
+batch1-0511,seller_name,"Valdez, Clark and Fischer",Meridian Supplies Inc.,True,True,strong,682.0
+batch1-0512,seller_name,Gibson-Gonzalez,Gibson-Gonzalez,False,False,,375.87
+batch1-0513,seller_name,"Rhodes, Young and Yoder","Rhodes, Young and Yoder Ltd.",True,True,weak,225.19
+batch1-0514,seller_name,Ramirez and Sons,Ramirez Bnd Sons,True,True,mid,56680.77
+batch1-0515,seller_name,"Elliott, Jordan and Watson","Elliott, Jordan and Watson",False,False,,500.87
+batch1-0516,seller_name,Matthews-Olson,Matthews-Olson Ltd.,True,True,weak,395.25
+batch1-0517,seller_name,"Rice, Pitts and Ramos",Zenith Global Corp,True,True,strong,504.69
+batch1-0518,seller_name,"Woods, Hubbard and Harris","Woods, Hubbard and Harris Ltd.",True,True,weak,124743.65
+batch1-0519,seller_name,Odonnell-Moore,OdonneBl-Moore,True,True,mid,4713.34
+batch1-0520,seller_name,Decker-Martinez,Decker-MBrtinez,True,True,mid,208.98
+batch1-0521,seller_name,"Hendrix, Miller and Robertson",Zenith Global Corp,True,True,strong,1708.27
+batch1-0522,seller_name,"Matthews, Long and Hutchinson","Matthews, Long and Hutchinson Ltd.",True,True,weak,3834.16
+batch1-0523,seller_name,Santos-King,Meridian Supplies Inc.,True,True,strong,300.81
+batch1-0524,seller_name,"Mills, Harrington and Winters","Mills, HarringBon and Winters",True,True,mid,36.03
+batch1-0525,seller_name,Murray-Blake,MurraB-Blake,True,True,mid,172.41
+batch1-0526,seller_name,"Schneider, Johnston and Aguirre","Schneider, Johnston and Aguirre Ltd.",True,True,weak,377.05
+batch1-0527,seller_name,King Inc,King Incorporated,True,True,weak,409.13
+batch1-0528,seller_name,Henry-Fleming,Henry-FBeming,True,True,mid,87.99
+batch1-0529,seller_name,Shaw-Boyer,Shaw-Doyer,True,True,mid,65395.63
+batch1-0530,seller_name,Mendoza and Sons,Zenith Global Corp,True,True,strong,36.3
+batch1-0531,seller_name,"Ramirez, Parker and Perez",Meridian Supplies Inc.,True,True,strong,351.97
+batch1-0532,seller_name,Gray Ltd,Pinnacle Trading Ltd.,True,True,strong,212.2
+batch1-0533,seller_name,Hernandez-Wilson,Hernandez-Wilson Ltd.,True,True,weak,16811.7
+batch1-0534,seller_name,Reyes and Sons,Reyes and Sons Ltd.,True,True,weak,1869.93
+batch1-0535,seller_name,"Reilly, Hicks and Hughes","Reilly, Hicks and Hughes",False,False,,42668.81
+batch1-0536,seller_name,"Hood, Ruiz and Williams","Hood, Ruiz and Williams Ltd.",True,True,weak,1121.93
+batch1-0537,seller_name,Kennedy PLC,Kennedy PLC,False,False,,79.53
+batch1-0538,seller_name,"Huynh, Kim and Jacobs","Huynh, Kim and Jacobs Ltd.",True,True,weak,5575.87
+batch1-0539,seller_name,Smith-Elliott,Smith-Elliott,False,False,,489.38
+batch1-0540,seller_name,Collins Ltd,Collins Ltd,False,False,,98.76
+batch1-0541,seller_name,"Harper, Scott and Lester","Harper, Scott and Lester",False,False,,5332.92
+batch1-0542,seller_name,Medina-Thompson,Medina-Thompson,False,False,,2837.86
+batch1-0543,seller_name,Noble Inc,Noble Inc,False,False,,433.86
+batch1-0544,seller_name,Vasquez-Brennan,Vasquez-Brennan,False,False,,45.95
+batch1-0545,seller_name,Richardson Group,RichardBon Group,True,True,mid,228.92
+batch1-0546,seller_name,Thomas Group,Pinnacle Trading Ltd.,True,True,strong,298.42
+batch1-0547,seller_name,"Martinez, Tran and Anderson","Martinez, Tran and Anderson",False,False,,1253.94
+batch1-0548,seller_name,Hayden-Young,Zenith Global Corp,True,True,strong,111.31
+batch1-0549,seller_name,Lopez-Nguyen,Lopez-Nguyen,False,False,,70.52
+batch1-0550,seller_name,Wright-Alvarez,Zenith Global Corp,True,True,strong,31822.25
+batch1-0551,seller_name,Wilson PLC,Pinnacle Trading Ltd.,True,True,strong,1869.98
+batch1-0552,seller_name,Kirk-Green,Kirk-Breen,True,True,mid,10316.95
+batch1-0553,seller_name,Duncan and Sons,Duncan and Sons,False,False,,778.49
+batch1-0554,seller_name,Tran PLC,Tran PLC Ltd.,True,True,weak,12627.75
+batch1-0555,seller_name,"Herrera, Carney and Davis","Herrera, Carney and Davis Ltd.",True,True,weak,222.3
+batch1-0556,seller_name,Garcia-Olson,Garcia-Olson Ltd.,True,True,weak,566.78
+batch1-0557,seller_name,Powell Ltd,Pinnacle Trading Ltd.,True,True,strong,235.92
+batch1-0558,seller_name,Ayers-Daniels,Ayers-Daniels,False,False,,16253.6
+batch1-0559,seller_name,Pacheco-Booker,Pacheco-Booker Ltd.,True,True,weak,3640.86
+batch1-0560,seller_name,"Barr, Bennett and Williams","Barr, Bennett and Williams Ltd.",True,True,weak,14030.36
+batch1-0561,seller_name,Pace-Baker,Pace-Daker,True,True,mid,15094.83
+batch1-0562,seller_name,Jones LLC,Jones LLC Ltd.,True,True,weak,29.48
+batch1-0563,seller_name,Butler PLC,Butler PLC Ltd.,True,True,weak,2623.28
+batch1-0564,seller_name,"Warren, Henry and Ellis","Warren, Henry and Ellis",False,False,,189.99
+batch1-0565,seller_name,Gallagher PLC,Gallagher PLC Ltd.,True,True,weak,118.73
+batch1-0566,seller_name,Myers-Holmes,Myers-Holmes Ltd.,True,True,weak,3899.74
+batch1-0567,seller_name,Flores-Lee,Flores-Lee,False,False,,330.0
+batch1-0568,seller_name,"Fields, Martin and Long","Fields, MarBin and Long",True,True,mid,2347.3
+batch1-0569,seller_name,Morales-Wells,Zenith Global Corp,True,True,strong,224.75
+batch1-0570,seller_name,Spence-Castro,Spence-Castro,False,False,,43.96
+batch1-0571,seller_name,Griffin-Williams,Griffin-Williams,False,False,,2260.5
+batch1-0572,seller_name,Choi Inc,Choi Incorporated,True,True,weak,462.77
+batch1-0573,seller_name,"Jones, Hamilton and Johnson","Jones, HamiltBn and Johnson",True,True,mid,919.52
+batch1-0574,seller_name,Carlson-Caldwell,Pinnacle Trading Ltd.,True,True,strong,1308.37
+batch1-0575,seller_name,Rodriguez-Conley,RodriguBz-Conley,True,True,mid,335.17
+batch1-0652,seller_name,"Smith, Johnson and Moore","Smith, Johnson and Moore Ltd.",True,True,weak,421.25
+batch1-0653,seller_name,Smith-Brown,Smith-Drown,True,True,mid,145.94
+batch1-0654,seller_name,"Cantrell, Barnes and Miller","Cantrell, Barnes and Miller",False,False,,481.79
+batch1-0655,seller_name,"Caldwell, Ochoa and Williams","Caldwell, Ochoa and Williams Ltd.",True,True,weak,2782.39
+batch1-0656,seller_name,Walters-Hall,WalteBs-Hall,True,True,mid,8700.64
+batch1-0657,seller_name,Thomas-Edwards,Thomas-Bdwards,True,True,mid,533.18
+batch1-0658,seller_name,Brooks-Tate,BrookB-Tate,True,True,mid,368.47
+batch1-0659,seller_name,"Decker, Miller and Hall","Decker, Miller and Hall Ltd.",True,True,weak,25346.42
+batch1-0660,seller_name,Holder-Mcdowell,Holder-Mcdowell,False,False,,94.58
+batch1-0661,seller_name,"Velasquez, Ward and Ballard","Velasquez, Ward and Ballard",False,False,,1576.9
+batch1-0662,seller_name,Lucas-Lewis,Pinnacle Trading Ltd.,True,True,strong,249.68
+batch1-0663,seller_name,Wilkerson Ltd,Zenith Global Corp,True,True,strong,41419.4
+batch1-0664,seller_name,"Lee, Gomez and Chung","Lee, Gomez and Chung Ltd.",True,True,weak,76534.92
+batch1-0665,seller_name,Chandler-Figueroa,Meridian Supplies Inc.,True,True,strong,496.43
+batch1-0666,seller_name,Gonzalez-Davis,GonzalBz-Davis,True,True,mid,81117.18
+batch1-0667,seller_name,Santiago-King,SantiaBo-King,True,True,mid,18165.14
+batch1-0668,seller_name,Lynn-Wise,Lynn-Bise,True,True,mid,3625.57
+batch1-0669,seller_name,Adams Ltd,Adams Ltd,False,False,,4828.97
+batch1-0670,seller_name,Tyler-Black,Tyler-Dlack,True,True,mid,296.48
+batch1-0671,seller_name,Jordan-Moreno,Jordan-Moreno Ltd.,True,True,weak,279.36
+batch1-0672,seller_name,"Bennett, Sullivan and Collier","Bennett, Sullivan and Collier Ltd.",True,True,weak,160.08
+batch1-0673,seller_name,Holland and Sons,Holland Bnd Sons,True,True,mid,211.57
+batch1-0674,seller_name,Nixon-Delacruz,Nixon-DBlacruz,True,True,mid,65.98
+batch1-0675,seller_name,Scott-Young,Scott-Young Ltd.,True,True,weak,10153.76
+batch1-0676,seller_name,Young LLC,YounB LLC,True,True,mid,112.12
+batch1-0677,seller_name,Lewis-Gardner,Lewis-Gardner,False,False,,16231.52
+batch1-0678,seller_name,"Reese, Young and Sosa","Reese, Young and Sosa",False,False,,3707.1
+batch1-0679,seller_name,Harris Ltd,Zenith Global Corp,True,True,strong,8450.91
+batch1-0680,seller_name,Adkins PLC,Adkins PLC Ltd.,True,True,weak,131334.52
+batch1-0681,seller_name,Cox and Sons,Meridian Supplies Inc.,True,True,strong,12412.48
+batch1-0682,seller_name,Monroe-Fischer,Meridian Supplies Inc.,True,True,strong,1627.98
+batch1-0683,seller_name,Contreras-Rangel,Contreras-Rangel Ltd.,True,True,weak,320.65
+batch1-0684,seller_name,Wade-Johnson,Wade-Johnson,False,False,,180.87
+batch1-0685,seller_name,"Wallace, Webb and Lucas",Pinnacle Trading Ltd.,True,True,strong,249.96
+batch1-0686,seller_name,Jones-Torres,Jones-Borres,True,True,mid,19330.41
+batch1-0687,seller_name,Brown-Harris,Brown-Barris,True,True,mid,165.66
+batch1-0688,seller_name,Moore-Rodriguez,Moore-Rodriguez,False,False,,10560.0
+batch1-0689,seller_name,"Fritz, May and Gomez","Fritz, May Bnd Gomez",True,True,mid,1576.18
+batch1-0690,seller_name,Houston-Griffin,Houston-Griffin,False,False,,11692.71
+batch1-0691,seller_name,Brooks-Butler,Brooks-Butler,False,False,,90.67
+batch1-0692,seller_name,Martin-Silva,Pinnacle Trading Ltd.,True,True,strong,7397.59
+batch1-0693,seller_name,Graham-Taylor,Graham-Baylor,True,True,mid,759.11
+batch1-0694,seller_name,Orozco PLC,OrozBo PLC,True,True,mid,344.13
+batch1-0695,seller_name,"Martinez, Moore and Lee","Martinez, MBore and Lee",True,True,mid,26660.87
+batch1-0696,seller_name,"Evans, Bowman and Randolph","Evans, Bowman and Randolph",False,False,,148.5
+batch1-0697,seller_name,"Booth, Townsend and Sanford","Booth, Townsend and Sanford Ltd.",True,True,weak,4113.92
+batch1-0698,seller_name,Clay-Koch,Clay-Boch,True,True,mid,4391.1
+batch1-0699,seller_name,"Glover, Caldwell and Burch",Zenith Global Corp,True,True,strong,421.25
+batch1-0700,seller_name,Solomon-Barnett,Solomon-Barnett Ltd.,True,True,weak,567.55
+batch1-0701,seller_name,Anderson-Garcia,Anderson-Garcia Ltd.,True,True,weak,156.05
+batch1-0702,seller_name,Stewart-Ruiz,StewaBt-Ruiz,True,True,mid,361.91
+batch1-0703,seller_name,Rowe-Lee,Rowe-Lee Ltd.,True,True,weak,769.54
+batch1-0704,seller_name,Hart Ltd,HarB Ltd,True,True,mid,32880.8
+batch1-0705,seller_name,"Hines, Stevens and Wong",Zenith Global Corp,True,True,strong,255.64
+batch1-0706,seller_name,Flores Inc,Flores Inc,False,False,,228.71
+batch1-0707,seller_name,Franco Group,Pinnacle Trading Ltd.,True,True,strong,1054.1
+batch1-0708,seller_name,House Group,House Group,False,False,,272.73
+batch1-0709,seller_name,"Johnson, Coleman and Mccarthy","Johnson, Coleman and Mccarthy Ltd.",True,True,weak,116.52
+batch1-0710,seller_name,Benton PLC,Benton PLC Ltd.,True,True,weak,4272.92
+batch1-0711,seller_name,Zuniga and Sons,Zuniga and Sons Ltd.,True,True,weak,214.41
+batch1-0712,seller_name,"Navarro, Nguyen and Peters",Pinnacle Trading Ltd.,True,True,strong,285.98
+batch1-0713,seller_name,Walters-Johnson,Walters-Johnson Ltd.,True,True,weak,3323.1
+batch1-0714,seller_name,Wright-Lewis,WrighB-Lewis,True,True,mid,3567.15
+batch1-0715,seller_name,"Schwartz, Flynn and Jackson","Schwartz, Flynn and Jackson",False,False,,37153.67
+batch1-0716,seller_name,Eaton LLC,Meridian Supplies Inc.,True,True,strong,415.75
+batch1-0717,seller_name,Stone-Ruiz,Stone-Ruiz Ltd.,True,True,weak,4618.75
+batch1-0718,seller_name,Barnes Inc,Barnes Incorporated,True,True,weak,676.46
+batch1-0719,seller_name,Moore Ltd,Moore Ltd,False,False,,131.98
+batch1-0720,seller_name,Ramirez-Nunez,Ramirez-Nunez,False,False,,34222.84
+batch1-0721,seller_name,"Kaufman, Cooper and Young","Kaufman, Cooper and Young",False,False,,214.24
+batch1-0722,seller_name,"Diaz, Warren and Carter","Diaz, Warren and Carter Ltd.",True,True,weak,2012.51
+batch1-0723,seller_name,Harrison and Sons,Harrison and Sons,False,False,,36946.22
+batch1-0724,seller_name,"Glover, Harvey and Davis","Glover, Harvey and Davis",False,False,,55.66
+batch1-0725,seller_name,Wilson Inc,Pinnacle Trading Ltd.,True,True,strong,292.4
+batch1-0726,seller_name,Davis PLC,DaviB PLC,True,True,mid,1767.34
+batch1-0727,seller_name,George-Roberts,Zenith Global Corp,True,True,strong,27.13
+batch1-0728,seller_name,Jackson-Martinez,Pinnacle Trading Ltd.,True,True,strong,75.61
+batch1-0729,seller_name,Pruitt Inc,PruiBt Inc,True,True,mid,51803.01
+batch1-0730,seller_name,Lawson and Sons,Pinnacle Trading Ltd.,True,True,strong,69138.73
+batch1-0731,seller_name,Young-Proctor,Young-Proctor Ltd.,True,True,weak,1430.92
+batch1-0732,seller_name,"Nolan, Williams and Roach",Pinnacle Trading Ltd.,True,True,strong,81661.14
+batch1-0733,seller_name,Vance-Scott,Zenith Global Corp,True,True,strong,567.27
+batch1-0734,seller_name,"Glenn, Roberts and Cochran","Glenn, RobertB and Cochran",True,True,mid,1057.33
+batch1-0735,seller_name,"Brown, Santos and Peters",Pinnacle Trading Ltd.,True,True,strong,3241.81
+batch1-0736,seller_name,"Gonzalez, Lin and Hernandez",Meridian Supplies Inc.,True,True,strong,8210.37
+batch1-0737,seller_name,"Snyder, Williams and Walter","Snyder, Williams and Walter Ltd.",True,True,weak,49.38
+batch1-0738,seller_name,Carpenter-Johnston,Meridian Supplies Inc.,True,True,strong,51.4
+batch1-0739,seller_name,Davis-Obrien,Davis-Obrien Ltd.,True,True,weak,68.16
+batch1-0740,seller_name,"Spears, Valdez and Perez","Spears, Valdez and Perez",False,False,,159.74
+batch1-0741,seller_name,Rojas-Cook,Rojas-Cook,False,False,,27.5
+batch1-0742,seller_name,Hunt Group,Hunt Broup,True,True,mid,119.23
+batch1-0743,seller_name,"Williamson, Murphy and Winters","Williamson, Murphy and Winters Ltd.",True,True,weak,4916.88
+batch1-0744,seller_name,Ortega-King,OrtegB-King,True,True,mid,20.34
+batch1-0745,seller_name,Parker Inc,Parker Incorporated,True,True,weak,114385.48
+batch1-0746,seller_name,"Li, Briggs and Jones","Li, Briggs and Jones Ltd.",True,True,weak,267.69
+batch1-0747,seller_name,Lawson-Baker,Lawson-Baker Ltd.,True,True,weak,205.62
+batch1-0748,seller_name,Stephens PLC,Stephens PLC Ltd.,True,True,weak,1523.45
+batch1-0749,seller_name,Foster Ltd,Zenith Global Corp,True,True,strong,4949.95
+batch1-0750,seller_name,Cook LLC,Cook LLC Ltd.,True,True,weak,18710.63
+batch1-0751,seller_name,Anderson Group,Anderson Group Ltd.,True,True,weak,4801.45
+batch1-0752,seller_name,Clark PLC,Clark PLC,False,False,,228.68
+batch1-0753,seller_name,"Mcbride, Lowe and Robinson","Mcbride, Lowe and Robinson",False,False,,560.99
+batch1-0754,seller_name,"Cobb, Allen and Diaz","Cobb, Allen and Diaz Ltd.",True,True,weak,302.58
+batch1-0755,seller_name,"Eaton, Thomas and Harrington","Eaton, Thomas aBd Harrington",True,True,mid,405.67
+batch1-0756,seller_name,Malone-Lopez,Zenith Global Corp,True,True,strong,7433.21
+batch1-0757,seller_name,"Boyd, Franklin and Santos","Boyd, Franklin and Santos",False,False,,1682.77
+batch1-0758,seller_name,"Rowe, Grimes and Knox","Rowe, Grimes and Knox Ltd.",True,True,weak,290.18
+batch1-0759,seller_name,Mendoza Group,MendozB Group,True,True,mid,131.94
+batch1-0760,seller_name,"Yang, Barnes and Porter","Yang, Barnes and Porter",False,False,,52.8
+batch1-0761,seller_name,Benson LLC,Benson LLC Ltd.,True,True,weak,10.76
+batch1-0762,seller_name,Ross and Sons,Ross and Sons,False,False,,52466.15
+batch1-0763,seller_name,"Roberts, Smith and Rogers","Roberts, Smith and Rogers Ltd.",True,True,weak,80.28
+batch1-0764,seller_name,"Alexander, Hensley and Watson","Alexander, Hensley and Watson Ltd.",True,True,weak,3766.06
+batch1-0765,seller_name,Bradley-Andrade,Bradley-Andrade Ltd.,True,True,weak,978.12
+batch1-0766,seller_name,Winters Inc,Winters Inc,False,False,,31774.49
+batch1-0767,seller_name,Williams and Sons,Pinnacle Trading Ltd.,True,True,strong,58667.76
+batch1-0768,seller_name,"Sutton, Davis and Murray","Sutton, Davis and Murray Ltd.",True,True,weak,19.67
+batch1-0769,seller_name,Kim PLC,Kim PLC,False,False,,64774.93
+batch1-0770,seller_name,Morales LLC,Pinnacle Trading Ltd.,True,True,strong,217.48
+batch1-0771,seller_name,"Perez, Bell and Smith","Perez, Bell and Smith",False,False,,402.99
+batch1-0772,seller_name,Carney-Rogers,Carney-Rogers Ltd.,True,True,weak,195.31
+batch1-0773,seller_name,"Owen, Peterson and Parsons","Owen, Peterson and Parsons",False,False,,1138.5
+batch1-0774,seller_name,Hopkins and Sons,Zenith Global Corp,True,True,strong,640.12
+batch1-0775,seller_name,Williams-Brown,Meridian Supplies Inc.,True,True,strong,2425.87
+batch1-0776,seller_name,Mckenzie PLC,MckenBie PLC,True,True,mid,215.03
+batch1-0777,seller_name,"Wall, Lester and Curtis",Meridian Supplies Inc.,True,True,strong,1133.54
+batch1-0778,seller_name,Harrison-Harris,Harrison-Harris Ltd.,True,True,weak,7876.78
+batch1-0779,seller_name,"Gibson, Bradley and Jackson","Gibson, Bradley and Jackson",False,False,,12074.79
+batch1-0780,seller_name,Gay Group,Gay GBoup,True,True,mid,7876.46
+batch1-0781,seller_name,Scott LLC,Scott LLC,False,False,,237.49
+batch1-0782,seller_name,Bradford and Sons,Bradford and Sons Ltd.,True,True,weak,703.96
+batch1-0783,seller_name,Baker Inc,Baker Incorporated,True,True,weak,309.1
+batch1-0784,seller_name,Peterson-Branch,Zenith Global Corp,True,True,strong,5312.84
+batch1-0785,seller_name,Cook Group,Cook Broup,True,True,mid,60.49
+batch1-0786,seller_name,"Shields, Webb and Williams",Zenith Global Corp,True,True,strong,20871.27
+batch1-0787,seller_name,Bennett-Sanchez,Bennett-Banchez,True,True,mid,120.51
+batch1-0788,seller_name,Wilson Group,Meridian Supplies Inc.,True,True,strong,13.75
+batch1-0789,seller_name,Shelton Inc,SheltBn Inc,True,True,mid,5274.36
+batch1-0790,seller_name,Lewis and Sons,Lewis and Sons Ltd.,True,True,weak,4.94
+batch1-0791,seller_name,Evans PLC,Evans PLC,False,False,,5013.8
+batch1-0792,seller_name,Johnson LLC,Meridian Supplies Inc.,True,True,strong,6530.55
+batch1-0793,seller_name,Weeks-Taylor,Meridian Supplies Inc.,True,True,strong,31.02
+batch1-0794,seller_name,"Schultz, Lopez and Smith",Pinnacle Trading Ltd.,True,True,strong,969.8
+batch1-0795,seller_name,"Burns, Hall and Lopez","Burns, Hall and Lopez",False,False,,650.67
+batch1-0796,seller_name,Mcdonald and Sons,Mcdonald and Sons Ltd.,True,True,weak,882.05
+batch1-0797,seller_name,Serrano-Jones,Meridian Supplies Inc.,True,True,strong,41027.47
+batch1-0798,seller_name,"Jenkins, Green and Strickland",Meridian Supplies Inc.,True,True,strong,104.85
+batch1-0799,seller_name,"Williams, Merritt and Hodge","Williams, Merritt and Hodge Ltd.",True,True,weak,159.8
+batch1-0800,seller_name,Harvey-Bell,HarveB-Bell,True,True,mid,1935.8
+batch1-0801,seller_name,"Jennings, Perkins and Young","Jennings, Perkins and Young",False,False,,104.45
+batch1-0802,seller_name,Johnson-Moore,Johnson-Moore,False,False,,46660.9
+batch1-0803,seller_name,Wright-Lucas,Zenith Global Corp,True,True,strong,177.76
+batch1-0804,seller_name,"Rosales, Day and Ingram","Rosales, Day and Ingram",False,False,,4174.28
+batch1-0805,seller_name,Jones Inc,Jones Incorporated,True,True,weak,13986.35
+batch1-0806,seller_name,"Mccormick, Sparks and Walsh","Mccormick, Sparks and Walsh Ltd.",True,True,weak,193.56
+batch1-0807,seller_name,Harvey-Rivas,Meridian Supplies Inc.,True,True,strong,335.04
+batch1-0808,seller_name,Palmer PLC,Palmer PLC Ltd.,True,True,weak,1509.64
+batch1-0809,seller_name,"Crawford, Acosta and Solomon","Crawford, Acosta and Solomon",False,False,,60.45
+batch1-0810,seller_name,"Daniel, Maxwell and Marshall",Meridian Supplies Inc.,True,True,strong,229.17
+batch1-0811,seller_name,Chang-Cooper,Chang-Booper,True,True,mid,216.67
+batch1-0812,seller_name,"Robinson, Thompson and Robinson","Robinson, Thompson and Robinson",False,False,,72423.87
+batch1-0813,seller_name,"Mitchell, Taylor and Bailey","Mitchell, Taylor and Bailey Ltd.",True,True,weak,901.92
+batch1-0814,seller_name,Sanchez Group,Sanchez Group Ltd.,True,True,weak,574.51
+batch1-0815,seller_name,Montgomery Ltd,Pinnacle Trading Ltd.,True,True,strong,2188.73
+batch1-0816,seller_name,Martin Inc,MartBn Inc,True,True,mid,2172.39
+batch1-0817,seller_name,Stevens-Compton,Stevens-Compton,False,False,,55378.76
+batch1-0818,seller_name,Fowler-Griffin,Fowler-Griffin,False,False,,3619.5
+batch1-0819,seller_name,"Martin, Johnson and Delgado",Pinnacle Trading Ltd.,True,True,strong,720.57
+batch1-0820,seller_name,Evans LLC,Evans LLC,False,False,,16830.0
+batch1-0821,seller_name,Wells-Allen,Wells-Allen Ltd.,True,True,weak,135.62
+batch1-0822,seller_name,"Cruz, Meyer and Quinn","Cruz, MeyeB and Quinn",True,True,mid,30588.8
+batch1-0823,seller_name,Kelly Ltd,Kelly Ltd,False,False,,320.94
+batch1-0824,seller_name,Oconnor Group,Oconnor Group,False,False,,589.41
+batch1-0825,seller_name,Butler and Sons,Pinnacle Trading Ltd.,True,True,strong,95556.75
+batch1-0826,seller_name,Williams Group,Williams Group Ltd.,True,True,weak,3305.18
+batch1-0827,seller_name,Vincent-Smith,Vincent-Smith Ltd.,True,True,weak,32042.55
+batch1-0828,seller_name,Lucas-Bright,Lucas-Dright,True,True,mid,1658.25
+batch1-0829,seller_name,"Stevenson, Hicks and Bowman","Stevenson, Hicks and Bowman",False,False,,328.79
+batch1-0830,seller_name,Shaw and Sons,Shaw and Sons Ltd.,True,True,weak,1408.94
+batch1-0831,seller_name,Taylor-Robertson,Zenith Global Corp,True,True,strong,97.52
+batch1-0832,seller_name,Barber LLC,Barber LLC Ltd.,True,True,weak,222.58
+batch1-0833,seller_name,Lopez PLC,Lopez PLC,False,False,,131.92
+batch1-0834,seller_name,Hicks and Sons,Zenith Global Corp,True,True,strong,18604.53
+batch1-0835,seller_name,"Brown, Grant and Young","Brown, Grant and Young",False,False,,142.11
+batch1-0836,seller_name,"Parrish, Anderson and Banks",Pinnacle Trading Ltd.,True,True,strong,53782.93
+batch1-0837,seller_name,"Barton, Garcia and Richards","Barton, GarciB and Richards",True,True,mid,10559.0
+batch1-0838,seller_name,"Hernandez, Guzman and Lopez","Hernandez, GuBman and Lopez",True,True,mid,78.54
+batch1-0839,seller_name,"Chavez, Morton and Gonzales","Chavez, Morton and Gonzales Ltd.",True,True,weak,229.79
+batch1-0840,seller_name,"James, Becker and Walters","James, BeckeB and Walters",True,True,mid,698.91
+batch1-0841,seller_name,Price-Bishop,Price-Bishop,False,False,,64.67
+batch1-0842,seller_name,"Simmons, Jones and Jones","Simmons, Jones and Jones",False,False,,4146.5
+batch1-0843,seller_name,Watson-Harris,Pinnacle Trading Ltd.,True,True,strong,10.99
+batch1-0844,seller_name,"Murray, Deleon and Larson","Murray, Deleon and Larson Ltd.",True,True,weak,270.28
+batch1-0845,seller_name,Cunningham-Richmond,CunninghaB-Richmond,True,True,mid,76.91
+batch1-0846,seller_name,"Love, Smith and Harris","Love, Smith Bnd Harris",True,True,mid,97.33
+batch1-0847,seller_name,"Monroe, Dillon and Henderson","Monroe, Dillon and Henderson Ltd.",True,True,weak,6369.92
+batch1-0848,seller_name,"Hernandez, Brown and Rodriguez",Meridian Supplies Inc.,True,True,strong,30468.27
+batch1-0849,seller_name,Johnston and Sons,Johnston and Sons Ltd.,True,True,weak,5687.3
+batch1-0850,seller_name,"Brown, King and Henry","Brown, King and Henry Ltd.",True,True,weak,28940.34
+batch1-0985,seller_name,Keith LLC,KeitB LLC,True,True,mid,395.96
+batch1-0998,seller_name,Charles-Parsons,Charles-Parsons,False,False,,748.24
+batch1-0852,seller_name,Perez Ltd,Perez Ltd,False,False,,672.08
+batch1-0865,seller_name,Nichols-Barajas,Nichols-Barajas,False,False,,65.45
+batch1-0851,seller_name,Young-Wilkinson,Young-Wilkinson,False,False,,5224.97
+batch1-0875,seller_name,Summers-Bradley,Summers-Dradley,True,True,mid,458.96
+batch1-0995,seller_name,Hurst-Humphrey,Hurst-HBmphrey,True,True,mid,891.0
+batch1-0994,seller_name,"Foster, Jones and Contreras","Foster, Jones and Contreras",False,False,,36210.72
+batch1-0902,seller_name,"Arnold, Watson and Taylor","Arnold, WatsBn and Taylor",True,True,mid,181.5
+batch1-0887,seller_name,White PLC,Meridian Supplies Inc.,True,True,strong,257.19
+batch1-0949,seller_name,Thompson-Hopkins,ThompsoB-Hopkins,True,True,mid,26.94
+batch1-0956,seller_name,Harrison-Melton,Harrison-Melton Ltd.,True,True,weak,4.36
+batch1-0996,seller_name,Lewis Group,Lewis Broup,True,True,mid,2521.04
+batch1-0999,seller_name,Rodriguez-Harrington,Meridian Supplies Inc.,True,True,strong,1017.45
+batch1-0872,seller_name,Montoya PLC,Montoya PLC,False,False,,174.65
+batch1-0862,seller_name,Harris-Jones,Pinnacle Trading Ltd.,True,True,strong,605.0
+batch1-0879,seller_name,"Bernard, Lang and Guerra","Bernard, Lang and Guerra Ltd.",True,True,weak,97.75
+batch1-0876,seller_name,Hill PLC,Hill PLC Ltd.,True,True,weak,139.66
+batch1-0914,seller_name,"Allen, Johnson and Edwards","Allen, JohnsoB and Edwards",True,True,mid,529.9
+batch1-0905,seller_name,"Williams, Coleman and Parrish","Williams, Coleman and Parrish Ltd.",True,True,weak,557.85
+batch1-0969,seller_name,Flores PLC,Flores PLC Ltd.,True,True,weak,48.37
+batch1-0908,seller_name,Holt-Mooney,Holt-MBoney,True,True,mid,9.0
+batch1-0951,seller_name,Cook-Ortiz,Cook-Ortiz Ltd.,True,True,weak,27.23
+batch1-0899,seller_name,Rios-Ramirez,Rios-RBmirez,True,True,mid,26677.2
+batch1-0913,seller_name,Garner-Henson,Garner-Benson,True,True,mid,6874.44
+batch1-0974,seller_name,Wilson Inc,Wilson Inc,False,False,,3098.57
+batch1-0982,seller_name,Robinson and Sons,Robinson and Sons Ltd.,True,True,weak,819.69
+batch1-0881,seller_name,Ware Group,Ware Group,False,False,,231.12
+batch1-0917,seller_name,"Hamilton, Martin and Benson","Hamilton, Martin and Benson Ltd.",True,True,weak,1938.76
+batch1-0931,seller_name,Williams LLC,WilliBms LLC,True,True,mid,544.46
+batch1-0868,seller_name,Kennedy PLC,Kennedy PLC Ltd.,True,True,weak,18454.56
+batch1-0986,seller_name,Rangel Inc,Meridian Supplies Inc.,True,True,strong,572.0
+batch1-0976,seller_name,Clark and Sons,Clark and Sons,False,False,,549.98
+batch1-0997,seller_name,"Davis, Garrett and Nichols",Meridian Supplies Inc.,True,True,strong,109.96
+batch1-0915,seller_name,Wood Ltd,Wood Limited,True,True,weak,4640.5
+batch1-0859,seller_name,"Dominguez, Hunt and Garcia","Dominguez, HuBt and Garcia",True,True,mid,36623.38
+batch1-0968,seller_name,Bailey Inc,Bailey Inc,False,False,,569.21
+batch1-0858,seller_name,"Alexander, Schneider and Russo",Pinnacle Trading Ltd.,True,True,strong,67719.34
+batch1-0897,seller_name,Colon and Sons,Colon aBd Sons,True,True,mid,341.63
+batch1-0874,seller_name,Reynolds PLC,Meridian Supplies Inc.,True,True,strong,65.97
+batch1-0944,seller_name,Rivera LLC,Rivera LLC,False,False,,503.92
+batch1-0901,seller_name,Richardson PLC,RicharBson PLC,True,True,mid,1497.9
+batch1-0947,seller_name,Graham-Thompson,Pinnacle Trading Ltd.,True,True,strong,50.19
+batch1-0923,seller_name,Patterson-Bryant,Patterson-Bryant,False,False,,680.34
+batch1-0907,seller_name,"Perez, Hurst and Martinez",Zenith Global Corp,True,True,strong,48416.63
+batch1-0979,seller_name,"Terry, Forbes and Franklin","Terry, Forbes Bnd Franklin",True,True,mid,220.44
+batch1-0912,seller_name,"Lee, Taylor and Thompson","Lee, Taylor and Thompson Ltd.",True,True,weak,82.2
+batch1-0898,seller_name,Cox-Ortega,Cox-Ortega,False,False,,15.36
+batch1-0938,seller_name,Cooper PLC,Cooper PLC Ltd.,True,True,weak,2348.08
+batch1-0869,seller_name,Martinez LLC,MartiBez LLC,True,True,mid,52.44
+batch1-0870,seller_name,Barnett-Hughes,Barnett-Hughes,False,False,,302.39
+batch1-0988,seller_name,Stephens LLC,Stephens LLC Ltd.,True,True,weak,29897.5
+batch1-0930,seller_name,"White, Roy and Mcdaniel","White, Roy and Mcdaniel",False,False,,471.15
+batch1-0878,seller_name,Garcia-Burton,Zenith Global Corp,True,True,strong,475.75
+batch1-0928,seller_name,Knight-Velez,Meridian Supplies Inc.,True,True,strong,606.66
+batch1-0888,seller_name,"Long, Mcclain and Harmon",Zenith Global Corp,True,True,strong,51.7
+batch1-0959,seller_name,Murphy-Sanders,Murphy-Sanders,False,False,,65.29
+batch1-0855,seller_name,Smith-Peterson,Zenith Global Corp,True,True,strong,95.94
+batch1-0910,seller_name,Curry Inc,Curry Inc,False,False,,387.09
+batch1-0885,seller_name,Alvarez-Woods,Alvarez-Woods,False,False,,28.75
+batch1-0892,seller_name,Soto-Carson,Soto-CBrson,True,True,mid,664.02
+batch1-0960,seller_name,Torres-Mendez,Torres-Bendez,True,True,mid,5589.55
+batch1-0856,seller_name,Oliver and Sons,Oliver and Sons,False,False,,747.96
+batch1-0893,seller_name,Curtis Group,Curtis Group Ltd.,True,True,weak,126.08
+batch1-0927,seller_name,Phillips-Barnes,Phillips-Barnes Ltd.,True,True,weak,165.94
+batch1-0957,seller_name,Morgan and Sons,Morgan Bnd Sons,True,True,mid,264.09
+batch1-0880,seller_name,Reyes Ltd,Reyes Ltd,False,False,,420.39
+batch1-0983,seller_name,Miller PLC,Miller PLC,False,False,,1332.32
+batch1-0932,seller_name,Mcintosh-Taylor,McintosB-Taylor,True,True,mid,916.21
+batch1-0867,seller_name,Wise and Sons,Wise and Sons Ltd.,True,True,weak,201.06
+batch1-0965,seller_name,"Carpenter, Robinson and Jackson","Carpenter, Robinson and Jackson",False,False,,16.14
+batch1-0882,seller_name,"Ray, Diaz and Montes","Ray, Diaz aBd Montes",True,True,mid,2188.91
+batch1-0977,seller_name,Hill-Jones,Hill-Jones Ltd.,True,True,weak,1286.99
+batch1-0967,seller_name,"Vargas, Miller and Miller","Vargas, MillBr and Miller",True,True,mid,48517.63
+batch1-0993,seller_name,"Mercado, Fields and Lewis","Mercado, Fields and Lewis Ltd.",True,True,weak,257.95
+batch1-0948,seller_name,"Pacheco, Simmons and Coleman","Pacheco, SimmoBs and Coleman",True,True,mid,67572.13
+batch1-0884,seller_name,Mcdonald LLC,Pinnacle Trading Ltd.,True,True,strong,275.0
+batch1-1000,seller_name,Larson-Grant,Pinnacle Trading Ltd.,True,True,strong,897.52
+batch1-0987,seller_name,Martin Group,Meridian Supplies Inc.,True,True,strong,40.69
+batch1-0933,seller_name,Dunn-Campbell,Dunn-CaBpbell,True,True,mid,328.83
+batch1-0863,seller_name,Thomas-Mitchell,Thomas-Mitchell Ltd.,True,True,weak,175.3
+batch1-0909,seller_name,King-Lawrence,King-Lawrence Ltd.,True,True,weak,497.98
+batch1-0990,seller_name,"Oliver, Rodriguez and Taylor","Oliver, Rodriguez and Taylor Ltd.",True,True,weak,3.29
+batch1-0926,seller_name,Williams-Merritt,Williams-Merritt Ltd.,True,True,weak,5888.8
+batch1-0883,seller_name,Greene Ltd,Greene Ltd,False,False,,2345.76
+batch1-0864,seller_name,"Sims, Salinas and Tanner","Sims, Salinas and Tanner",False,False,,812.56
+batch1-0941,seller_name,Lowery LLC,LoweBy LLC,True,True,mid,176.0
+batch1-0961,seller_name,Martinez-Ramirez,Martinez-Ramirez Ltd.,True,True,weak,36651.71
+batch1-0970,seller_name,Hanson PLC,HansBn PLC,True,True,mid,35572.0
+batch1-0903,seller_name,Mcgrath-Ruiz,Mcgrath-Ruiz Ltd.,True,True,weak,111.07
+batch1-0980,seller_name,Snyder-Lane,Snyder-Lane,False,False,,7328.87
+batch1-0895,seller_name,"Jones, Bryant and Ball","Jones, Bryant and Ball",False,False,,109.94
+batch1-0853,seller_name,Smith-Flores,Smith-Flores,False,False,,1208.85
+batch1-0860,seller_name,Sheppard-Mendez,Sheppard-Mendez,False,False,,280.5
+batch1-0854,seller_name,Parker-Gonzalez,Pinnacle Trading Ltd.,True,True,strong,14.82
+batch1-0891,seller_name,Smith-Ramirez,Smith-RBmirez,True,True,mid,4643.14
+batch1-0978,seller_name,Avila-Espinoza,Avila-Espinoza Ltd.,True,True,weak,934.31
+batch1-0963,seller_name,"Young, Owens and Hall",Meridian Supplies Inc.,True,True,strong,5230.4
+batch1-0992,seller_name,Wagner-Weaver,Meridian Supplies Inc.,True,True,strong,23844.07
+batch1-0925,seller_name,Lawrence LLC,LawreBce LLC,True,True,mid,482.25
+batch1-0937,seller_name,Smith Ltd,Smith Limited,True,True,weak,4949.18
+batch1-0950,seller_name,White Group,White Group,False,False,,15804.54
+batch1-0984,seller_name,Malone-Gonzalez,Malone-GBnzalez,True,True,mid,2977.67
+batch1-0866,seller_name,"Rich, White and Ryan","Rich, White and Ryan",False,False,,2506.78
+batch1-0989,seller_name,Salazar PLC,Salazar PLC Ltd.,True,True,weak,1161.01
+batch1-0955,seller_name,Cox-Mendoza,Cox-Mendoza,False,False,,14934.73
+batch1-0918,seller_name,Nicholson and Sons,Nicholson and Sons,False,False,,507.47
+batch1-0922,seller_name,"Garcia, Smith and Nelson","Garcia, SmitB and Nelson",True,True,mid,71.39
+batch1-0911,seller_name,Lyons-Murphy,Lyons-Murphy,False,False,,7110.4
+batch1-0946,seller_name,"Gross, Williams and Robinson","Gross, WilliamB and Robinson",True,True,mid,397.96
+batch1-0929,seller_name,Harris Ltd,Harris Ltd,False,False,,614.05
+batch1-0900,seller_name,"Jones, English and Perry","Jones, English and Perry Ltd.",True,True,weak,397.51
+batch1-0857,seller_name,"Mcdowell, Marsh and Hall","Mcdowell, MaBsh and Hall",True,True,mid,2161.3
+batch1-0943,seller_name,"Kelly, Hernandez and Vaughan",Pinnacle Trading Ltd.,True,True,strong,749.99
+batch1-0890,seller_name,"Green, Oliver and Smith","Green, Oliver and Smith Ltd.",True,True,weak,15488.29
+batch1-0871,seller_name,"Stevens, Wright and Wright","Stevens, Wright and Wright Ltd.",True,True,weak,6220.32
+batch1-0942,seller_name,Rodgers LLC,Rodgers LLC,False,False,,3933.72
+batch1-0971,seller_name,"Costa, Swanson and Pittman",Meridian Supplies Inc.,True,True,strong,488.7
+batch1-0906,seller_name,Murphy PLC,Murphy PLC,False,False,,391.55
+batch1-0954,seller_name,Richardson LLC,Richardson LLC,False,False,,6016.84
+batch1-0904,seller_name,Coffey-Smith,Zenith Global Corp,True,True,strong,2900.15
+batch1-0873,seller_name,Clark Ltd,ClarB Ltd,True,True,mid,14.82
+batch1-0973,seller_name,"Palmer, Jordan and Shannon",Zenith Global Corp,True,True,strong,8679.0
+batch1-0975,seller_name,"Reese, Henderson and Pollard","Reese, Henderson and Pollard",False,False,,52697.26
+batch1-0945,seller_name,Wheeler-Dawson,Zenith Global Corp,True,True,strong,403.25
+batch1-0920,seller_name,Moore Group,Moore Group Ltd.,True,True,weak,116.29
+batch1-0952,seller_name,Jones-Flores,Pinnacle Trading Ltd.,True,True,strong,303.29
+batch1-0940,seller_name,"Cameron, Palmer and Martin","Cameron, Palmer and Martin Ltd.",True,True,weak,1143.66
+batch1-0921,seller_name,Vasquez-Hogan,VasqueB-Hogan,True,True,mid,8695.03
+batch1-0962,seller_name,Spencer PLC,Zenith Global Corp,True,True,strong,143.0
+batch1-0972,seller_name,"Kaiser, Hays and Cook","Kaiser, Hays and Cook",False,False,,48801.1
+batch1-0889,seller_name,Lambert-Murphy,Meridian Supplies Inc.,True,True,strong,1080.08
+batch1-0916,seller_name,Wong and Sons,Meridian Supplies Inc.,True,True,strong,6236.91
+batch1-0964,seller_name,Pena-White,Pena-White,False,False,,33794.35
+batch1-0861,seller_name,Tucker-Wilson,Meridian Supplies Inc.,True,True,strong,123.09
+batch1-0991,seller_name,"White, Warren and Sheppard","White, Warren and Sheppard Ltd.",True,True,weak,343.9
+batch1-0877,seller_name,Cohen Ltd,CoheB Ltd,True,True,mid,345.74
+batch1-0953,seller_name,Houston-Jacobs,HoustoB-Jacobs,True,True,mid,117.6
+batch1-0924,seller_name,Brandt-Hunter,Brandt-Hunter Ltd.,True,True,weak,110.0
+batch1-0934,seller_name,Adams Inc,AdamB Inc,True,True,mid,72257.7
+batch1-0939,seller_name,Hernandez Ltd,Pinnacle Trading Ltd.,True,True,strong,57483.07
+batch1-0935,seller_name,"Johnson, Johnson and Clark","Johnson, Johnson and Clark Ltd.",True,True,weak,71.96
+batch1-0896,seller_name,Gibson Ltd,Zenith Global Corp,True,True,strong,978.64
+batch1-0958,seller_name,Jimenez-Jones,Pinnacle Trading Ltd.,True,True,strong,3948.95
+batch1-0981,seller_name,Smith Ltd,Smith Ltd,False,False,,3490.29
+batch1-0936,seller_name,"Mays, Garner and Jordan","Mays, Garner and Jordan",False,False,,998.53
+batch1-0919,seller_name,Graham-Gonzalez,Meridian Supplies Inc.,True,True,strong,295.44
+batch1-0966,seller_name,"Andrews, Smith and Simon",Zenith Global Corp,True,True,strong,160.33
+batch1-0894,seller_name,Rivera-Thompson,Rivera-Thompson Ltd.,True,True,weak,382.98
+batch1-0886,seller_name,White Group,White Group Ltd.,True,True,weak,1665.4
+batch1-1142,seller_name,"Paul, Wilson and Gonzalez","Paul, Wilson and Gonzalez",False,False,,1025.61
+batch1-1147,seller_name,"Wilson, Sullivan and Lucas","Wilson, Sullivan and Lucas Ltd.",True,True,weak,169.34
+batch1-1080,seller_name,"Erickson, Hunt and Gonzales","Erickson, Hunt and Gonzales Ltd.",True,True,weak,464.87
+batch1-1146,seller_name,Mcclain Group,Mcclain Group Ltd.,True,True,weak,10661.46
+batch1-1090,seller_name,Moore Ltd,Moore Ltd,False,False,,293.05
+batch1-1092,seller_name,Dunn PLC,Dunn PLC,False,False,,3120.51
+batch1-1098,seller_name,Reeves-Campbell,Reeves-Campbell Ltd.,True,True,weak,16691.02
+batch1-1071,seller_name,Lindsey Inc,Lindsey Inc,False,False,,1126.13
+batch1-1138,seller_name,Lopez-Fitzgerald,Lopez-Fitzgerald Ltd.,True,True,weak,584.48
+batch1-1047,seller_name,"Hawkins, Howard and Acosta",Zenith Global Corp,True,True,strong,395.99
+batch1-1009,seller_name,Johnson Group,JohnsoB Group,True,True,mid,53078.96
+batch1-1109,seller_name,Cruz PLC,Cruz PLC Ltd.,True,True,weak,138.9
+batch1-1027,seller_name,Baker-Wagner,Baker-Wagner,False,False,,10.99
+batch1-1049,seller_name,Lynch-Young,Lynch-Young Ltd.,True,True,weak,687.5
+batch1-1002,seller_name,Kent LLC,Kent LLC,False,False,,37.38
+batch1-1051,seller_name,Morse PLC,Morse PLC,False,False,,110.0
+batch1-1145,seller_name,"Nelson, Beard and Hill","Nelson, Beard and Hill",False,False,,167.57
+batch1-1151,seller_name,Banks Group,Zenith Global Corp,True,True,strong,331.99
+batch1-1068,seller_name,Arnold PLC,Arnold PLC Ltd.,True,True,weak,33527.36
+batch1-1115,seller_name,Rogers Group,Rogers Group Ltd.,True,True,weak,16.47
+batch1-1048,seller_name,Stevens-Black,StevenB-Black,True,True,mid,115.39
+batch1-1134,seller_name,Rice Group,Pinnacle Trading Ltd.,True,True,strong,577.31
+batch1-1042,seller_name,Lee-Everett,Lee-Everett,False,False,,4.36
+batch1-1041,seller_name,"Russell, Andrews and Hayes","Russell, Andrews and Hayes",False,False,,2350.26
+batch1-1111,seller_name,"Smith, Anderson and Johnson","Smith, AndersBn and Johnson",True,True,mid,15764.17
+batch1-1001,seller_name,Johnson PLC,JohnsBn PLC,True,True,mid,32.97
+batch1-1069,seller_name,Allen-Smith,Zenith Global Corp,True,True,strong,1152.24
+batch1-1060,seller_name,Costa PLC,CostB PLC,True,True,mid,84274.59
+batch1-1043,seller_name,"Frazier, Ruiz and Robertson","Frazier, Ruiz and Robertson Ltd.",True,True,weak,1186.57
+batch1-1103,seller_name,"Jimenez, Cummings and Ross","Jimenez, Cummings and Ross",False,False,,351.96
+batch1-1050,seller_name,Soto and Sons,Pinnacle Trading Ltd.,True,True,strong,296.91
+batch1-1086,seller_name,Camacho Group,Zenith Global Corp,True,True,strong,262.63
+batch1-1105,seller_name,"Diaz, Bryan and Garcia","Diaz, Bryan and Garcia",False,False,,3762.43
+batch1-1094,seller_name,"Potts, Reed and Miller","Potts, Reed Bnd Miller",True,True,mid,2155.98
+batch1-1136,seller_name,Silva-Horn,Silva-Horn,False,False,,961.36
+batch1-1022,seller_name,Crawford-Byrd,CrawfoBd-Byrd,True,True,mid,628.0
+batch1-1040,seller_name,Tucker Inc,Tucker Incorporated,True,True,weak,63.69
+batch1-1140,seller_name,Barnes Ltd,Barnes Limited,True,True,weak,1657.58
+batch1-1088,seller_name,Armstrong and Sons,Meridian Supplies Inc.,True,True,strong,119.87
+batch1-1144,seller_name,Jackson-Johnson,Pinnacle Trading Ltd.,True,True,strong,8905.77
+batch1-1084,seller_name,Martinez Inc,Zenith Global Corp,True,True,strong,521.64
+batch1-1078,seller_name,"Duke, Levy and Arnold","Duke, Levy and Arnold Ltd.",True,True,weak,394.34
+batch1-1141,seller_name,"Marks, Hoover and Miles","Marks, Hoover and Miles Ltd.",True,True,weak,251.65
+batch1-1087,seller_name,"Young, Gonzalez and Russell",Pinnacle Trading Ltd.,True,True,strong,354.15
+batch1-1114,seller_name,Simmons-Henry,Simmons-Henry,False,False,,91.39
+batch1-1055,seller_name,Johnson PLC,JohnsBn PLC,True,True,mid,459.79
+batch1-1014,seller_name,"Leonard, Forbes and Allen",Zenith Global Corp,True,True,strong,5906.47
+batch1-1093,seller_name,Hutchinson PLC,HutchiBson PLC,True,True,mid,19938.2
+batch1-1033,seller_name,Camacho-Stewart,Camacho-Btewart,True,True,mid,1102.9
+batch1-1008,seller_name,"Green, Sanchez and Shannon","Green, Sanchez and Shannon",False,False,,20.72
+batch1-1020,seller_name,"Nicholson, Hamilton and Holder","Nicholson, HamiBton and Holder",True,True,mid,18561.36
+batch1-1046,seller_name,"Johnson, Perez and Zhang",Meridian Supplies Inc.,True,True,strong,623.65
+batch1-1064,seller_name,Diaz-Nguyen,Diaz-Nguyen,False,False,,648.93
+batch1-1133,seller_name,"Huber, Graves and Jensen",Meridian Supplies Inc.,True,True,strong,274.88
+batch1-1118,seller_name,Mason-Cross,Meridian Supplies Inc.,True,True,strong,26764.68
+batch1-1004,seller_name,Hughes-Hernandez,Hughes-HBrnandez,True,True,mid,231.39
+batch1-1006,seller_name,Phillips Group,Phillips Group Ltd.,True,True,weak,2089.23
+batch1-1067,seller_name,Rodriguez-Jackson,Rodriguez-Jackson Ltd.,True,True,weak,5.45
+batch1-1121,seller_name,"Jones, Maddox and Brown","Jones, MaddBx and Brown",True,True,mid,76.98
+batch1-1070,seller_name,Roberson and Sons,RobersoB and Sons,True,True,mid,26577.76
+batch1-1148,seller_name,Prince-Gutierrez,Prince-Gutierrez Ltd.,True,True,weak,1221.77
+batch1-1003,seller_name,Mccullough-Bradley,Mccullough-Bradley,False,False,,1369.5
+batch1-1065,seller_name,Copeland-Hudson,Zenith Global Corp,True,True,strong,323.11
+batch1-1126,seller_name,"Farley, Jones and Williams",Pinnacle Trading Ltd.,True,True,strong,764.24
+batch1-1052,seller_name,Mccarty-Mcgee,Pinnacle Trading Ltd.,True,True,strong,79238.76
+batch1-1045,seller_name,"Carson, Holder and Roberts","Carson, HoldeB and Roberts",True,True,mid,20710.8
+batch1-1137,seller_name,James LLC,James LLC Ltd.,True,True,weak,187.85
+batch1-1073,seller_name,Hill-Perez,Hill-Berez,True,True,mid,47168.59
+batch1-1100,seller_name,"Long, Alvarez and Mendoza","Long, AlvareB and Mendoza",True,True,mid,500.29
+batch1-1125,seller_name,Wagner PLC,Meridian Supplies Inc.,True,True,strong,138.53
+batch1-1031,seller_name,"Griffin, Cox and Day","Griffin, Cox and Day",False,False,,323.84
+batch1-1139,seller_name,Mills-Nicholson,Mills-Nicholson,False,False,,230.97
+batch1-1106,seller_name,Gallagher-Williams,Gallagher-Williams,False,False,,432.22
+batch1-1013,seller_name,"Ramirez, Jones and Anderson","Ramirez, JoneB and Anderson",True,True,mid,81492.41
+batch1-1025,seller_name,"Zuniga, Short and Jensen","Zuniga, ShorB and Jensen",True,True,mid,15416.49
+batch1-1153,seller_name,"Adams, French and Lee","Adams, FreBch and Lee",True,True,mid,76.96
+batch1-1085,seller_name,"Rowe, Payne and Stewart","Rowe, Payne and Stewart",False,False,,223.01
+batch1-1007,seller_name,"Gregory, Patterson and Fischer","Gregory, PatterBon and Fischer",True,True,mid,136.13
+batch1-1089,seller_name,"Carter, Boyer and Ware","Carter, BoyBr and Ware",True,True,mid,146.27
+batch1-1012,seller_name,"Sosa, Maynard and Grimes","Sosa, MaynarB and Grimes",True,True,mid,962.46
+batch1-1149,seller_name,"Potter, Jackson and Brooks","Potter, JacksBn and Brooks",True,True,mid,527.95
+batch1-1083,seller_name,Campbell and Sons,CampbelB and Sons,True,True,mid,305.57
+batch1-1135,seller_name,"Martin, Foster and Hayes",Meridian Supplies Inc.,True,True,strong,3074.95
+batch1-1152,seller_name,"Robles, Murray and Phillips",Meridian Supplies Inc.,True,True,strong,2200.0
+batch1-1062,seller_name,Davis and Sons,Davis and Sons Ltd.,True,True,weak,5034.62
+batch1-1123,seller_name,Ramos-Gomez,Ramos-Gomez Ltd.,True,True,weak,37.05
+batch1-1021,seller_name,"Franco, Richardson and Miller","Franco, Richardson and Miller",False,False,,557.4
+batch1-1108,seller_name,Scott and Sons,Scott aBd Sons,True,True,mid,3013.9
+batch1-1039,seller_name,Mckenzie PLC,Zenith Global Corp,True,True,strong,41.8
+batch1-1117,seller_name,"Morgan, Rogers and Brown","Morgan, RogeBs and Brown",True,True,mid,7598.61
+batch1-1101,seller_name,Massey-Guzman,Massey-Buzman,True,True,mid,340.99
+batch1-1005,seller_name,"Elliott, Simon and Taylor","Elliott, SimBn and Taylor",True,True,mid,3085.5
+batch1-1079,seller_name,Reyes Group,Pinnacle Trading Ltd.,True,True,strong,437.7
+batch1-1097,seller_name,"Aguirre, Oliver and Gaines","Aguirre, OlivBr and Gaines",True,True,mid,330.0
+batch1-1095,seller_name,"Williams, Smith and Welch",Zenith Global Corp,True,True,strong,98.96
+batch1-1018,seller_name,Jackson-Oliver,Meridian Supplies Inc.,True,True,strong,79.13
+batch1-1054,seller_name,Smith and Sons,Smith and Sons Ltd.,True,True,weak,640.15
+batch1-1091,seller_name,Barton-Waters,Barton-Waters Ltd.,True,True,weak,165.0
+batch1-1077,seller_name,Smith and Sons,Smith and Sons,False,False,,7973.98
+batch1-1061,seller_name,"Figueroa, Richard and Hunter","Figueroa, Richard and Hunter Ltd.",True,True,weak,398.16
+batch1-1030,seller_name,"Gaines, Wilson and Garner","Gaines, WilsBn and Garner",True,True,mid,1800.81
+batch1-1107,seller_name,Hill Group,Hill Group,False,False,,645.56
+batch1-1037,seller_name,Rodriguez-Smith,RodriguBz-Smith,True,True,mid,272.47
+batch1-1038,seller_name,Jacobs-Curtis,Meridian Supplies Inc.,True,True,strong,9103.46
+batch1-1132,seller_name,Barker LLC,BarkBr LLC,True,True,mid,767.32
+batch1-1131,seller_name,Burton Inc,Burton Inc,False,False,,1095.56
+batch1-1044,seller_name,Williamson-Rogers,Zenith Global Corp,True,True,strong,569.69
+batch1-1075,seller_name,"Jones, Kelly and Yang","Jones, Kelly and Yang Ltd.",True,True,weak,582.7
+batch1-1081,seller_name,"Davis, Orozco and Walsh","Davis, Orozco and Walsh Ltd.",True,True,weak,46273.39
+batch1-1130,seller_name,"Marshall, Nelson and Hudson","Marshall, NelBon and Hudson",True,True,mid,6232.82
+batch1-1074,seller_name,Taylor and Sons,Taylor and Sons,False,False,,1394.75
+batch1-1113,seller_name,Robinson-Green,Robinson-Green,False,False,,720.43
+batch1-1034,seller_name,Williams Inc,Williams Inc,False,False,,852.5
+batch1-1063,seller_name,Baker-Jackson,Baker-Jackson Ltd.,True,True,weak,2810.26
+batch1-1016,seller_name,Payne-Davis,Meridian Supplies Inc.,True,True,strong,46910.41
+batch1-1015,seller_name,"Walker, Serrano and Garcia","Walker, Serrano and Garcia",False,False,,330.0
+batch1-1028,seller_name,Hooper Group,Hooper Group,False,False,,462.97
+batch1-1058,seller_name,Martin and Sons,Martin and Sons Ltd.,True,True,weak,73920.0
+batch1-1127,seller_name,Cruz-Rice,Cruz-Rice Ltd.,True,True,weak,686.75
+batch1-1029,seller_name,"Larson, Jones and Liu","Larson, Jones and Liu",False,False,,288.15
+batch1-1032,seller_name,Lee and Sons,Lee and Sons Ltd.,True,True,weak,56338.59
+batch1-1056,seller_name,"Johnson, Frye and Jones","Johnson, Frye and Jones Ltd.",True,True,weak,339.79
+batch1-1035,seller_name,Allen Inc,Allen Incorporated,True,True,weak,12267.2
+batch1-1066,seller_name,Harrell LLC,HarreBl LLC,True,True,mid,2566.09
+batch1-1116,seller_name,Schmidt-Fitzgerald,Schmidt-Fitzgerald Ltd.,True,True,weak,1165.9
+batch1-1059,seller_name,"Gordon, Alvarado and Jones","Gordon, AlvarBdo and Jones",True,True,mid,127.0
+batch1-1120,seller_name,Hughes-Jones,Pinnacle Trading Ltd.,True,True,strong,11880.0
+batch1-1072,seller_name,Navarro-Jensen,Navarro-Jensen Ltd.,True,True,weak,19932.0
+batch1-1011,seller_name,"Perry, Brown and Hudson","Perry, Brown and Hudson",False,False,,1.99
+batch1-1082,seller_name,Oliver LLC,OlivBr LLC,True,True,mid,70.14
+batch1-1023,seller_name,Ashley-Shaw,AshleB-Shaw,True,True,mid,158.38
+batch1-1128,seller_name,"Martin, Mclaughlin and Stevens",Meridian Supplies Inc.,True,True,strong,403.84
+batch1-1019,seller_name,Thomas PLC,ThomBs PLC,True,True,mid,409.05
+batch1-1057,seller_name,Patterson-Carrillo,Pinnacle Trading Ltd.,True,True,strong,188.89
+batch1-1026,seller_name,Bishop Group,Bishop Group Ltd.,True,True,weak,3157.01
+batch1-1024,seller_name,"Perez, King and Baker","Perez, King and Baker",False,False,,242.7
+batch1-1110,seller_name,"Hobbs, Bennett and Juarez","Hobbs, Bennett and Juarez Ltd.",True,True,weak,2601.39
+batch1-1036,seller_name,Yoder Inc,Yoder Incorporated,True,True,weak,3729.94
+batch1-1129,seller_name,Collins-Cooley,CollinB-Cooley,True,True,mid,1451.91
+batch1-1112,seller_name,Becker-Miller,Becker-Biller,True,True,mid,412.7
+batch1-1122,seller_name,Henry Inc,Meridian Supplies Inc.,True,True,strong,422.55
+batch1-1150,seller_name,Johnson Inc,JohnsBn Inc,True,True,mid,85.76
+batch1-1124,seller_name,Kelly-Freeman,Kelly-Freeman Ltd.,True,True,weak,158.4
+batch1-1099,seller_name,Holt Ltd,HolB Ltd,True,True,mid,4532.0
+batch1-1076,seller_name,Walter-Robbins,Zenith Global Corp,True,True,strong,4055.34
+batch1-1096,seller_name,Phillips PLC,Meridian Supplies Inc.,True,True,strong,5296.43
+batch1-1143,seller_name,Burke Ltd,Burke Ltd,False,False,,1516.88
+batch1-1017,seller_name,"Nelson, Ellis and Gregory","Nelson, ElliB and Gregory",True,True,mid,412.36
+batch1-1104,seller_name,Flores-Reilly,Flores-Reilly Ltd.,True,True,weak,594.52
+batch1-1010,seller_name,Martin LLC,MartBn LLC,True,True,mid,215.04
+batch1-1102,seller_name,"Curtis, Snyder and Cohen",Meridian Supplies Inc.,True,True,strong,5902.45
+batch1-1053,seller_name,"Baker, Mitchell and Cooper",Zenith Global Corp,True,True,strong,2595.99
+batch1-1119,seller_name,"Nixon, Mclean and Nelson","Nixon, Mclean and Nelson Ltd.",True,True,weak,5826.92
+batch1-1201,seller_name,Oliver-Serrano,Oliver-Berrano,True,True,mid,139.39
+batch1-1230,seller_name,Sanchez-Williams,Sanchez-Williams Ltd.,True,True,weak,58523.19
+batch1-1334,seller_name,Walters-Allen,WalterB-Allen,True,True,mid,274.18
+batch1-1234,seller_name,Smith-Bennett,Smith-Bennett,False,False,,2376.0
+batch1-1233,seller_name,Weber-Wagner,Weber-Wagner Ltd.,True,True,weak,41306.81
+batch1-1337,seller_name,Ward-Day,Meridian Supplies Inc.,True,True,strong,575.49
+batch1-1349,seller_name,Whitaker Ltd,Whitaker Ltd,False,False,,4783.7
+batch1-1215,seller_name,Knight Ltd,Knight Limited,True,True,weak,5536.2
+batch1-1270,seller_name,Knox-Snyder,Zenith Global Corp,True,True,strong,7589.84
+batch1-1256,seller_name,Patterson-Harris,Patterson-Harris,False,False,,282.82
+batch1-1217,seller_name,"Cole, Andrade and Horn","Cole, Andrade and Horn",False,False,,3714.5
+batch1-1293,seller_name,Berger-Dickerson,Berger-Dickerson Ltd.,True,True,weak,131.98
+batch1-1306,seller_name,"Simmons, Olson and Watson","Simmons, OlsBn and Watson",True,True,mid,999.22
+batch1-1211,seller_name,Conley Ltd,Conley Ltd,False,False,,12261.98
+batch1-1196,seller_name,Marsh-Baker,Marsh-Daker,True,True,mid,3139.95
+batch1-1207,seller_name,Franklin PLC,Franklin PLC,False,False,,43.96
+batch1-1177,seller_name,Chen-Hartman,Chen-Hartman,False,False,,4237.17
+batch1-1160,seller_name,"Rodriguez, Wood and Wright","Rodriguez, Wood and Wright",False,False,,1963.26
+batch1-1225,seller_name,Carroll-Cardenas,Carroll-Cardenas Ltd.,True,True,weak,285.95
+batch1-1186,seller_name,Stone Group,Stone Broup,True,True,mid,210.8
+batch1-1249,seller_name,Krueger LLC,Krueger LLC Ltd.,True,True,weak,1821.48
+batch1-1178,seller_name,"Roberts, Gonzalez and Davis","Roberts, Gonzalez and Davis",False,False,,675.82
+batch1-1338,seller_name,"Lewis, Morris and Stanley","Lewis, Morris and Stanley",False,False,,768.51
+batch1-1348,seller_name,"Bradley, Pitts and Johnson",Zenith Global Corp,True,True,strong,14531.03
+batch1-1314,seller_name,Lucas Inc,Lucas Inc,False,False,,101.07
+batch1-1298,seller_name,Jackson Ltd,Jackson Limited,True,True,weak,157929.37
+batch1-1198,seller_name,Henson-Cross,Henson-Cross,False,False,,4583.61
+batch1-1189,seller_name,"Charles, Black and Vasquez","Charles, Black and Vasquez",False,False,,117.7
+batch1-1226,seller_name,"Robinson, Mcclain and Moore","Robinson, MccBain and Moore",True,True,mid,1393.63
+batch1-1299,seller_name,Davis-Ramirez,Davis-Ramirez,False,False,,227.96
+batch1-1324,seller_name,"Mcneil, Munoz and Campbell","Mcneil, Munoz and Campbell",False,False,,64.72
+batch1-1214,seller_name,Spencer-Potter,Pinnacle Trading Ltd.,True,True,strong,434.42
+batch1-1352,seller_name,Warren-Morris,Warren-Borris,True,True,mid,8470.63
+batch1-1340,seller_name,"Baker, Michael and Martin","Baker, Michael and Martin",False,False,,1255.17
+batch1-1351,seller_name,Hart-Johnson,Hart-JBhnson,True,True,mid,62.46
+batch1-1203,seller_name,"Lee, Young and Krause","Lee, Young Bnd Krause",True,True,mid,19.77
+batch1-1213,seller_name,"Reid, Owens and Miller","Reid, Owens Bnd Miller",True,True,mid,2850.93
+batch1-1246,seller_name,Ramirez Ltd,Ramirez Ltd,False,False,,234.4
+batch1-1216,seller_name,Hall-Johnston,Hall-Johnston Ltd.,True,True,weak,2655.37
+batch1-1280,seller_name,Murray Ltd,Murray Ltd,False,False,,1392.84
+batch1-1329,seller_name,Schmidt-Alexander,Schmidt-ABexander,True,True,mid,1126.13
+batch1-1273,seller_name,Moses-Blair,Meridian Supplies Inc.,True,True,strong,280.5
+batch1-1258,seller_name,"Forbes, Newton and Clayton",Meridian Supplies Inc.,True,True,strong,716.43
+batch1-1229,seller_name,"Lopez, Franklin and Chapman",Meridian Supplies Inc.,True,True,strong,705.92
+batch1-1212,seller_name,"Dominguez, Lee and Simpson","Dominguez, LeB and Simpson",True,True,mid,6325.0
+batch1-1190,seller_name,"Johnson, Morales and Logan",Pinnacle Trading Ltd.,True,True,strong,174.52
+batch1-1346,seller_name,"Willis, Wilson and Benson","Willis, Wilson and Benson Ltd.",True,True,weak,4572.37
+batch1-1185,seller_name,"Henson, Mccarthy and Hart","Henson, Mccarthy and Hart Ltd.",True,True,weak,14.0
+batch1-1292,seller_name,Harrell LLC,Harrell LLC,False,False,,126.23
+batch1-1167,seller_name,"Garcia, Stewart and Payne",Meridian Supplies Inc.,True,True,strong,802.73
+batch1-1303,seller_name,Wu-Brock,Wu-Brock,False,False,,8448.88
+batch1-1244,seller_name,"Hutchinson, Williams and Wilson",Pinnacle Trading Ltd.,True,True,strong,98.58
+batch1-1281,seller_name,Soto-Reynolds,Soto-Reynolds,False,False,,34501.86
+batch1-1321,seller_name,"Williams, Matthews and Lewis","Williams, Matthews and Lewis",False,False,,107.09
+batch1-1345,seller_name,Jacobs PLC,Pinnacle Trading Ltd.,True,True,strong,391.59
+batch1-1309,seller_name,Todd PLC,TodB PLC,True,True,mid,940.5
+batch1-1283,seller_name,Hale LLC,Hale LLC,False,False,,133.23
+batch1-1182,seller_name,Lynch-Coleman,Lynch-Coleman,False,False,,1593.58
+batch1-1319,seller_name,Cruz Ltd,Cruz Limited,True,True,weak,17820.0
+batch1-1307,seller_name,Pierce PLC,PierBe PLC,True,True,mid,4952.82
+batch1-1274,seller_name,"Hart, Rios and Williams","Hart, Rios and Williams Ltd.",True,True,weak,694.9
+batch1-1344,seller_name,"Arnold, Holder and Armstrong","Arnold, Holder Bnd Armstrong",True,True,mid,816.49
+batch1-1232,seller_name,Williams PLC,Williams PLC,False,False,,71.06
+batch1-1176,seller_name,Jones and Sons,Jones and Sons,False,False,,22.0
+batch1-1251,seller_name,White Group,White Broup,True,True,mid,194.56
+batch1-1263,seller_name,"Jennings, Delgado and Bell","Jennings, DelBado and Bell",True,True,mid,22.0
+batch1-1335,seller_name,Hall Inc,HalB Inc,True,True,mid,30235.98
+batch1-1172,seller_name,Hughes LLC,Meridian Supplies Inc.,True,True,strong,12119.61
+batch1-1181,seller_name,Shaw-Miller,Shaw-Miller,False,False,,5899.43
+batch1-1342,seller_name,"Mcdaniel, Newman and Williams",Meridian Supplies Inc.,True,True,strong,9.88
+batch1-1266,seller_name,Tran-Dunn,Tran-Bunn,True,True,mid,2858.84
+batch1-1261,seller_name,Mack-Jones,Mack-Jones Ltd.,True,True,weak,306.44
+batch1-1205,seller_name,Sanchez-Villanueva,Sanchez-Villanueva,False,False,,2015.04
+batch1-1238,seller_name,"Jarvis, Soto and Wilkins",Zenith Global Corp,True,True,strong,61.51
+batch1-1328,seller_name,"Frank, Blake and Proctor","Frank, Blake and Proctor",False,False,,327.53
+batch1-1195,seller_name,Rose LLC,Rose LLC Ltd.,True,True,weak,207.53
+batch1-1330,seller_name,Paul LLC,Pinnacle Trading Ltd.,True,True,strong,4207.37
+batch1-1199,seller_name,"Davis, Leon and Morgan","Davis, Leon Bnd Morgan",True,True,mid,321.32
+batch1-1194,seller_name,"Sullivan, Li and Lindsey",Pinnacle Trading Ltd.,True,True,strong,4254.39
+batch1-1339,seller_name,"Anderson, Sanchez and Benitez","Anderson, SancBez and Benitez",True,True,mid,374.0
+batch1-1287,seller_name,Mcguire PLC,Pinnacle Trading Ltd.,True,True,strong,173.8
+batch1-1301,seller_name,"Matthews, Hendricks and Martin","Matthews, Hendricks and Martin Ltd.",True,True,weak,142.25
+batch1-1242,seller_name,Rodriguez-Mckinney,Rodriguez-Mckinney,False,False,,59.0
+batch1-1257,seller_name,Small-Simpson,Small-Simpson,False,False,,196.42
+batch1-1188,seller_name,Williams-Perez,Williams-Perez,False,False,,879.95
+batch1-1243,seller_name,Haas Group,Haas Broup,True,True,mid,44.85
+batch1-1250,seller_name,Patterson LLC,PatterBon LLC,True,True,mid,57.2
+batch1-1254,seller_name,Hernandez Inc,HernanBez Inc,True,True,mid,1416.77
+batch1-1320,seller_name,"Saunders, Snyder and Rivera","Saunders, SnyBer and Rivera",True,True,mid,8332.5
+batch1-1279,seller_name,"Williams, Barron and Smith","Williams, BarBon and Smith",True,True,mid,2807.08
+batch1-1168,seller_name,Vargas-Mata,VargaB-Mata,True,True,mid,18230.85
+batch1-1224,seller_name,"Peters, Barnett and Ramos",Pinnacle Trading Ltd.,True,True,strong,165.42
+batch1-1247,seller_name,"Gomez, Sanchez and Flores","Gomez, Sanchez and Flores",False,False,,1237.74
+batch1-1336,seller_name,"Garcia, Powell and Osborne",Pinnacle Trading Ltd.,True,True,strong,169.37
+batch1-1206,seller_name,Wilkinson Group,Zenith Global Corp,True,True,strong,35697.02
+batch1-1245,seller_name,"Lawson, Martin and Young",Zenith Global Corp,True,True,strong,3386.35
+batch1-1255,seller_name,Cooper Group,Cooper Group Ltd.,True,True,weak,1722.39
+batch1-1297,seller_name,Tapia-Smith,Tapia-Smith,False,False,,6494.81
+batch1-1304,seller_name,Watson Group,Pinnacle Trading Ltd.,True,True,strong,3003.09
+batch1-1197,seller_name,"Jones, Robertson and Ramirez","Jones, Robertson and Ramirez",False,False,,533.02
+batch1-1158,seller_name,Obrien LLC,Obrien LLC Ltd.,True,True,weak,324.41
+batch1-1218,seller_name,Hess and Sons,Meridian Supplies Inc.,True,True,strong,1627.96
+batch1-1327,seller_name,Clay PLC,Clay PLC,False,False,,572.0
+batch1-1305,seller_name,Chang-Cruz,Chang-Cruz,False,False,,5873.9
+batch1-1276,seller_name,"Butler, Tucker and Hernandez","Butler, Tucker Bnd Hernandez",True,True,mid,455.68
+batch1-1236,seller_name,Shah-Hancock,Shah-Hancock,False,False,,27515.95
+batch1-1165,seller_name,"Campbell, Mathis and Johnson","Campbell, MathBs and Johnson",True,True,mid,6640.07
+batch1-1202,seller_name,"Wright, Chung and Mason","Wright, Chung and Mason",False,False,,14737.18
+batch1-1155,seller_name,"Hudson, Hinton and Phillips","Hudson, HintoB and Phillips",True,True,mid,172.71
+batch1-1159,seller_name,Vargas-Hughes,Vargas-Hughes Ltd.,True,True,weak,117.04
+batch1-1315,seller_name,Ramos Inc,Meridian Supplies Inc.,True,True,strong,54704.84
+batch1-1200,seller_name,Coffey Ltd,Coffey Ltd,False,False,,53550.75
+batch1-1308,seller_name,Rasmussen Ltd,Rasmussen Limited,True,True,weak,293.4
+batch1-1253,seller_name,"Booth, Weber and Wall","Booth, WebBr and Wall",True,True,mid,17124.42
+batch1-1343,seller_name,Lowery-Pham,Lowery-Pham Ltd.,True,True,weak,66614.44
+batch1-1310,seller_name,Carpenter-Morales,CarpenteB-Morales,True,True,mid,70065.75
+batch1-1284,seller_name,Henson Group,Henson Group Ltd.,True,True,weak,203.41
+batch1-1169,seller_name,Rosario-Ross,Rosario-Ross,False,False,,4845.38
+batch1-1231,seller_name,"Sexton, Rivera and Pineda","Sexton, Rivera and Pineda",False,False,,188.09
+batch1-1220,seller_name,Stone-Waller,Meridian Supplies Inc.,True,True,strong,7052.49
+batch1-1157,seller_name,Rodriguez-Nichols,Rodriguez-Nichols,False,False,,255.31
+batch1-1174,seller_name,"Jimenez, Hicks and Bailey","Jimenez, Hicks and Bailey Ltd.",True,True,weak,450.54
+batch1-1204,seller_name,Guerra PLC,Meridian Supplies Inc.,True,True,strong,7098.43
+batch1-1347,seller_name,Price-Booker,Price-Dooker,True,True,mid,547.76
+batch1-1187,seller_name,"Shields, Copeland and Gallegos",Pinnacle Trading Ltd.,True,True,strong,153.97
+batch1-1333,seller_name,"Powell, Baker and Mills","Powell, Baker and Mills Ltd.",True,True,weak,6214.89
+batch1-1267,seller_name,"Farley, Hayes and Cooper","Farley, Hayes and Cooper",False,False,,913.45
+batch1-1289,seller_name,Foley-Alexander,Foley-Alexander,False,False,,1055.99
+batch1-1302,seller_name,"Andersen, Wilkinson and Robles","Andersen, Wilkinson and Robles",False,False,,1128.35
+batch1-1278,seller_name,Clark-Osborn,Clark-Osborn,False,False,,789.2
+batch1-1275,seller_name,"Mercer, Castro and Sanchez","Mercer, CastrB and Sanchez",True,True,mid,5536.89
+batch1-1223,seller_name,Gutierrez-Long,Gutierrez-Long,False,False,,712.45
+batch1-1291,seller_name,"Williams, May and Wilson","Williams, May and Wilson",False,False,,50.85
+batch1-1318,seller_name,Miles Ltd,Miles Ltd,False,False,,7425.0
+batch1-1156,seller_name,Thomas-Woods,ThomaB-Woods,True,True,mid,2529.57
+batch1-1288,seller_name,Murphy Inc,Meridian Supplies Inc.,True,True,strong,474.02
+batch1-1252,seller_name,Mclaughlin-Mendoza,MclaughlBn-Mendoza,True,True,mid,198.0
+batch1-1193,seller_name,Smith LLC,SmitB LLC,True,True,mid,11021.86
+batch1-1179,seller_name,Horne LLC,Horne LLC Ltd.,True,True,weak,162.35
+batch1-1259,seller_name,"Villa, Smith and Clark","Villa, SmitB and Clark",True,True,mid,397.29
+batch1-1239,seller_name,"Garcia, Anderson and Short","Garcia, Anderson and Short Ltd.",True,True,weak,1966.71
+batch1-1264,seller_name,Johnson-Cain,Meridian Supplies Inc.,True,True,strong,177.1
+batch1-1191,seller_name,"Scott, Lawrence and Solis","Scott, Lawrence and Solis",False,False,,3827.98
+batch1-1228,seller_name,Brown-Foster,Brown-Foster,False,False,,87.07
+batch1-1282,seller_name,Ferguson LLC,Ferguson LLC,False,False,,230.63
+batch1-1171,seller_name,"Williams, Stewart and Ward","Williams, Stewart and Ward Ltd.",True,True,weak,269.96
+batch1-1271,seller_name,"Johnson, Patterson and Tate","Johnson, PattBrson and Tate",True,True,mid,362.03
+batch1-1184,seller_name,Lyons LLC,Lyons LLC,False,False,,292.03
+batch1-1262,seller_name,Baird PLC,Pinnacle Trading Ltd.,True,True,strong,154.74
+batch1-1241,seller_name,Miller Group,Miller Group,False,False,,45653.41
+batch1-1290,seller_name,Vargas-York,Meridian Supplies Inc.,True,True,strong,1512.48
+batch1-1161,seller_name,Byrd Group,Byrd Broup,True,True,mid,3046.86
+batch1-1341,seller_name,Sanders-Evans,Meridian Supplies Inc.,True,True,strong,238.11
+batch1-1272,seller_name,Moore and Sons,Moore aBd Sons,True,True,mid,61568.5
+batch1-1265,seller_name,"Keller, Collins and Wells","Keller, CollBns and Wells",True,True,mid,63240.53
+batch1-1268,seller_name,Johnson-Evans,Johnson-Evans,False,False,,904.66
+batch1-1269,seller_name,"May, Jones and Diaz","May, Jones and Diaz Ltd.",True,True,weak,1116.62
+batch1-1300,seller_name,Drake Group,Drake Group Ltd.,True,True,weak,2953.35
+batch1-1173,seller_name,"Ellis, Hall and Lamb","Ellis, Hall and Lamb Ltd.",True,True,weak,29325.79
+batch1-1322,seller_name,Little PLC,Little PLC,False,False,,270.64
+batch1-1154,seller_name,"Williams, Chandler and Romero","Williams, ChanBler and Romero",True,True,mid,19.22
+batch1-1311,seller_name,"Ortiz, Alvarez and Davis",Meridian Supplies Inc.,True,True,strong,546.16
+batch1-1260,seller_name,Reynolds PLC,ReynoBds PLC,True,True,mid,362.42
+batch1-1222,seller_name,Barber LLC,Barber LLC Ltd.,True,True,weak,44262.48
+batch1-1162,seller_name,Frank-Guerrero,Frank-GBerrero,True,True,mid,5345.89
+batch1-1294,seller_name,"Gonzales, Rodgers and Sanchez",Meridian Supplies Inc.,True,True,strong,192.5
+batch1-1209,seller_name,Gray Inc,Gray Incorporated,True,True,weak,26591.16
+batch1-1277,seller_name,"Ryan, Carey and Gardner","Ryan, Carey and Gardner Ltd.",True,True,weak,461.26
+batch1-1286,seller_name,Hall Ltd,Hall Ltd,False,False,,59.32
+batch1-1317,seller_name,Sullivan-Burns,Sullivan-Burns,False,False,,478.68
+batch1-1210,seller_name,"Mullins, Scott and Mclaughlin","Mullins, Scott and Mclaughlin",False,False,,105.94
+batch1-1163,seller_name,Taylor-Davis,Taylor-Davis Ltd.,True,True,weak,4334.11
+batch1-1166,seller_name,Duran-Cole,Duran-Cole,False,False,,228.71
+batch1-1183,seller_name,Solis Group,Zenith Global Corp,True,True,strong,23454.63
+batch1-1285,seller_name,Roy and Sons,Roy and Sons Ltd.,True,True,weak,148.19
+batch1-1325,seller_name,Deleon and Sons,Deleon and Sons,False,False,,39935.77
+batch1-1208,seller_name,Foster-Fowler,Foster-Fowler,False,False,,6645.73
+batch1-1164,seller_name,"Gonzales, Kelly and Berry","Gonzales, KeBly and Berry",True,True,mid,44.0
+batch1-1296,seller_name,Parker LLC,Parker LLC Ltd.,True,True,weak,53572.82
+batch1-1332,seller_name,Miller-Terry,Miller-Terry Ltd.,True,True,weak,19709.8
+batch1-1331,seller_name,"Morgan, Moss and Bush","Morgan, Moss and Bush",False,False,,760.48
+batch1-1248,seller_name,"Crawford, Moore and Romero","Crawford, Moore and Romero Ltd.",True,True,weak,665.43
+batch1-1312,seller_name,Andrade Inc,AndraBe Inc,True,True,mid,1980.0
+batch1-1240,seller_name,Park PLC,Park PLC Ltd.,True,True,weak,522.61
+batch1-1235,seller_name,Ward-Buchanan,Ward-Buchanan,False,False,,20437.73
+batch1-1313,seller_name,Turner-Thompson,Zenith Global Corp,True,True,strong,1113.15
+batch1-1192,seller_name,Espinoza Group,EspinoBa Group,True,True,mid,295.55
+batch1-1316,seller_name,Miller-Williams,Zenith Global Corp,True,True,strong,179.07
+batch1-1350,seller_name,"Salinas, Dominguez and Hamilton","Salinas, DomingBez and Hamilton",True,True,mid,222.18
+batch1-1180,seller_name,Frederick-Norton,Frederick-Norton,False,False,,659.67
+batch1-1227,seller_name,"Franklin, Buchanan and Reed","Franklin, Buchanan and Reed",False,False,,82.49
+batch1-1326,seller_name,"Zhang, Hobbs and Bean","Zhang, HobDs and Bean",True,True,mid,228.44
+batch1-1237,seller_name,"Clark, Moran and Johnson","Clark, Moran Bnd Johnson",True,True,mid,454.72
+batch1-1221,seller_name,Gonzales and Sons,Gonzales and Sons,False,False,,35342.91
+batch1-1219,seller_name,Smith LLC,Smith LLC Ltd.,True,True,weak,454.74
+batch1-1170,seller_name,Gomez-Schwartz,Meridian Supplies Inc.,True,True,strong,92902.69
+batch1-1295,seller_name,King-Byrd,King-Byrd Ltd.,True,True,weak,182.15
+batch1-1323,seller_name,Christensen PLC,Meridian Supplies Inc.,True,True,strong,317.24
+batch1-1175,seller_name,"Silva, Moreno and Henry","Silva, MoreBo and Henry",True,True,mid,11788.23
+batch1-1353,seller_name,Stanton PLC,Stanton PLC Ltd.,True,True,weak,47.37
+batch1-1430,seller_name,"Wright, Martin and Carter","Wright, Martin and Carter",False,False,,16179.9
+batch1-1437,seller_name,"Dixon, Allison and Burton","Dixon, Allison and Burton",False,False,,11032.05
+batch1-1427,seller_name,Martinez LLC,Martinez LLC Ltd.,True,True,weak,646.8
+batch1-1475,seller_name,Harris-Scott,Harris-Scott Ltd.,True,True,weak,6935.91
+batch1-1478,seller_name,"Barton, Wright and Peters",Pinnacle Trading Ltd.,True,True,strong,659.98
+batch1-1418,seller_name,"Rogers, James and Hansen","Rogers, James and Hansen Ltd.",True,True,weak,26.38
+batch1-1428,seller_name,Johnson-Henderson,Meridian Supplies Inc.,True,True,strong,307.89
+batch1-1441,seller_name,Galvan and Sons,Pinnacle Trading Ltd.,True,True,strong,282.59
+batch1-1470,seller_name,Harris-Wright,Harris-Wright,False,False,,400.4
+batch1-1415,seller_name,Cobb-Burns,Cobb-Burns Ltd.,True,True,weak,115.68
+batch1-1436,seller_name,Grant and Sons,Grant and Sons,False,False,,21.52
+batch1-1464,seller_name,"Williams, Norman and Caldwell","Williams, Norman and Caldwell",False,False,,83.89
+batch1-1419,seller_name,Thomas Inc,ThomBs Inc,True,True,mid,42.68
+batch1-1483,seller_name,Love Ltd,Love Limited,True,True,weak,188.31
+batch1-1484,seller_name,Smith-Guerrero,Smith-Guerrero Ltd.,True,True,weak,7096.28
+batch1-1485,seller_name,Thompson Inc,ThompBon Inc,True,True,mid,61.42
+batch1-1454,seller_name,"Johnson, Miller and Stanley",Meridian Supplies Inc.,True,True,strong,26.75
+batch1-1360,seller_name,"Johnston, Byrd and Hendrix",Zenith Global Corp,True,True,strong,559.89
+batch1-1377,seller_name,Kaufman-Hopkins,Kaufman-Bopkins,True,True,mid,5256.04
+batch1-1373,seller_name,Watkins Inc,Watkins Incorporated,True,True,weak,43523.4
+batch1-1422,seller_name,Sanchez Inc,Sanchez Inc,False,False,,130.84
+batch1-1479,seller_name,Juarez PLC,Juarez PLC,False,False,,193.02
+batch1-1354,seller_name,"Stewart, Howard and Williams","Stewart, HowarB and Williams",True,True,mid,4268.89
+batch1-1390,seller_name,Huerta and Sons,Huerta and Sons,False,False,,16.5
+batch1-1455,seller_name,Kaufman-Wyatt,Kaufman-Wyatt,False,False,,797.23
+batch1-1445,seller_name,Deleon Ltd,Meridian Supplies Inc.,True,True,strong,287.28
+batch1-1368,seller_name,Roach Group,Roach Group,False,False,,1234.2
+batch1-1401,seller_name,Matthews-Bailey,Meridian Supplies Inc.,True,True,strong,4356.0
+batch1-1481,seller_name,"Miller, Wright and Clark",Zenith Global Corp,True,True,strong,75.57
+batch1-1420,seller_name,Mcdowell PLC,Mcdowell PLC,False,False,,43.98
+batch1-1488,seller_name,Freeman and Sons,Freeman Bnd Sons,True,True,mid,129.53
+batch1-1462,seller_name,Anderson-Bryant,Meridian Supplies Inc.,True,True,strong,39000.6
+batch1-1465,seller_name,Hayes and Sons,Hayes and Sons,False,False,,176.0
+batch1-1463,seller_name,"Dixon, Trujillo and Evans","Dixon, Trujillo and Evans",False,False,,20601.2
+batch1-1366,seller_name,Kemp and Sons,Kemp aBd Sons,True,True,mid,7933.79
+batch1-1489,seller_name,Robbins Inc,RobbiBs Inc,True,True,mid,34397.78
+batch1-1394,seller_name,"Hernandez, Coleman and Alvarado","Hernandez, Coleman and Alvarado",False,False,,568.49
+batch1-1358,seller_name,Adams-Johnson,Adams-Johnson Ltd.,True,True,weak,2349.03
+batch1-1407,seller_name,"Kramer, Harris and Martinez","Kramer, HarriB and Martinez",True,True,mid,428.83
+batch1-1432,seller_name,Ramos Group,Ramos Group Ltd.,True,True,weak,2823.64
+batch1-1486,seller_name,Harris-Green,Harris-Green,False,False,,38086.73
+batch1-1449,seller_name,Jones-Frazier,Jones-Frazier Ltd.,True,True,weak,270.94
+batch1-1416,seller_name,Ramos-Holt,Meridian Supplies Inc.,True,True,strong,8389.96
+batch1-1423,seller_name,Rivera Group,Rivera Group Ltd.,True,True,weak,9767.56
+batch1-1382,seller_name,"Cox, Collins and Fisher","Cox, Collins and Fisher Ltd.",True,True,weak,471.35
+batch1-1398,seller_name,Harrison-Pierce,Meridian Supplies Inc.,True,True,strong,329.91
+batch1-1367,seller_name,Webb-Alexander,Webb-Alexander,False,False,,2750.0
+batch1-1365,seller_name,"Edwards, Harris and Brown",Meridian Supplies Inc.,True,True,strong,1474.0
+batch1-1409,seller_name,"Davis, Jones and Smith",Pinnacle Trading Ltd.,True,True,strong,142.02
+batch1-1425,seller_name,West-Anderson,West-Anderson Ltd.,True,True,weak,58507.0
+batch1-1450,seller_name,Miller-Jackson,Miller-Jackson,False,False,,386.11
+batch1-1433,seller_name,Martin and Sons,Martin Bnd Sons,True,True,mid,4729.96
+batch1-1466,seller_name,Jones Ltd,Meridian Supplies Inc.,True,True,strong,661.64
+batch1-1378,seller_name,Barrett-Smith,Barrett-Smith,False,False,,271.12
+batch1-1370,seller_name,Branch LLC,Branch LLC Ltd.,True,True,weak,480.36
+batch1-1386,seller_name,Mitchell-Gibbs,MitcheBl-Gibbs,True,True,mid,280.5
+batch1-1439,seller_name,Thompson-Webster,Zenith Global Corp,True,True,strong,2463.78
+batch1-1406,seller_name,Jacobs Group,Jacobs Group,False,False,,74.76
+batch1-1448,seller_name,Solis-Grimes,Pinnacle Trading Ltd.,True,True,strong,147.13
+batch1-1480,seller_name,Hayes-Mcdonald,Meridian Supplies Inc.,True,True,strong,9556.58
+batch1-1457,seller_name,Mitchell Ltd,Mitchell Ltd,False,False,,66.0
+batch1-1402,seller_name,Price and Sons,Pinnacle Trading Ltd.,True,True,strong,56.1
+batch1-1417,seller_name,"Potts, Gray and Tucker","Potts, Gray and Tucker Ltd.",True,True,weak,58.07
+batch1-1361,seller_name,Martin Inc,Meridian Supplies Inc.,True,True,strong,396.0
+batch1-1388,seller_name,Green Ltd,Green Limited,True,True,weak,42402.27
+batch1-1443,seller_name,Blake LLC,Meridian Supplies Inc.,True,True,strong,493.83
+batch1-1369,seller_name,Johnson-Higgins,Johnson-Higgins Ltd.,True,True,weak,4651.38
+batch1-1444,seller_name,"Perez, Pace and Bailey","Perez, Pace and Bailey Ltd.",True,True,weak,835.99
+batch1-1456,seller_name,"Waller, Williams and Brown",Meridian Supplies Inc.,True,True,strong,3340.78
+batch1-1381,seller_name,Forbes LLC,Forbes LLC Ltd.,True,True,weak,538.67
+batch1-1355,seller_name,"Morrison, Hernandez and Hayes","Morrison, HernBndez and Hayes",True,True,mid,8134.09
+batch1-1400,seller_name,"Williams, Moore and Wang","Williams, MoBre and Wang",True,True,mid,555.37
+batch1-1383,seller_name,"Rodriguez, Morales and Rogers","Rodriguez, Morales and Rogers",False,False,,37.55
+batch1-1473,seller_name,"Stone, Lopez and Harding","Stone, Lopez and Harding Ltd.",True,True,weak,102.3
+batch1-1477,seller_name,Dickerson-Burgess,Meridian Supplies Inc.,True,True,strong,428.35
+batch1-1438,seller_name,"Cox, Bell and Rodriguez","Cox, Bell anB Rodriguez",True,True,mid,272.65
+batch1-1429,seller_name,Byrd PLC,ByrB PLC,True,True,mid,314.62
+batch1-1421,seller_name,Rosales-Perry,Pinnacle Trading Ltd.,True,True,strong,197.96
+batch1-1446,seller_name,"Chapman, Kim and Green","Chapman, Kim and Green Ltd.",True,True,weak,212.09
+batch1-1452,seller_name,Escobar PLC,Escobar PLC Ltd.,True,True,weak,29726.4
+batch1-1460,seller_name,Nelson Ltd,Meridian Supplies Inc.,True,True,strong,2804.66
+batch1-1410,seller_name,Heath-Ballard,Heath-Ballard,False,False,,205.81
+batch1-1469,seller_name,Wang-Tran,Meridian Supplies Inc.,True,True,strong,1129.04
+batch1-1387,seller_name,Taylor Group,Taylor Group Ltd.,True,True,weak,159.95
+batch1-1458,seller_name,"Stewart, Arias and Nguyen","Stewart, Arias and Nguyen",False,False,,5322.08
+batch1-1451,seller_name,Webb-Short,Webb-Bhort,True,True,mid,1319.96
+batch1-1482,seller_name,Thompson-Smith,Meridian Supplies Inc.,True,True,strong,35563.37
+batch1-1357,seller_name,"Mcgee, Butler and Zuniga","Mcgee, Butler and Zuniga",False,False,,552.19
+batch1-1392,seller_name,Henderson-Diaz,Henderson-Diaz,False,False,,3002.98
+batch1-1408,seller_name,Keller-Hahn,Pinnacle Trading Ltd.,True,True,strong,81.33
+batch1-1453,seller_name,Meyer Inc,Meyer Inc,False,False,,365.2
+batch1-1411,seller_name,"Hernandez, Green and Lloyd",Pinnacle Trading Ltd.,True,True,strong,166.91
+batch1-1461,seller_name,Johnson LLC,Zenith Global Corp,True,True,strong,833.7
+batch1-1405,seller_name,Bridges Inc,Meridian Supplies Inc.,True,True,strong,1330.97
+batch1-1431,seller_name,Lewis and Sons,Lewis and Sons,False,False,,13615.89
+batch1-1434,seller_name,"Jones, Carroll and Carpenter","Jones, Carroll and Carpenter",False,False,,631.31
+batch1-1356,seller_name,Watson-White,Watson-White,False,False,,7986.35
+batch1-1467,seller_name,Gregory-Ramos,Zenith Global Corp,True,True,strong,691.06
+batch1-1413,seller_name,"Contreras, Hunter and Cameron",Zenith Global Corp,True,True,strong,27657.15
+batch1-1372,seller_name,Mccall-Walker,Pinnacle Trading Ltd.,True,True,strong,879.73
+batch1-1442,seller_name,Hanson LLC,Hanson LLC,False,False,,5823.92
+batch1-1468,seller_name,Smith-Cook,Smith-Cook,False,False,,2259.1
+batch1-1414,seller_name,Vincent Ltd,Vincent Ltd,False,False,,42900.0
+batch1-1447,seller_name,"Nelson, Bird and Mendoza","Nelson, Bird and Mendoza Ltd.",True,True,weak,3695.93
+batch1-1362,seller_name,"Ortega, Carey and Morris","Ortega, CareB and Morris",True,True,mid,1124.0
+batch1-1363,seller_name,Herrera-Mills,Herrera-Mills Ltd.,True,True,weak,2378.99
+batch1-1385,seller_name,Jones Ltd,Jones Ltd,False,False,,44.0
+batch1-1379,seller_name,Clark Group,Clark Group Ltd.,True,True,weak,10898.16
+batch1-1435,seller_name,Bass-Petersen,Bass-Petersen,False,False,,28.24
+batch1-1474,seller_name,"White, Brown and Martinez","White, Brown and Martinez",False,False,,442.93
+batch1-1364,seller_name,"Whitaker, Gray and Green","Whitaker, Gray and Green Ltd.",True,True,weak,94435.43
+batch1-1424,seller_name,Thomas and Sons,Thomas and Sons,False,False,,106081.93
+batch1-1487,seller_name,Johnson-Franco,Zenith Global Corp,True,True,strong,5701.08
+batch1-1393,seller_name,Parker Group,Parker Group,False,False,,538.0
+batch1-1399,seller_name,"Cooper, Cox and Hernandez","Cooper, Cox and Hernandez",False,False,,411.18
+batch1-1384,seller_name,"Wolf, Smith and Shaffer","Wolf, Smith and Shaffer Ltd.",True,True,weak,1704.6
+batch1-1459,seller_name,"Brown, York and Irwin","Brown, York and Irwin Ltd.",True,True,weak,75351.02
+batch1-1374,seller_name,Stanton Group,Zenith Global Corp,True,True,strong,167.16
+batch1-1376,seller_name,"Lawrence, Smith and Mccormick","Lawrence, Smith and Mccormick",False,False,,237.36
+batch1-1403,seller_name,Barker-Fletcher,Barker-Fletcher Ltd.,True,True,weak,219.89
+batch1-1389,seller_name,Taylor and Sons,Taylor and Sons,False,False,,274.13
+batch1-1396,seller_name,Schultz-Garcia,SchultB-Garcia,True,True,mid,29543.09
+batch1-1395,seller_name,"Clark, Wolfe and Kelly","Clark, Wolfe and Kelly",False,False,,23917.86
+batch1-1397,seller_name,Sawyer-Stone,Sawyer-Stone,False,False,,2766.45
+batch1-1472,seller_name,"Baker, Pearson and Perry","Baker, Pearson and Perry Ltd.",True,True,weak,440.0
+batch1-1380,seller_name,Campbell-Schmidt,Campbell-Schmidt Ltd.,True,True,weak,2298.03
+batch1-1426,seller_name,Mack-Clark,Mack-Clark,False,False,,2553.02
+batch1-1371,seller_name,Moore PLC,Moore PLC Ltd.,True,True,weak,1473.67
+batch1-1476,seller_name,"Campbell, Hernandez and Blankenship","Campbell, Hernandez and Blankenship",False,False,,296.02
+batch1-1471,seller_name,Moore Ltd,Moore Ltd,False,False,,104.06
+batch1-1404,seller_name,Fields-Ward,Meridian Supplies Inc.,True,True,strong,3057.69
+batch1-1359,seller_name,Navarro Inc,Navarro Inc,False,False,,410.56
+batch1-1391,seller_name,"Mitchell, Acevedo and Wright","Mitchell, Acevedo and Wright Ltd.",True,True,weak,4420.79
+batch1-1375,seller_name,"Thomas, Gonzalez and Bennett","Thomas, Gonzalez and Bennett Ltd.",True,True,weak,21089.9
+batch1-1412,seller_name,"Smith, Campbell and Gonzales","Smith, Campbell and Gonzales",False,False,,306.51
+batch1-1440,seller_name,"Burns, Figueroa and Hawkins","Burns, Figueroa and Hawkins",False,False,,149105.43

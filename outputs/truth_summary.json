@@ -1,0 +1,63 @@
+{
+  "seed": 42,
+  "defect_rate": 0.7,
+  "n_cases": 1413,
+  "n_target": 989,
+  "conditions": {
+    "amount_0.1": {
+      "defects": 966,
+      "vanished": 23,
+      "n": 1413
+    },
+    "amount_1": {
+      "defects": 989,
+      "vanished": 0,
+      "n": 1413
+    },
+    "amount_10": {
+      "defects": 989,
+      "vanished": 0,
+      "n": 1413
+    },
+    "amount_50": {
+      "defects": 989,
+      "vanished": 0,
+      "n": 1413
+    },
+    "date_1": {
+      "defects": 989,
+      "vanished": 0,
+      "n": 1413
+    },
+    "date_3": {
+      "defects": 989,
+      "vanished": 0,
+      "n": 1413
+    },
+    "date_7": {
+      "defects": 989,
+      "vanished": 0,
+      "n": 1413
+    },
+    "date_30": {
+      "defects": 989,
+      "vanished": 0,
+      "n": 1413
+    },
+    "name": {
+      "defects": 989,
+      "vanished": 0,
+      "n": 1413
+    }
+  },
+  "amount": {
+    "count": 1413.0,
+    "mean": 7844.66,
+    "std": 19257.11,
+    "min": 1.09,
+    "25%": 210.8,
+    "50%": 692.78,
+    "75%": 5013.8,
+    "max": 194521.7
+  }
+}

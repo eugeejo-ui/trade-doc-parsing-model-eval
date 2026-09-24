@@ -196,7 +196,16 @@ quantities, or dates.
 - Customer: banks handling letters of credit
   (under Korean foreign exchange law, securities firms may not handle
   payment or collection)
-- Deployment: bank internal servers, not external API calls
+
+- **Deployment: bank internal servers, not external API calls**
+
+  Since April 2026, SaaS services that have passed Financial Security Institute
+  evaluation have been permitted on internal business networks, but this is
+  limited to evaluated services and designated financial institutions.
+  Furthermore, as the BPI and Pronto cases illustrate, restrictions on exporting
+  sensitive data externally are in some cases set by institutions themselves,
+  independently of regulation.
+
 - Subject: parsing base models, not finished systems
 - Comparison: manual review (AS-IS) versus AI adoption (TO-BE)
 - Out of scope: replacing an existing solution where the task is already automated
